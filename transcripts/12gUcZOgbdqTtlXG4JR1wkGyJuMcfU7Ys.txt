@@ -1,0 +1,131 @@
+# Tarik & Michel Bauwens: Intro Discussion
+
+Date: 
+Source video: Tarik & Michel Bauwens: Intro Discussion
+Drive: https://drive.google.com/file/d/12gUcZOgbdqTtlXG4JR1wkGyJuMcfU7Ys/view
+Duration: 00:25:38
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Briefly, in last session, we talk about the history of cache and we make a little bit introduction about the anomie and isonomy. And because of some translation error, I wanna make a little brief about that. Basically, we mentioned the CIS states in the Likia and the first minted coin in the Lydia and how was Eonian states was managing their self with two layers. And one is inside of the CIS state and the other one is at the capital. And the city states, every citizen had the right
+
+[00:31] to speak and heard. And they were sending delegates to capital. And mister Murat was from her his perspective, it was about in every chaotic situation, it was a anomie. And this was a his anomie was a result of this anomie because people need to survive, and they need to continue and sustain to their living together.
+
+[00:55] And, from our perspective, of course, it's a little bit, more different. And, I wanna ask you directly about this. For the izonomy narrative for the the scale of this izonomy narrative with the blockchain tools, we believe to we can use Ethereum localism or more deeper and further cosmolocalism
+
+[01:18] movements. And with this way, we can make sustainable ecosystem inside of these locals and commons. And in this way, it will be self sustainable. And you have so much research and work about this. And maybe you can little bit talk, start with the isonami narratives and we can bring that to cosmologicalism and commons. Right.
+
+[01:40] So, okay. I don't have a detailed history of isonamia in the region. So I'll just give my maybe superficial understanding, but that's the way I understand it from reading Caritani's book. So he's basically making the argument that that democracy was the result of a conflict between the classes in
+
+[02:02] in Continental Greece as it were. Right? So you have the first time in history, and this is also Michael Hudson in his books, you have a private class taking power. And they're lending money to the poor, and they're enslaving their own population. And that creates a revolt that which creates the police. So the police has all democracy has always been this contradictory
+
+[02:28] unity between oligarchy and equality. Political equality, but property inequality. And that's the you know, we still have that problem. Right? Democracy doesn't really function very well at this moment because money is much stronger than any any vote, and too many in many ways can determine the vote.
+
+[02:51] And, he explains isonomia in Ionia in a different way. So it's it's exactly the people were fleeing these conflicts that were going to install themselves, in Ionia, and they had more or less equal land at their disposal. Right? And so that's is a completely different dynamic because now I have to work with you and with you and with you, but you have no power over me.
+
+[03:16] And so then you come to common rules. Right? And so there is an argument to be made that Web three is very similar and and is dynamic. Not because everybody is, absolutely equal, but you could say that you have capital and capital needs coders and coders need capital. Right? So there's a kind of situation
+
+[03:40] of mutual dependence and the coders can go and the coders can go where they want. And so that means that like, DOS has to be very isonomic. They have to be very attractive, and they have to give power to the coders and even to non coders increasingly. Right? And so I know that you're critical about quadratic voting, and we can go into that. But I I would still say that compared to oligarchic voting,
+
+[04:08] it's a huge advance. Right? So quadratic voting is especially designed to diminish oligarchic power. And so I think we should be thinking within the Web three point sphere about anti oligarchic protocols. And this is maybe where I'm different from classic libertarians. I believe that any competition for any scarce good
+
+[04:31] creates oligarchy. So any in any game that is iterative, the person that wins the first row round has already more chances to win the second round. And so whether it's capital or land or whatever it is that you're competing for, you get oligarchy. It's know, the power law is just inevitable. And if you don't do anything to mitigate it,
+
+[04:55] then you have, like, this kind of oligarchic tyranny. And so, you know, you think about like free medieval cities with the guilds in the Middle Ages in Europe. They had many, many different methods to keep oligarchy in check. Because if you live in a fortified city in the Middle Ages and your own people go hungry,
+
+[05:18] they'll burn down the castle. As simple as that. So you want to keep your own people happy. And for example, an example would be in some Italian cities, the it's the city who bought the grain until 05:00 at a fixed price, and the free market only started in the evenings for the surplus. Right? So they kept the merchant dynamics in check.
+
+[05:44] The I read, for example, I also find it very interesting that the mayor of Dubrovnik, as soon as he was elected, he was imprisoned. He couldn't leave his villa so that the people could see who was wanted to talk to him. Right? Or you could check out, like, the elections in Venice. They had, like, 15 rounds of different elections so that it couldn't be gamed at all. Yeah. Prevent the corruption. Yeah. Yeah.
+
+[06:07] So let me say a second thing and then give back to you. So I think the challenge that we are facing, and it's it's not new, but it's much more stronger today because of Web three is what's the balance between territorial communities and non territorial communities? And I should stress that,
+
+[06:30] you know, this is not a it's not necessarily something entirely new because, you know, the pope was the head of a non territorial community of believers. The caliph was a head of a non territorial community of believers. Right? So it's so the so that's the idea of the cosmopolies that exists, coexists always with territorial
+
+[06:56] entities. And I think the challenge today, and that is, I think, what we're trying to do is that we have this technology which facilitates the create the creation of cosmopolises. Right? So we have a geographic level of civilization, which we need. We can you know, we have to feed ourselves. We need energy. And then we have a a post national layer.
+
+[07:21] And it's different because we can now, you know, from the point of view so I think that what peer to peer means and is that it's trans local self organization. So we can have as a you know, just in your imagination, if you have a regenerative village or an organic food collective
+
+[07:44] or, you know, some federation of organic farmers, Okay? You don't have to organize territorially anymore. Right? You can you can start thinking, can we create a federation of regenerative projects? And you can start creating your own nation or whatever you want to call it. And it's not entirely new, but it's so cheap and easy to do that this becomes a new reality.
+
+[08:12] That we now have, the way I see geopolitics today is this competition between the Western conflict based democratic, quote, unquote, maritime based system. And we have the China, Russia, and Global South BRICS Alliance, which is, you know, neo sovereignist. They want to reinstate
+
+[08:36] the nation state and and mix it with civilizational identities. Right? The civilization state idea. So they are already posed with failing themselves in another way. Their post was failing in the sense that they want to reinject the nation with historical identity too because I think anomie is a real issue. Like, are disintegrating as a civilization.
+
+[09:01] And it's, you know, one of the ways they think they can do this. And okay. Let me just end with my critique of what I call the exit strategy of Web three. So there there is an idea that, you know, if you have Bitcoin, you can arbitrage territory. Right? So if Portugal collapses, no problem. I'm going to Turkey. If Turkey collapses, no problem. I'm going to Taiwan.
+
+[09:30] And I don't think that's a realistic strategy. I think when push comes to shove, when people get hungry, they if you're if they see you as a parasite, they'll come after you. Right? And so this is that's why I talk about cosmologicalism and maybe I can talk about it later as a real as a as the only realistic strategy, which is about aligning the local and the and the universal level in a new way.
+
+[09:58] And, you know, where isonomia comes in is we always have the issue of how do we scale. And empire is a way to scale. Right? It's violent, but once it wins, it creates peace for five hundred years within its own sphere. You know, there was never so much business and trade than after the victory of the Mongols. Like, that actually recreated the Silk Road. Right?
+
+[10:25] And it's a way to scale and paradoxically create peace inside. It lasts for a while and then it collapses and then you you have chaos. And now we have a real big question. So how do we scale when we have nuclear weapons? So it becomes very hard to have warfare that you can win. So how do we scale? And maybe we don't have to scale through Empire.
+
+[10:52] Maybe we can scale Cosmo locally. And that's kind of the question maybe we can discuss tomorrow or today. Up to you. Actually, sir, as of three core talks, when we talk at the dinner, you mentioned about Northern Thailand and Southern Thailand. If it's not so special or hidden knowledge, maybe we can share. Is a way of scale, for example? We can use our minds. It's a funny story. So Northern Thailand where I live was Burmese for three centuries
+
+[11:21] and had special another Buddhism, another Sangha, another alphabet, matrilineer social structures. And so when the Siam became a nation state, you know, he could no longer he was no longer happy with, like, feudal relationship. He wanted to unify. And so this is a funny story is that the king of Thailand send out
+
+[11:47] people to teach the local kings to play bridge. And so very clever. They all got in debt in in debt to the national king. And that's how they got integrated. You know? They basically lost their power through gambling, which is better than war. Yeah. And this is a way, actually and it's like a short term history if we compare. But there is a dilemma. For example, when you mentioned it's going again nationalism,
+
+[12:16] are trying to push with BRICS and other stuffs in China, in Russia, etcetera. But the history is always repeating with some social interactions or the technological interactions or some anomie situations is bring us back again. Like seventeenth century, we we had a French Revolution and this create nationalism movements.
+
+[12:38] This was the end of the the the most of the states, and it's changed all the geography in the world. And now we are going there again. But there is a maybe problem about the the the our rulers and our general world rulers here. And maybe we can discover the find a way to with the blockchain tools, we can give the power back to commons in the in like a reality
+
+[13:01] with the weighted voting or with the pluralistic way or the some of other aggregates. And do you do you believe we can choose and the the solution I can say something about that. So so basically, most people see history as, you know, markets and states replacing indigenous tribal structures. And they they only see market and state. And especially under capitalism,
+
+[13:26] you know, it's this perpetual discussion about do we need more state? Do we need more market? Liberals and socialists, basically. Right? And there's a there's a historian called Polanyi. The great transformation is a fantastic book. It's the history of capitalism starting from the late seventeenth century in in in England. And he calls it a lib lab dynamic. So every thirty years,
+
+[13:49] there's a revolt of the people when one side goes too far. So let's say you got so much in the free market that you, you know, destroy the social fabric, then there will be an attempt to take over the state to reregulate the market. And then it gets so bureaucratized after thirty years and so overregulated
+
+[14:13] that there'll be a revolt against regulation, and then they try to take over the state and the opposite happens. So you can say, you know, after '45, it was highly regulated. And then 7380, Reagan Tatchy gets deregulated. That happened six times since the late seventeenth century. But what we forget is that there is another institution, the commons.
+
+[14:37] And and so okay. Indigenous people, their primary way of value exchange is called communal shareholding or gift economy. They're different. So communal shareholding is when you exchange with the whole. You don't get anything back individually, but you you strengthen the the common infrastructures. And the gift economy is basically a way of keeping peace.
+
+[15:01] You know, once you are sedentary and you cannot flee conflict, then you start gifting to make friendly neighbors. And then your neighbors feel indebted to you and then they give you something back. Right? So that's the way the tribal people mostly exchanges surpluses. Once you get in class based societies in in civilization,
+
+[15:25] right, there is market and state, but there's always commons. I was just reading about Turkey and you had the Hema and you had the Waf Waf, you know, so that there there were commons institutions that were entirely respected by the Ottoman Empire. And actually, was just reading one book where where it's very clear. So you have the military expansion.
+
+[15:49] But as soon as they win, then they they send the Aki and the Dervish Brotherhoods to repopulate the villages and to create a stable social structure. You can see that even empire takes into account the commons. It's like the social security system for local people. You know, when there's hunger,
+
+[16:13] they have their local things that they have in common to survive. And capitalism destroys that completely or nearly completely under the idea that the state will regulate the markets. And that's kind of worked, you know, in in this lib lab way until 1980, and then capital becomes transnational. And so we have a problem. So we have nation states that still exist,
+
+[16:40] but they can't really exchange they can't really change anything. And so I think this is a lot you know, people try to critique the crisis of democracy and say, doesn't work because x y z. But it also doesn't work because it has no power. No matter what you would do nationally, if you don't have the levers of power transnationally, you can't really change anything. Right? So here's my proposal. And I think Web three can play a role in that.
+
+[17:09] Is that okay. There's three options. Should we inflate the state again? Like, do you want a a world state? I don't think that's a good idea. I mean, look already now how, you know, the EU is so problematic and so removed from the people. Right? It's it has a crisis of legitimacy already. Or and this is a I I'm sure some people here would believe that if you're libertarian, we inflate the market.
+
+[17:38] We believe the market will self regulate on a global scale. I I don't believe in that either. You know, we just don't see any record of that ever working. But what we can do also and that's it's inflate the commons. Right? It's a and so if you look at very briefly the history of the commons, it starts as physical commons. So people
+
+[18:01] manage collectively, you know, the pasture, the mountain flanks, the the rivers. Under capitalism, those physical commons are privatized. But then you have social commons. What does the working class do when it's obliged to flee the farms and and go and live in the cities where they die when they're 35? They create social commons. Social security,
+
+[18:25] fraternities, guilds, social insurance. That's all inventions of mutualizing, commonizing life risk. And that gets statified. Right? So it's also in a way destroyed as a commons. What we invented, I think in '93 is digital commons. So, the browser and the web created a massive wave of knowledge sharing.
+
+[18:54] I heard there are, 18,000,000 free software developers in India alone. Wow. I I don't know if it's correct, but I I I you know, it wasn't on YouTube video. Anyway, so so that's a massive, massive social change. And it's weak and it recreated the consciousness of the commons in many people. Right? That's why we talk about the commons because we didn't talk about it twenty years ago.
+
+[19:21] And and what we are creating in Web three are global commons. So when I talk about Cosmo local production, I'm kind of advocating for a rule that says everything that's heavy should be local and everything that's light should be global and shared. So I'm not just talking about like localizing and so, you know, let's go back to the farm,
+
+[19:47] and live like the image. That's not what I'm saying. I'm saying we can have very advanced distributed manufacturing technology to do the to do the to do produce locally on demand. And there's very profound ecological reasons to do that. So first of all, we spend three times more transporting than producing. So anything here that's like
+
+[20:10] one third production and three and the rest is, you know, just moving it around. Right? A tennis ball has like 400 different things in it and it travels 40,000 miles before it gets on the playing field. It's insane. And it's insane, and it's not sustainable. And it's already you know, we're deglobalizing already. Right?
+
+[20:34] So we are now in a period of a civilizational inter cycle in which I believe the market and state system itself is at stake. And that's why I talk about post civilization or fourth civilization because civilization is a few things. One is relation between town and country.
+
+[20:57] Get a surplus from the land to have specialized cities. It's also a mastery of nature, a particular view of mastering nature. And its social division of labor and all of that. Right? I think some of these things we need to rethink completely. So like we we are building
+
+[21:21] a civium that's from Jordan Hall. We can build global communities that are essentially trans local. So that's different from the town country. Right? We look at what we're doing here. We have people from the whole world learning together very intensively, and we are also online. So in Chiang Mai last year, we had Chiang
+
+[21:48] Mai Archipelago, 12 pop up villages, few thousand people, 25 events per day for five weeks in a row. But who so cities even cities can't do that. Right? So that's so I believe that we are entering a period of dislocation,
+
+[22:11] of risk risk very risky supply chains. And there will be a push more and more for people to say, how can I be safe? And one answer is local. Like, where does my food come from? Where does the energy come from? Do they do I have access to renewable energy or not? You know, think about islands like the Canary Islands. I don't know Turkey, but in Canary Islands, 80% of their food comes from abroad.
+
+[22:38] Like, the moment the supply chain gets disrupted, what what are they going to do? Right? So so that's the that's the local part. But the cosmic part is to be connected to the knowledge from all the people doing the same thing in the whole world and learning from each other fast. Because I think the unraveling will be fast. But the the chance we have now, we are I I read reports that we learn eight times faster than twenty years ago.
+
+[23:07] So think about the media. Right? How long it takes for a medium to have like 100,000,000 people? I I forgot the details, but you can you can the mobile phone took so long. Charge GTP took like three months. Right? Or the capacity for I know this is not a good example. IEDs, explosive devices. Like it took the Taliban eighteen months, but now it's like a week.
+
+[23:32] If you wanna start a guerrilla somewhere, in a week you know how to do it. So the our capacity for learning through the networks has dramatically increased. That's also a good thing because this is, I think, how we are will Cosmo locally survive. I hope I didn't talk too long, but okay. I wanted to have the logic of my, yeah, of my thinking a bit clear.
+
+[23:57] Thank you for your contribution. And actually tomorrow, we have another session, actually three session in a row with you every day, and we will go more deeply to web three cause monocolism. And thank you again. And thank you, sir, for your contribution too. And now, maybe I can get up like that. And we have another event with five minutes. We can do, like, a For a QA session, we can make yeah.
+
+[24:22] Yeah. And if if there any question Maybe we can do that after the Michelle's cosmos cosmologicalism session tomorrow. Yeah. It will be more So just to give you some idea of the session. So tomorrow,
+
+[24:45] I will focus on the macro historians. So what can we learn from, you know, reading Spengler, Toynbee, Sorokin, Teilhard de Chardin, people like that. That will be the first session. The say the second session will be how do transitions work? What what do we know from past civilization transitions? You know, what kind of processes? And and so how can we navigate
+
+[25:11] civilization into cycle? And then the third will be more like interactive, you know, like discussion amongst each other on how we see, like, scenarios for the future and how Web three can play into that. Thank you so much. Maybe we can give a five minute little small brief and Errol can continue. Thank you, sir. Yeah. Thank you, Murat.
