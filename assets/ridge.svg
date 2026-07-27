@@ -1,9 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 225" preserveAspectRatio="xMidYMid slice">
   <defs><linearGradient id="sg" x1="0" y1="0" x2="0" y2="1">
-    <stop offset="0" stop-color="#0e2a4d"/><stop offset="1" stop-color="#050c16"/></linearGradient></defs>
+    <stop offset="0" stop-color="#0d2c4d"/><stop offset="1" stop-color="#071a2e"/></linearGradient></defs>
   <rect width="400" height="225" fill="url(#sg)"/>
-  <path fill="#123458" d="M0,180 L60,110 L110,150 L170,80 L230,150 L290,95 L350,160 L400,120 L400,225 L0,225 Z"/>
-  <path fill="#e6f7ff" opacity=".85" d="M170,80 L188,100 L176,97 L170,106 L163,97 L151,100 Z"/>
-  <path d="M0,192 Q100,186 200,192 T400,192" stroke="#8fe0ff" stroke-opacity=".35" fill="none"/>
-  <path d="M0,204 Q100,198 200,204 T400,204" stroke="#f04e9b" stroke-opacity=".22" fill="none"/>
+  <!-- Lycian cliffs + whitewashed Kas + bougainvillea -->
+  <path fill="#11365e" d="M0,160 L60,90 L120,140 L180,70 L250,150 L320,100 L400,150 L400,225 L0,225 Z"/>
+  <g fill="#f4fbff" opacity=".9">
+    <rect x="150" y="150" width="14" height="10"/><rect x="168" y="155" width="12" height="9"/>
+    <rect x="184" y="148" width="15" height="11"/><rect x="203" y="153" width="12" height="9"/>
+    <rect x="219" y="157" width="14" height="9"/>
+  </g>
+  <g fill="#e0449b" opacity=".85"><circle cx="155" cy="146" r="2.2"/><circle cx="189" cy="143" r="2.4"/><circle cx="226" cy="152" r="2"/><circle cx="320" cy="95" r="2.4"/></g>
+  <path d="M0,185 Q100,179 200,185 T400,185" stroke="#a8e6f5" stroke-opacity=".45" fill="none" stroke-width="1.5"/>
+  <path d="M0,200 Q100,194 200,200 T400,200" stroke="#38b6d9" stroke-opacity=".3" fill="none"/>
+  <circle cx="330" cy="55" r="14" fill="#e8834a" opacity=".35"/>
 </svg>
