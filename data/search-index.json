@@ -1,1 +1,3382 @@
-[]
+[
+ [
+  3,
+  0,
+  "Hello everyone, and I want to thank you so much also for inviting me, inviting us to this very open intellectual environment where everybody"
+ ],
+ [
+  3,
+  8,
+  " can speak their mind. I'm very happy to be here to be able to talk about things that I care a lot about, whole brain emulation. So my name "
+ ],
+ [
+  3,
+  17,
+  "is Christian, and I'm the co-founder of a whole brain emulation startup. We have two animal labs in the UK, and we're currently testing the "
+ ],
+ [
+  3,
+  25,
+  "feasibility of being"
+ ],
+ [
+  3,
+  26,
+  "able to construct a scalable, dynamical, whole-brain emulator of a mouse. And Kathleen, my co-founder, will be speaking a little bit more ab"
+ ],
+ [
+  3,
+  34,
+  "out that later today. Also, it's very nice to see a lot of familiar faces here as well. We'll be speaking a lot more about that later. But f"
+ ],
+ [
+  3,
+  42,
+  "irst, I want to talk to you about whole-brain emulation and personal identity, how evolution in physics maybe informs our sense of self and "
+ ],
+ [
+  3,
+  49,
+  "how we think about ourselves."
+ ],
+ [
+  3,
+  51,
+  "So as some of you probably know in this room already, whole brain emulation involves the emulation of the functional properties of a brain o"
+ ],
+ [
+  3,
+  58,
+  "n a different substrate. And when you discuss whole brain emulation with friends, with colleagues, with anyone, maybe some of you in the aud"
+ ],
+ [
+  3,
+  65,
+  "ience have also experienced this, you reach a kind of a local minimum of conversation, in any conversation related to this, where you have t"
+ ],
+ [
+  3,
+  72,
+  "o talk about how you conceptualize"
+ ],
+ [
+  3,
+  74,
+  "your personal identity. And depending on your answer of how you think about identity, how you view various different protocols towards getti"
+ ],
+ [
+  3,
+  82,
+  "ng to whole brain emulation, a destructive scan, a gradual process, all the different various protocols will drastically change depending on"
+ ],
+ [
+  3,
+  91,
+  " how you think about identity, and also how you view whole brain emulation itself. So that's why I want to talk a little bit about how we fo"
+ ],
+ [
+  3,
+  99,
+  "rm"
+ ],
+ [
+  3,
+  99,
+  "a way of thinking about ourselves, and also because to better defend ourselves, I think it fundamentally helps to understand what we are and"
+ ],
+ [
+  3,
+  106,
+  " what is our capacity to change ourselves to better defend ourselves. So what is personal identity in the first place? Well, in some fields,"
+ ],
+ [
+  3,
+  114,
+  " they've given it a formal definition. Identity is the conditions that underlie the existence of a system. And in some fields, like informat"
+ ],
+ [
+  3,
+  121,
+  "ion theory,"
+ ],
+ [
+  3,
+  122,
+  "statistical physics, and active inference, fields with considerable overlap with whole brain emulation and also each other, identity is ofte"
+ ],
+ [
+  3,
+  130,
+  "n considered isomorphic to the priors of the system, where the priors of the system are what shape and inform the generative model that then"
+ ],
+ [
+  3,
+  138,
+  " powers the actions of that system. But when we talk about identity, if I was to ask anybody here, what are you who are you you not going to"
+ ],
+ [
+  3,
+  146,
+  " answer I the conditions that underlie the existence of my system We going to be talking about it in psychological folk terms much like actu"
+ ],
+ [
+  3,
+  155,
+  "ally philosophers do talk about identity"
+ ],
+ [
+  3,
+  157,
+  "And philosophers have had some theories. So you have various here, the ego theory, a person's identity is their soul or non-physical mind, a"
+ ],
+ [
+  3,
+  165,
+  "nd this can also survive the death of the body, the psychological continuity theory, first articulated by John Locke, which is your ability "
+ ],
+ [
+  3,
+  173,
+  "to reflect on your memories and yourself, what happened to you previously. Kurzweil then generalized this into more general"
+ ],
+ [
+  3,
+  180,
+  "your psychological configuration. Materialism, you are the matter that you're made out of. So if somebody was to swap your brainstem there w"
+ ],
+ [
+  3,
+  190,
+  "ith another one, too bad. You've lost a part of yourself. The no-self view, Nietzsche, the eyes of grammatical fiction. Hume were composed o"
+ ],
+ [
+  3,
+  199,
+  "f like we have certain, we can experience the self, but we're not"
+ ],
+ [
+  3,
+  204,
+  "a clear whole and various other people that have talked about the no-self-view Buddha, Derek Poffitt, there is no survival because there was"
+ ],
+ [
+  3,
+  211,
+  " never any person to start with. And what I want you to take from this is that philosophers have had theories, but actually a lot of these t"
+ ],
+ [
+  3,
+  218,
+  "heories have remained quite stagnant in the face of new neuroscientific knowledge. They've not really updated themselves. Also, some of them"
+ ],
+ [
+  3,
+  225,
+  " contradict each other and"
+ ],
+ [
+  3,
+  226,
+  "they overlap. We have a few modern innovations that talk about a more transformative identity that can embrace change. And also, I mean, I w"
+ ],
+ [
+  3,
+  234,
+  "as very inspired by Puyo's talk earlier about the soulbound token paradigm and what he talked about. This is actually one of the ways of vie"
+ ],
+ [
+  3,
+  243,
+  "wing identity that can be quantified in the future and can actually be applied in the whole brain emulation"
+ ],
+ [
+  3,
+  249,
+  "potential future that we might have. But identity is strange. And neuroscience is what separates the map from the territory in terms of thin"
+ ],
+ [
+  3,
+  258,
+  "king about identity. We now know a lot of strange things about the self. So for example, if one example is patients that have a severed corp"
+ ],
+ [
+  3,
+  267,
+  "us callosum, this is usually severed because of severe epilepsy historically,"
+ ],
+ [
+  3,
+  272,
+  "you'll have the different hemispheres have different preferences. So one side will be reaching out for coffee, the other will literally stop"
+ ],
+ [
+  3,
+  281,
+  " it. The rationalist movement is also deeply familiar with the flawed mental heuristics that people live by and experience. One example is t"
+ ],
+ [
+  3,
+  289,
+  "hat the narratives that we actually spend about our lives frequently false and don live up to the actual lived experience And much much more"
+ ],
+ [
+  3,
+  298,
+  " things have stimulated recent thought about how we view our identities But thinking about future technology that doesn even exist yet has"
+ ],
+ [
+  3,
+  306,
+  "also stimulated a lot of thought in the philosophical world about identity. And one very influential example was by Daniel Dennett and it wa"
+ ],
+ [
+  3,
+  314,
+  "s an essay he published called Where Am I? And in this thought experiment that he lays out, he is recruited on a secret mission by NASA beca"
+ ],
+ [
+  3,
+  323,
+  "use a The bomber plane has flown over Houston and accidentally dropped a nuclear warhead into a ravine."
+ ],
+ [
+  3,
+  329,
+  "So these neat scientists have a very brilliant idea to protect them from radiation. They offer to remove his brain, place it in a vat, and c"
+ ],
+ [
+  3,
+  338,
+  "onnect it to his body by electric radio waves. And then it agrees and says, okay, sure, let's go. And then he asks this very leading questio"
+ ],
+ [
+  3,
+  346,
+  "n. He says, of course, the brain Yorick and the body Fortin Brown, he asks, where is the real eye?"
+ ],
+ [
+  3,
+  352,
+  "And as a leading question, making it mutually exclusive from the get-go, but I think that the reasons why human beings find, so we find this"
+ ],
+ [
+  3,
+  360,
+  " question strange and the answer isn't clear, the reason why this is is because of habituation, evolution, and biophysics. And I think that "
+ ],
+ [
+  3,
+  368,
+  "the reason why people have trouble thinking about whole brain emulation and the various protocols for achieving it concerns a lot of the sam"
+ ],
+ [
+  3,
+  376,
+  "e reasons."
+ ],
+ [
+  3,
+  377,
+  "So why is the story strange? The story is strange because we're very used to our parts being close together. Since abiogenesis, our body par"
+ ],
+ [
+  3,
+  385,
+  "ts have been linked together, and we have to communicate with our various appendages and limbs via biological signals. And more crucially, t"
+ ],
+ [
+  3,
+  393,
+  "he molecular machines that actually allow us, that enable these electrical signals, had to be discovered by a very, very dumb, gradual kind "
+ ],
+ [
+  3,
+  400,
+  "of gradient descent search towards the features."
+ ],
+ [
+  3,
+  403,
+  "And these, when you're looking for a feature like an eye or an air, you need a constant affirmation that this feature is actually improving "
+ ],
+ [
+  3,
+  412,
+  "your inclusive fitness in the world of natural evolution. So when you have features that do give constant affirmation, like sensing ears or "
+ ],
+ [
+  3,
+  420,
+  "eyes, then many multiple species evolve these features. But when making biological signals travel as electromagnetic waves over long distanc"
+ ],
+ [
+  3,
+  429,
+  "es,"
+ ],
+ [
+  3,
+  429,
+  "have no gradual reward. You put a lot of pieces together and then you have this step change. And humans can create non-local features. Natur"
+ ],
+ [
+  3,
+  438,
+  "al evolution cannot. And indeed, we did that. We already have tech from the where I am story that allow you to allow patients to communicate"
+ ],
+ [
+  3,
+  447,
+  " to their limbs spatially from a long distance and these patients will report that their arm is themselves just as much as any other body pa"
+ ],
+ [
+  3,
+  456,
+  "rt"
+ ],
+ [
+  3,
+  456,
+  "and they will experience it to be so. This is possible because our brains think slowly. Our brain thinks much closer to the speed of sound t"
+ ],
+ [
+  3,
+  464,
+  "han the speed of light, so we perceive it as instantaneous. So to answer this story from a transhumanist lens, we are in both places in Dani"
+ ],
+ [
+  3,
+  473,
+  "el Dennett's story. However, both in the story and in real life, we still have biological brains, hence the slowness paired with the speed."
+ ],
+ [
+  3,
+  481,
+  "If we had a brain that was thinking at the speed of light, then the arm would actually seem far away. And this gets to one of my main points"
+ ],
+ [
+  3,
+  489,
+  ", which is that the fact that our brains are slow have AI safety implications today. Biological humans are slow across all domains. This pap"
+ ],
+ [
+  3,
+  496,
+  "er is amazing. I highly recommend it. They validate it across many different domains, from coding, Rubik's Cube solving. we really think at "
+ ],
+ [
+  3,
+  504,
+  "10 bits per second, or 10 to 15 bits."
+ ],
+ [
+  3,
+  506,
+  "Whereas when you're running on light, you can think a lot, lot faster. A single H100 tensor core can think at 10 quadrillion bits per second"
+ ],
+ [
+  3,
+  514,
+  ". And the way that these things are thinking hasn't been optimized yet, but they will. And this is also, I want to really point this out, th"
+ ],
+ [
+  3,
+  522,
+  "is is a fundamental wetware limitation. I know we have some people that are working in the BCI space here, and that is amazing, but BCI does"
+ ],
+ [
+  3,
+  530,
+  " not solve this limited thinking speed"
+ ],
+ [
+  3,
+  532,
+  "that we have due to having biological brains. And also, of course, perception, the richness of human life, is also limited by natural evolut"
+ ],
+ [
+  3,
+  539,
+  "ion. Natural evolution is just as indifferent to human values and wants as misaligned AI, and there might be a potential to experience a lot"
+ ],
+ [
+  3,
+  547,
+  " more things, potentially. So why does this matter? Why did I choose to talk to you about these examples? I think that if we become more und"
+ ],
+ [
+  3,
+  554,
+  "erstanding of the fact that technology"
+ ],
+ [
+  3,
+  556,
+  "can change our perception of ourselves and what we consider to be ourselves, we may cease finding whole brain emulation radically different "
+ ],
+ [
+  3,
+  564,
+  "from what we consider ourselves today. We might see it as more of a possibility to ourselves, make ourselves more comfortable with the idea,"
+ ],
+ [
+  3,
+  572,
+  " and begin to seriously consider the possibilities that whole brain emulation may bring in terms of defensive accelerationism."
+ ],
+ [
+  3,
+  579,
+  "And I do believe that whole brain emulation is the most important technology to put our weight behind today. There's a lot of people working"
+ ],
+ [
+  3,
+  586,
+  " on amazing things in this room, but I do think that whole brain emulation is the most important. So how does this relate to NetoLabs? We're"
+ ],
+ [
+  3,
+  593,
+  " trying to advance Ethereum. We welcome collaborators to work on this problem. How does whole-brain emulation impact the psyche? as a bystan"
+ ],
+ [
+  3,
+  601,
+  "der and as a participant,"
+ ],
+ [
+  3,
+  602,
+  "as well as actual ex-risks that might emerge from whole brain emulation itself. We also have several educational programs, and welcome colla"
+ ],
+ [
+  3,
+  609,
+  "borators there. What is whole brain emulation? And how can whole brain emulation aid AI safety? We might have a workshop in the near future "
+ ],
+ [
+  3,
+  617,
+  "with some AI safety organizations related to that question and trying to advance theoretically, how does whole brain emulation and AI safety"
+ ],
+ [
+  3,
+  624,
+  " fit together?"
+ ],
+ [
+  3,
+  625,
+  "We also are going to do, started early days of doing interpretability research of our own systems, following on from the recommendations mad"
+ ],
+ [
+  3,
+  634,
+  "e in the NeuroAI for AI Safety Report published, I think, last year. And ultimately, though, what we want to actually be able to do is to en"
+ ],
+ [
+  3,
+  644,
+  "gineer human whole brain emulation so that human beings can have agency in a culture series"
+ ],
+ [
+  3,
+  650,
+  "world that would be a positive outcome, but also to be able to act as a competent defender in a world far worse. that doesn't look like the "
+ ],
+ [
+  3,
+  662,
+  "culture series. Thank you very much for listening. And I'll bring the mic around if anybody has some questions as well."
+ ],
+ [
+  3,
+  673,
+  "Absolutely. Great. Great. We do have a Q&A, though, a panel for everyone in the world. Yeah, but he was asking if somebody has a question an"
+ ],
+ [
+  3,
+  683,
+  "d I have questions. My question is a bit of a primer. So we had a cognitive sovereignty week here, and we talked about certain manipulation "
+ ],
+ [
+  3,
+  693,
+  "hijack technologies, like claiming stuff and virtue signaling,"
+ ],
+ [
+  3,
+  698,
+  "like calling something rationality or giving kudos to high-profile people that is well known, that are very well respected in here, and also"
+ ],
+ [
+  3,
+  709,
+  " maybe even preemptively belittling other projects like BCI now never will solve it. Okay. Okay. All cool. Just so that you know, the audien"
+ ],
+ [
+  3,
+  719,
+  "ce was primed and we actually learned to point out and identify people that abuse such things and the communication"
+ ],
+ [
+  3,
+  728,
+  "bandwidth for their own needs. And I want to ask you, are you a profit oriented company or not? That's a great question. So we haven't taken"
+ ],
+ [
+  3,
+  738,
+  " any for profit funds yet, but we, I'm going to answer your question I going to answer your question But we have decided to become a for pro"
+ ],
+ [
+  3,
+  748,
+  "fit company and that what we planning to do We thought long and hard about this and I spoken"
+ ],
+ [
+  3,
+  755,
+  "We've applied to many organizations. We wanted to be a non-profit, but we weren't able to find the funding that we think we need to be able "
+ ],
+ [
+  3,
+  763,
+  "to have the impact that we want. And I'm very happy to also discuss this further if people have more ideas about alternative routes. One thi"
+ ],
+ [
+  3,
+  771,
+  "ng that I discussed with people in London recently is the potential of doing a split organization. I don't think that our organization at th"
+ ],
+ [
+  3,
+  779,
+  "is"
+ ],
+ [
+  3,
+  779,
+  "point have the capacity to do a nonprofit and a for-profit and that this would overcomplicate things in my view because we're still so missi"
+ ],
+ [
+  3,
+  788,
+  "on-oriented as individuals. But I'm very open to hearing your ideas, if you have any idea, Burns, anyone about how that might be done. Any o"
+ ],
+ [
+  3,
+  798,
+  "ther questions? Is that a big question? It's just a brief question."
+ ],
+ [
+  3,
+  802,
+  "So what is the difference between emulation and simulation? Like you see whole brain emulation and whole brain simulation. Yeah, this is a q"
+ ],
+ [
+  3,
+  811,
+  "uestion, I mean, fundamentally people don't know it. In some of the literature you say that simulation is something that doesn't feel, right"
+ ],
+ [
+  3,
+  819,
+  "? Isn't experiencing something. Whereas an emulation is something that is feeling something."
+ ],
+ [
+  3,
+  825,
+  "In terms of scale separation or the level of resolution of these things, we don't know what is required. From a functionalist perspective, D"
+ ],
+ [
+  3,
+  833,
+  "aniel Dennett, I'm not saying that this is necessarily the view that Nethalab takes, but according to Daniel Dennett, in the functionalist v"
+ ],
+ [
+  3,
+  841,
+  "iew, like if you have a functional emulation, like quacks like a duck, talks like a duck, most likely the most efficient way to represent th"
+ ],
+ [
+  3,
+  848,
+  "at would necessarily have experiences similar"
+ ],
+ [
+  3,
+  851,
+  "to human beings. But it's a problem that hasn't been solved. And within the field, there's a lot of debates about what is emulation, what is"
+ ],
+ [
+  3,
+  859,
+  " simulation. And emulation is a term that I think is used by people that want the thing to have experience eventually, whereas simulation is"
+ ],
+ [
+  3,
+  868,
+  " more kind of a detached scientific term that's used, even when you may be talking about the same thing."
+ ],
+ [
+  3,
+  874,
+  "I hope that answers your question, but I'm happy to discuss it more later, too. Female Speaker 1 Thank you, Christian. Let's go ahead and in"
+ ],
+ [
+  3,
+  891,
+  "vite then Catalan up to give that talk, which is the one that we which is also about whole brain emulation so the conversation can still con"
+ ],
+ [
+  3,
+  909,
+  "tinue. So hold those questions he will join Don go anywhere ten seconds I have about 10 seconds but we try"
+ ],
+ [
+  3,
+  922,
+  "Something's happening. Yeah, sorry. Thank you, everyone, for coming. I'm just going to put my clock on. My apologies, just to make sure I do"
+ ],
+ [
+  3,
+  935,
+  "n't spam you with my thoughts for too long. So my name is Catlin. I'm a neuroscientist. I've been working on agency neuroscience, which is t"
+ ],
+ [
+  3,
+  948,
+  "he sense of"
+ ],
+ [
+  3,
+  949,
+  "control over mind and body for about a decade now. And a couple years ago, I started moving into the area of whole brain emulation because I"
+ ],
+ [
+  3,
+  957,
+  " realized that my scientific answers lie in actually creating whole brain emulators. And with a bit of luck and whatever, Foresight found us"
+ ],
+ [
+  3,
+  966,
+  " and funded us, so I'm very happy to be where we are. OK. This cable seems very sensitive."
+ ],
+ [
+  3,
+  971,
+  "So, I was going to tell you, my passion in life is essentially trying to understand where thoughts come from, in particular from the free wi"
+ ],
+ [
+  3,
+  993,
+  "ll perspective. Okay. I can also share my presentation."
+ ],
+ [
+  3,
+  1001,
+  "Yeah, sorry, technical difficulties. They got worn out. Yeah, I've also uploaded, I think Yami asked me to upload it, so it's somewhere sitt"
+ ],
+ [
+  3,
+  1037,
+  "ing"
+ ],
+ [
+  3,
+  1038,
+  "on your server also. Yeah, we have it on the drive-in. Okay. Okay. Okay Okay Okay Okay Okay Okay Okay Okay I just going to try not to touch "
+ ],
+ [
+  3,
+  1054,
+  "too much stuff Yeah, so I'm very, very passionate about thinking about the role of consciousness in the universe"
+ ],
+ [
+  3,
+  1066,
+  "and how humanity has actually moved. The biggest, I think, advances in human civilization have been these that point away from the human-cen"
+ ],
+ [
+  3,
+  1073,
+  "tric universe, from thinking that the human experience consciousness, et cetera, must be so important that Earth is in the center of the uni"
+ ],
+ [
+  3,
+  1080,
+  "verse. Obviously, that's not the case. We have heliocentricity that intelligence is so complex, biology is so complex, it has to be intellig"
+ ],
+ [
+  3,
+  1087,
+  "ently designed. Obviously, we have very simple rules for that."
+ ],
+ [
+  3,
+  1090,
+  "Evolutionary biology explains pretty much everything. And then, of course, okay, well, all that's fine, but intelligence cannot be caused by"
+ ],
+ [
+  3,
+  1097,
+  " machines, but obviously we now know machines can compute, especially now with language models. the final frontier here which I think is qui"
+ ],
+ [
+  3,
+  1104,
+  "te relevant to the Diak movement is that this idea that your thoughts are causing your your your actions and your behaviors right and this h"
+ ],
+ [
+  3,
+  1111,
+  "as been that kind of the dogma of a lot of religious thought as well as other movements in society but we've known for about 100"
+ ],
+ [
+  3,
+  1118,
+  "200 years now that there have been challenges to this the socio materialist cause I this idea that there's a lot of factors that determine w"
+ ],
+ [
+  3,
+  1124,
+  "hat you're going to do from moment to moment okay and thinking may not be one of them or your your ability to cause it. So the idea, essenti"
+ ],
+ [
+  3,
+  1131,
+  "ally, is that free will is not like nitro. This is a theme I want to kind of pepper in through all my talk, that essentially your conscious "
+ ],
+ [
+  3,
+  1137,
+  "thoughts don't actually, A cause, A cause, your actions. Albert Einstein firmly believed in this, and he was very famous for not accepting a"
+ ],
+ [
+  3,
+  1144,
+  " lot"
+ ],
+ [
+  3,
+  1144,
+  "of whatever, reward for his Nobel Prizes. It's basically, there's always a chain of thought. You have a will, an idea you have, but you don'"
+ ],
+ [
+  3,
+  1152,
+  "t have any insight into it. It keeps going back and back, and the physicists have generally been at peace with this idea. I'm just going to "
+ ],
+ [
+  3,
+  1159,
+  "put my phone here. But even Charles Darwin himself also was a free will skeptic. And the fundamental thing I want you to take away from this"
+ ],
+ [
+  3,
+  1167,
+  ","
+ ],
+ [
+  3,
+  1167,
+  "the idea that actually is very central to my way of thinking, is that the most important discovery in human history will be that we don't ha"
+ ],
+ [
+  3,
+  1174,
+  "ve free will. And that will create the most humble and humility-filled societies. And I think this is really the promise of AGI. I think AGI"
+ ],
+ [
+  3,
+  1181,
+  " is about something else than I think other people are thinking about it. To me, it's essentially allowing humanity to understand that all y"
+ ],
+ [
+  3,
+  1187,
+  "our thoughts and all your actions,"
+ ],
+ [
+  3,
+  1189,
+  "they come from a very mechanistic or complex system. We can understand it to a substantially good enough level to understand where it all co"
+ ],
+ [
+  3,
+  1196,
+  "mes from, disease and good things and bad feelings, et cetera. The dystopia is that we allowed the AGI is to take over and create a situatio"
+ ],
+ [
+  3,
+  1203,
+  "n where we're no longer in control, we're no longer the dominant species on the planet. If you want to think of AGI, run away some of the dy"
+ ],
+ [
+  3,
+  1209,
+  "stopian ideas. So I'm going to power through a little bit"
+ ],
+ [
+  3,
+  1212,
+  "through why Einstein and Schopenhauer are meant by their skepticism. You can turn off if you want, but it's a very simple paradigm. It essen"
+ ],
+ [
+  3,
+  1218,
+  "tially says that we experience consciousness and we feel like we're agents in the world because there's a sequence of things that happen. Yo"
+ ],
+ [
+  3,
+  1224,
+  "u have a thought, I'm going to grab a glass of water, then you grab the glass of water and you're like, of course my thought caused me to gr"
+ ],
+ [
+  3,
+  1230,
+  "ab a glass of water. But actually, neither is the case, right? Your thoughts come from somewhere deep inside your brain,"
+ ],
+ [
+  3,
+  1235,
+  "somewhere, there's a mechanistic, we understand some parts of this. And your actions also come from somewhere. You don't have any, you have "
+ ],
+ [
+  3,
+  1241,
+  "an insight only up to a certain level. So there's a lot of this is opaque to you. We don't know where thoughts come from. There's like a bar"
+ ],
+ [
+  3,
+  1247,
+  "rier how far back we go because there's a lot of subconscious processing that takes. So the neural activity supporting both of these process"
+ ],
+ [
+  3,
+  1253,
+  "es, both thinking and action, are opaque to us. We don't really know what they are, right? And this is what neuropsychologists think about."
+ ],
+ [
+  3,
+  1259,
+  "And a lot of people have written about this, including Daniel Wegener. So the first objection that people have is, well, OK, wait a second. "
+ ],
+ [
+  3,
+  1265,
+  "So who's in control about the thoughts? How would I survive from day to day? But evolution has actually protected these causal pathways quit"
+ ],
+ [
+  3,
+  1271,
+  "e well. And the causal pathway is essentially that the thoughts you have are generally very productive. Don't try to kill yourself or kill e"
+ ],
+ [
+  3,
+  1277,
+  "veryone, because obviously that won't go well. But the story is obviously much more complex."
+ ],
+ [
+  3,
+  1281,
+  "We actually run a lot of simulations these days. In fact, it's fascinating. Robert Sapolsky's book and others that we actually have hijacked"
+ ],
+ [
+  3,
+  1287,
+  " humans. I've so evolved language and reasoning that we've hijacked our dopamine system to run simulations in our own brains of conscious th"
+ ],
+ [
+  3,
+  1292,
+  "ings. So we say, how would it feel to punch this person that really offended me? And you get a little bit of dopamine or you get a little bi"
+ ],
+ [
+  3,
+  1298,
+  "t of serotonin or some other type of drug and then, okay, I'm going to do this or I'm not going to do this. So we can run these very complex"
+ ],
+ [
+  3,
+  1303,
+  " mind-wandering or imagination experiments, but also have runaway"
+ ],
+ [
+  3,
+  1306,
+  "problems where we get schizophrenia where like the thoughts come to us and like, oh, shit, that's not my thought. Somebody's in my head, you"
+ ],
+ [
+  3,
+  1314,
+  " know, the CIA or aliens, right? And that's part of what I also study. And then the behavior is somewhere in that chain of causality also. W"
+ ],
+ [
+  3,
+  1322,
+  "e don't have, again, evolution guarantees or protects that pathway as well. Actions you can actually carry out also have some of these guara"
+ ],
+ [
+  3,
+  1329,
+  "ntees for us."
+ ],
+ [
+  3,
+  1330,
+  "There's a lot of algorithms that go back and forth. There's a Bayesian inference. I won't talk about that so much today. So one of the thing"
+ ],
+ [
+  3,
+  1337,
+  "s that I want to talk about because it's a DIAC conference is, like, who cares about any of this stuff? Neuroscience has not advanced so far"
+ ],
+ [
+  3,
+  1343,
+  ". We can't really do these things. And free will at least our ability to carry our actions safe But actually it is not the case Because we k"
+ ],
+ [
+  3,
+  1350,
+  "ind of figured out in 1965 that prior to carrying out voluntary actions moving moving your finger take a pick up a glass of water center the"
+ ],
+ [
+  3,
+  1356,
+  "re a buildup in neuro"
+ ],
+ [
+  3,
+  1357,
+  "activity that we can detect with 1965 technologies these microamplifier they had had you can put them over your motor cortex and you can see"
+ ],
+ [
+  3,
+  1363,
+  " the next slide actually shows that even prior to being aware you're aware you're gonna flick your if somebody says flick your wrist randoml"
+ ],
+ [
+  3,
+  1370,
+  "y and you do it about you prior to the time between thinking about doing it and acting is about 200 milliseconds. This is very little, a fif"
+ ],
+ [
+  3,
+  1376,
+  "th of a second. But your brain is actually building up this"
+ ],
+ [
+  3,
+  1379,
+  "readiness potential. There's a bit of a buildup in neural activity, and we can detect it objectively with 1965 technology. It was so scary a"
+ ],
+ [
+  3,
+  1386,
+  "t the time that, and I told this anecdote, that the Vatican summoned Michael Kazaniga, who was one of the founders of cognitive science, to "
+ ],
+ [
+  3,
+  1393,
+  "say, hey, what the hell is happening? Do we not have free will anymore? And of course, because, you know, there's a lot of stake for this id"
+ ],
+ [
+  3,
+  1400,
+  "ea that this chain"
+ ],
+ [
+  3,
+  1401,
+  "of causality is not in the humanities, you know, in the sense that, you know, we need to send people to hell and we need to do a bunch of th"
+ ],
+ [
+  3,
+  1407,
+  "ings that, that, to keep our societies in a certain structure. But actually, if you take a zoom out a little bit, predicting actions before "
+ ],
+ [
+  3,
+  1414,
+  "we're aware of them is really already old news. Social media companies have been very, very good at this, you know, they can't predict every"
+ ],
+ [
+  3,
+  1420,
+  "thing we want to do, but they have hacked our brain chemistry. They're way ahead of what the science of optimal behavior"
+ ],
+ [
+  3,
+  1426,
+  "is and just silly examples I give. Facebook converts an hour of your time for about 30 American cents, American dollar cents. YouTube and Ti"
+ ],
+ [
+  3,
+  1433,
+  "kTok, they're very clear. They want all your time. If you can engage all the time on their website, they will not release you, right? And mo"
+ ],
+ [
+  3,
+  1441,
+  "bile phone is this new thing where basically people just answer things online to get rewarded. And I don't want to be cynical. I just say th"
+ ],
+ [
+  3,
+  1448,
+  "e economic pressures on these organizations"
+ ],
+ [
+  3,
+  1450,
+  "to really keep going this path. They want more by... So Shoshana Zuboff wrote her entire book on this. I recommend you read it, Age of Surve"
+ ],
+ [
+  3,
+  1457,
+  "illance Capitalism, although I disagree with some of it. Mind and thought reading challenges are coming. The idea is that the more you give "
+ ],
+ [
+  3,
+  1465,
+  "eye tracking temperature, of course, EEG signals, the more these models that these companies are building of us are going to be better."
+ ],
+ [
+  3,
+  1472,
+  "And mind engineering are coming where we're actually going to be able to input things directly into your brain. Okay, so takeaways here real"
+ ],
+ [
+  3,
+  1479,
+  "ly are a couple or three. Human experience may not be the end goal of our universe. It may be just a type of wrapper or whatever you want to"
+ ],
+ [
+  3,
+  1486,
+  " call it on physical processes. Importantly, human consciousness may not be in charge or being non-corruptible or human decision-making, as "
+ ],
+ [
+  3,
+  1494,
+  "you may think. And finally for us for this conference essentially that protecting human experience really requires active work We can just s"
+ ],
+ [
+  3,
+  1501,
+  "it back and expect things to work out Whatever your beliefs are there maybe a omnipotent being taking care of our futures"
+ ],
+ [
+  3,
+  1507,
+  "or otherwise the technology is going to solve it. So we have to be active. All right, so that was the introduction. I'm very worried about t"
+ ],
+ [
+  3,
+  1513,
+  "he ability to read and build very complex models of humans and then manipulate us and do a bunch of things. And I want to tell you about why"
+ ],
+ [
+  3,
+  1520,
+  " whole brain emulation really is a path for us, or at least is a moonshot, an outside path we're pursuing. We also think the chances of succ"
+ ],
+ [
+  3,
+  1526,
+  "eeding in time may not be great, but we're still doing it. That's part of our work."
+ ],
+ [
+  3,
+  1530,
+  "So they're possible. When I give talks to DIAG people, I do talk a lot about how to protect against my engineer. I don't have time today, bu"
+ ],
+ [
+  3,
+  1537,
+  "t I decided you can inject noise. People have tried it. Own the data, right? Maybe we can put it on the blockchain hardware. We can own hard"
+ ],
+ [
+  3,
+  1545,
+  "ware. And somewhere down the line is really digitizing humans to actually have a better interface to future technologies or possibly have tr"
+ ],
+ [
+  3,
+  1552,
+  "anscendence and have digital existence."
+ ],
+ [
+  3,
+  1554,
+  "I don't really talk a lot about this. It's not really my area of human flourishing via digital run, but there's just a lot of possibilities "
+ ],
+ [
+  3,
+  1560,
+  "that open up if we can achieve this well. And in terms of the YAC movement, as I mentioned, is an alternative path to AGI if we can really f"
+ ],
+ [
+  3,
+  1566,
+  "igure out how the brain works and actually make AGI's that look like human brains or human brain dynamics. So what is whole brain emulation?"
+ ],
+ [
+  3,
+  1572,
+  " Again, I'm going to do a relatively quick pass-through. I'm going to try to give you a couple of takeaways."
+ ],
+ [
+  3,
+  1577,
+  "Anders and Nick wrote a very good roadmap in 2008. I strongly suggest you read it, although it's about 150 pages quite mathematical. But all"
+ ],
+ [
+  3,
+  1584,
+  " the information is really there. The one line summary is whole brain emulation is the possible one-to-one modeling of the functioning of th"
+ ],
+ [
+  3,
+  1591,
+  "e brain. So what does that mean? Well, it means that a whole brain emulator is a digital organism that runs on human-like brain dynamics. Ei"
+ ],
+ [
+  3,
+  1598,
+  "ther you scan somebody's brain from the structure"
+ ],
+ [
+  3,
+  1600,
+  "from the synapse and molecules and run them a supercomputer simulation, or you do what we do, which is we record functional activity and the"
+ ],
+ [
+  3,
+  1606,
+  "n have a computational model that emulates that functional activity. So that's what whole brain emulation is. It's just a digital emulator, "
+ ],
+ [
+  3,
+  1612,
+  "A digital organism and mind uploading is the ability to copy a specific individual. And I think there's a lot of interest in this idea that "
+ ],
+ [
+  3,
+  1618,
+  "immortality, like I can copy myself, my specific ideas and synapses and everything, all my memories and childhood memories, etc."
+ ],
+ [
+  3,
+  1623,
+  "So a digital organism that has a very specific mapping or whatever, including memories. So the main two ideas, I think the main main one rea"
+ ],
+ [
+  3,
+  1631,
+  "lly is that whole brain manipulation, we're trying to bypass neuroscience and reductionism. It's the idea that neuroscience is going way too"
+ ],
+ [
+  3,
+  1638,
+  " slow, trying to build a complete algorithm of how brains work is not going to arrive in time. If AI accelerates at the speed which it does,"
+ ],
+ [
+  3,
+  1646,
+  " and we cannot solve agency loss which is part of my expertise and I been thinking about this for about 30 years We need an alternative and "
+ ],
+ [
+  3,
+  1654,
+  "that what I think whole brain emulation is"
+ ],
+ [
+  3,
+  1656,
+  "Yeah, and a lot of practical outcomes. So I've already mentioned, I'm going to talk about three types of whole brain emulation. It's a bit h"
+ ],
+ [
+  3,
+  1662,
+  "igh level, but the idea of behavior only, essentially, is this idea that can you build a model of somebody. You can just look at their behav"
+ ],
+ [
+  3,
+  1668,
+  "ioral history, right? From a historical behavior, can I predict what they're going to do, or can I make a model of them that's just going to"
+ ],
+ [
+  3,
+  1674,
+  " behave like them, our behavior science that comes that's basically been what they've been after"
+ ],
+ [
+  3,
+  1678,
+  "this function F that takes historical behavior and predicts future behavior it's pretty simple as I already mentioned a bunch of companies h"
+ ],
+ [
+  3,
+  1684,
+  "ave pretty good F's for certain types of realms but now post LLM's we're seeing some interesting things again this is still not quite in my "
+ ],
+ [
+  3,
+  1691,
+  "expertise I'm a neuroscientist neuroscientist neurotech engineer but we see papers like this where we can take language models and train the"
+ ],
+ [
+  3,
+  1697,
+  "m on everybody's personalities and then tune them on your person person so we do it to an hour interview with you and that"
+ ],
+ [
+  3,
+  1703,
+  "model already starts to behave like you so we can get about 85 percent correct on psych test by the way the baseline is about 20% that's the"
+ ],
+ [
+  3,
+  1710,
+  " the control so you're not really that unique but obviously there's still very very coarse models of you but the technology will probably im"
+ ],
+ [
+  3,
+  1717,
+  "prove basic scientists also advance this and this is part of what I'm gonna talk about I don't work in humans yet because it's way too compl"
+ ],
+ [
+  3,
+  1723,
+  "icated nobody in Hobart emulation"
+ ],
+ [
+  3,
+  1725,
+  "works in humans in fact most people work on C elegans at 300 it's a half a millimeter worm that has 300 neurons or fruit flies which have a "
+ ],
+ [
+  3,
+  1732,
+  "hundred thousand neurons but we're trying to do it in mice and it's this idea that you you you have a much more extensive insight into what "
+ ],
+ [
+  3,
+  1738,
+  "the animals are doing for long periods of time you mod you you classify their behaviors you run neural networks and then see if you can make"
+ ],
+ [
+  3,
+  1745,
+  " these synthetic worlds in which they behave so this very low level version of hope elimination again they kind of already exists and it wor"
+ ],
+ [
+  3,
+  1752,
+  "ks in"
+ ],
+ [
+  3,
+  1752,
+  "some fields quite well for economic purposes I think they'll be increasingly economic pressure to make these better the structural operation"
+ ],
+ [
+  3,
+  1758,
+  " is the more recent one well now you want to predict future behavior from actual neural reconstruction of the brains. Okay, and the way that"
+ ],
+ [
+  3,
+  1765,
+  " works roughly is you take, usually you have to sacrifice the organism, you have to kill it because you have to scan the brain with very, ve"
+ ],
+ [
+  3,
+  1771,
+  "ry low-level scanning systems. So this is like a electron microscopy system image up here. And then this is an example of the fruit fly that"
+ ],
+ [
+  3,
+  1778,
+  "'s been"
+ ],
+ [
+  3,
+  1778,
+  "done in the last few years. Phenomenal work, fantastic work. And then you have to, you have scanned everything and you have these little com"
+ ],
+ [
+  3,
+  1783,
+  "putational neurons or, excuse me, representations of neurons. And you make a decision, I'm going to use this thing called cable theory, whic"
+ ],
+ [
+  3,
+  1789,
+  "h is exactly as it sounds, a little bunch of compartments connected together by cables. And then you run a forward model and, like, let's pu"
+ ],
+ [
+  3,
+  1794,
+  "t input into this thing. Does it do what we think it should do? I did a bunch of this work a decade ago when I was at the Allen Institute fo"
+ ],
+ [
+  3,
+  1800,
+  "r"
+ ],
+ [
+  3,
+  1800,
+  "Brain science. The really big flashes this year is layer four of cortex. And it's a whole bunch of input, like visual information, and then "
+ ],
+ [
+  3,
+  1806,
+  "propagates. These single neurons have 100 to 1,000 little compartments. Every neuron has been broken up into these little pieces. And every "
+ ],
+ [
+  3,
+  1811,
+  "little piece has multiple differential equations that are running across them. More recently, we're starting to make a bit of progress. Ligh"
+ ],
+ [
+  3,
+  1817,
+  "t microscopy is a bunch of better versions of doing scanning. But actually, the scanning is not the problem. It's the reconstruction."
+ ],
+ [
+  3,
+  1822,
+  "So we can scan. We can spend lots and lots of money scanning the brain. Of a cubic millimeter of a mouse brain, of human takes multiple team"
+ ],
+ [
+  3,
+  1828,
+  "s, including Harvard and Stanford. It's still very, very, very difficult to do this. But the challenge really is on reconstruction, because "
+ ],
+ [
+  3,
+  1834,
+  "the planes, when you scan, and you shave out like 50 nanometers or 8 nanometers, you have to put the top layer on the next layer and the nex"
+ ],
+ [
+  3,
+  1840,
+  "t layer, and you have to be able to reconstruct and trace all the neurons throughout the brain."
+ ],
+ [
+  3,
+  1844,
+  "So it's challenging, but people are making progress. Google's involved in a bunch of other organizations. And now we're also trying to do th"
+ ],
+ [
+  3,
+  1850,
+  "e model. So we have some version of the model. We're trying to do this emulation. We try to play, as I showed you here in these videos. And "
+ ],
+ [
+  3,
+  1856,
+  "there's some progress in that with Philip Shue, who we've been talking to for the last few months, trying to make some of that progress. So "
+ ],
+ [
+  3,
+  1863,
+  "the last bit of whole brain innovation I'm going to tell you about is the part that we're doing. And it's the most recent version, in my opi"
+ ],
+ [
+  3,
+  1869,
+  "nion."
+ ],
+ [
+  3,
+  1869,
+  "It's essentially, we're trying to figure out if there's another way to do it and try to emulate the large language model revolution. So we'r"
+ ],
+ [
+  3,
+  1875,
+  "e trying to figure out, is there a way to just get sparse brain activity from a live organism without killing it and its behavior and then m"
+ ],
+ [
+  3,
+  1882,
+  "odel it? So we have a brain, let's say this is a mouse brain, we can record from 10 brain areas or 20 brain areas There's 30 brain areas, bu"
+ ],
+ [
+  3,
+  1888,
+  "t we can record for a very long time, weeks, months, possibly years."
+ ],
+ [
+  3,
+  1891,
+  "And then jointly model all that brain activity. So usually those cubes, we try to see how those brain dynamics predict the behavior, and we "
+ ],
+ [
+  3,
+  1898,
+  "create a model called an emulator. I'll say a little bit more about that in a moment. And the goal really is to be able to test these. You h"
+ ],
+ [
+  3,
+  1906,
+  "ave to generate petabyte and exabyte scale behavior neural data sets and train foundation models to achieve this. This is our kind of silly "
+ ],
+ [
+  3,
+  1913,
+  "little video of like how you basically take compartments or"
+ ],
+ [
+  3,
+  1916,
+  "voxels out of the mouse brain, you model them, you feed them to a supercomputer, and that supercomputer will then be able to run an emulatio"
+ ],
+ [
+  3,
+  1921,
+  "n of the mouse. All right. So, the analogy here is pretty straightforward. Essentially, large language models learn language dynamics, so yo"
+ ],
+ [
+  3,
+  1927,
+  "u provide sequences of words, and they get better and better. The more data you give them, at some point, they're going to be perfect modeli"
+ ],
+ [
+  3,
+  1932,
+  "ng the world. At some point, they're going to have consciousness. We don't really know. And whole-brain models are very similar to that, exc"
+ ],
+ [
+  3,
+  1938,
+  "ept that we're going backwards here."
+ ],
+ [
+  3,
+  1939,
+  "We need more and more fine data and larger and larger data sets. As I mentioned before Google Facebook TikTok they right here All they have "
+ ],
+ [
+  3,
+  1946,
+  "is online behavior They want more They going to want your EEG signals and your biometric signals and they probably going to get better And w"
+ ],
+ [
+  3,
+  1952,
+  "e trying Netholabs somewhere around here We trying to be the first to put these points on this curve this kind of scaling law. And this is j"
+ ],
+ [
+  3,
+  1959,
+  "ust a map of low fibers. Okay. So achieving functional hope animation is essentially pretty much identical"
+ ],
+ [
+  3,
+  1964,
+  "to achieving large-legged modules. We just need the data, right? So we computed Netholabs that we could generate the entire size of the Inte"
+ ],
+ [
+  3,
+  1972,
+  "rnet in about a year with enough funding. And I'm not talking hundreds of millions of dollars. It's not that much money. So we can generate "
+ ],
+ [
+  3,
+  1979,
+  "data sets that are equivalent of what ChatGPT was trained on about a year to a year and a half of scaling. So the last bit is really about N"
+ ],
+ [
+  3,
+  1987,
+  "etholabs."
+ ],
+ [
+  3,
+  1987,
+  "Plug, not plug, just to let you guys know what we're trying to do and how much progress we've made. So we want to create the first mailing u"
+ ],
+ [
+  3,
+  1993,
+  "pload. The rodent brain is our goal because it's highly homologous to human brain. It's a mammal. It does a lot of similar things. The anato"
+ ],
+ [
+  3,
+  1999,
+  "my is quite similar there, as I write, 95% of anatomy, et cetera. We're very interested in social things because a lot of people are interes"
+ ],
+ [
+  3,
+  2005,
+  "ted in figuring out what is driving cooperative behavior and social behaviors and love and all that stuff versus the other aggressive negati"
+ ],
+ [
+  3,
+  2012,
+  "ve things."
+ ],
+ [
+  3,
+  2012,
+  "Right. So rodents are extremely complex. They do social things. Even mice that are inbred, like really inbred, which is the mice that everyb"
+ ],
+ [
+  3,
+  2019,
+  "ody uses in clinical neuroscience, have extremely complex behaviors. We're seeing now just random things. They throw dirt at each other to p"
+ ],
+ [
+  3,
+  2025,
+  "lay with each other. I've never seen that before. I don't think everybody's ever reported it. and we're starting to record a lot. But they a"
+ ],
+ [
+  3,
+  2032,
+  "lso do other things. They like to enforce hierarchies. Even when they're safe, et cetera, they like to fight."
+ ],
+ [
+  3,
+  2037,
+  "And we have built systems that can actually track all this video. This is about four times slower than real time. And these guys have been l"
+ ],
+ [
+  3,
+  2043,
+  "iving together about four months or five months at this point. But they need to establish dominance. So the alpha will start biting the othe"
+ ],
+ [
+  3,
+  2049,
+  "r ones, and they'll fight back. We want to understand all that. So imagine this happening with neural implants. We're not quite there yet, b"
+ ],
+ [
+  3,
+  2055,
+  "ut we're going to have neural implants as well at the same time. So last few years of research, I've changed."
+ ],
+ [
+  3,
+  2060,
+  "As I mentioned, I was going to work just on the circuit of sense of agency, the feeling that you're in control of things. There's some circu"
+ ],
+ [
+  3,
+  2066,
+  "its in the brain. Nobody has these models. Actually, I have a Swiss National Science Foundation grant to do that. But I've been increasingly"
+ ],
+ [
+  3,
+  2073,
+  " interested in AI safety because it's just things that are moving extremely, extremely fast. I've done a bunch of things. You're welcome to "
+ ],
+ [
+  3,
+  2079,
+  "look those up. And now I have some base funding from Foresight."
+ ],
+ [
+  3,
+  2082,
+  "We're very thankful for our support to create this thing called Scalable Whole Brain Emulation Roadmap. And what that looks like is exactly "
+ ],
+ [
+  3,
+  2089,
+  "like I said, we want to start with the technology of today, which is record from 10, 15, 20, 50 brain areas, let's say. Build these models t"
+ ],
+ [
+  3,
+  2096,
+  "his little orange is supposed to match this one Build a model of that okay The technology moves in a year it gets a little better we build t"
+ ],
+ [
+  3,
+  2103,
+  "he next version etc and look at scaling laws is there an echo in here um we build scaling laws and we actually um"
+ ],
+ [
+  3,
+  2109,
+  "show that uh there's a path to achieving this in the short term so achievements for the past 10 months we do a lot of stuff we're we have um"
+ ],
+ [
+  3,
+  2115,
+  " lab space in imperial in sussex we're building custom whole brain emulation technology including loggers etc i don't know how many neurotec"
+ ],
+ [
+  3,
+  2122,
+  "h people are here that do hardware we built renazing cages we're still not sure anyways I don't talk too much about that and we're really st"
+ ],
+ [
+  3,
+  2128,
+  "arted collecting data we have literally a billion frames of video"
+ ],
+ [
+  3,
+  2131,
+  "in just like less than a month we're already trying to figure out where we're going to store petabyte of data in a few months because it's i"
+ ],
+ [
+  3,
+  2138,
+  "t's challenging if you have ideas and you know or suggestions please let us know this is our team basically it's a few PhDs and we're trying"
+ ],
+ [
+  3,
+  2145,
+  " to onboard actually a lot of more junior trainees to expose them to these ideas and everybody's very exciting and wants to work for us but "
+ ],
+ [
+  3,
+  2151,
+  "we don't have so much capacity. Liam Panisky, my ex-postdoc advisor, is one of our advisors now."
+ ],
+ [
+  3,
+  2156,
+  "And Gary Lavis, who talks a lot about mouse empathy and actually just how the translation crisis and the replication crisis in biology, how "
+ ],
+ [
+  3,
+  2167,
+  "they simply and utterly come from improperly designed and lack of naturalism in research. So that's my presentation. Thank you for your atte"
+ ],
+ [
+  3,
+  2177,
+  "ntion. Again, Foresight and Swiss National Science Foundation are supporting us. Thank you. We have time for maybe one question and Barrett "
+ ],
+ [
+  3,
+  2188,
+  "will get ready."
+ ],
+ [
+  3,
+  2189,
+  "Thank you for the talk. Yeah, lots of interesting ideas and images and concepts. One clarifying question. Could you please show the slide wh"
+ ],
+ [
+  3,
+  2202,
+  "ere you are mentioning that the whole brain relation roadmap is not reductionistic and transcends neuroscience or something like that?"
+ ],
+ [
+  3,
+  2214,
+  "Sure. You mean this one, right? When I talk about... Before. Yes, main ideas. So hypothesis bypasses neuroscience and reductionism. What doe"
+ ],
+ [
+  3,
+  2226,
+  "s it I mean, I think that the roadmap is very reductionistic and it doesn't bypass neuroscience. It's just a part of neuroscience."
+ ],
+ [
+  3,
+  2237,
+  "I think it's just a reasonable direction inside neuroscience. What did you mean? And the other is, do you have any timelines? I understand t"
+ ],
+ [
+  3,
+  2246,
+  "his is very early stage of technology And do you have any prediction So what I mean by whole brain animation science or the science of whole"
+ ],
+ [
+  3,
+  2255,
+  " brain dynamical modeling, is that we don't have to derive equations."
+ ],
+ [
+  3,
+  2260,
+  "We can just have black boxes that solve the brain for us. And that's both the structural and the functional. Probably that's what it's going"
+ ],
+ [
+  3,
+  2267,
+  " to look like. We're going to put all this data into a big black box, and it's going to give us output. So you mean it bypasses the existing"
+ ],
+ [
+  3,
+  2274,
+  " models? OK, sure. It bypasses the need to have chains of causality, right? So, again, because the limitation of time, I don't usually give "
+ ],
+ [
+  3,
+  2281,
+  "all the bits of my talks, but basically, you know,"
+ ],
+ [
+  3,
+  2283,
+  "the history of neuroscience looks something like this. Everybody wants to have this forward model of the brain, how brains work, right, from"
+ ],
+ [
+  3,
+  2289,
+  " molecules to cells to synapses, et cetera. We're doing great here because they're a very simple system. We have no idea what's happening up"
+ ],
+ [
+  3,
+  2294,
+  " here. And, in fact, we have no mechanisms for consciousness, zero. But what we're starting to do is we're putting artificial neural network"
+ ],
+ [
+  3,
+  2300,
+  "s, So putting black boxes to give us practical outcomes, right? Evolution may not wait for us to do other things. So there's like we're fill"
+ ],
+ [
+  3,
+  2306,
+  "ing in a lot of the missing information with black boxes."
+ ],
+ [
+  3,
+  2308,
+  "And we, as a society, we may decide that we need those things sooner than later, and we may be happy with them. In terms of timelines, I can"
+ ],
+ [
+  3,
+  2314,
+  "'t speculate. I mean, this is not a VC fundraising, so I would tell you different things in different circumstances. But the one thing I wil"
+ ],
+ [
+  3,
+  2321,
+  "l respond to the other question is, well, we'd love to stay non-profit. Right now we have non-diluting funding. And both ARIA and Convergent"
+ ],
+ [
+  3,
+  2327,
+  " Research, they liked us. They put us into second round, but then they said, go get VC money."
+ ],
+ [
+  3,
+  2331,
+  "And we can get VC money, but all this data goes behind a closed war, and then we end up probably in open, you know, if we're successful enou"
+ ],
+ [
+  3,
+  2336,
+  "gh, we're not in a really weird situation where we're going to build this extraordinary technology that we're not even going to own. I won't"
+ ],
+ [
+  3,
+  2342,
+  " own it. Like in two or three funding rounds, I'm not going to own anything. But I'll keep doing it probably to some level. So does the comm"
+ ],
+ [
+  3,
+  2347,
+  "unity want this? Does the, you know, whatever, the centralized science community want these types of technologies? There has to be a decisio"
+ ],
+ [
+  3,
+  2353,
+  "n to be made pretty soon because we're not the only ones."
+ ],
+ [
+  3,
+  2355,
+  "There are other people coming in. I hope that helps. Thank you so much. There will be time for more questions after the next talk. All of th"
+ ],
+ [
+  3,
+  2381,
+  "e speakers will sit and respond to questions. We'll transition immediately then into Barrett. Thank you."
+ ],
+ [
+  3,
+  2400,
+  "Thank you. Yeah."
+ ],
+ [
+  3,
+  2460,
+  "hello hello hello how are we all doing Okay, cool. So I've got like 60 slides. So I'm gonna see how many I can actually get through"
+ ],
+ [
+  3,
+  2491,
+  "in the next 15 minutes. I'm probably gonna skip a bunch and maybe just ignore some altogether. I, so I'll give a quick background to myself "
+ ],
+ [
+  3,
+  2499,
+  "because a bunch of you might not know me. So I used to be a medical doctor, then I became a DGEN at the top of the market in 2017, lost a bu"
+ ],
+ [
+  3,
+  2507,
+  "nch of money, and then now full-time in DSi for the last three years. And I'm going to do that super annoying thing when I ask people to put"
+ ],
+ [
+  3,
+  2514,
+  " their hands up or if they recognize something on screen or not."
+ ],
+ [
+  3,
+  2518,
+  "So I'll start with one. Does anyone recognize what this is? Yes, a lithiometer. And what does the lithiometer do? It's from a book called No"
+ ],
+ [
+  3,
+  2528,
+  "rthern Lights. It's used to...yes exactly. You can ask this device any question and it tells you objectively the truth. This is like somethi"
+ ],
+ [
+  3,
+  2539,
+  "ng that you can use to figure out"
+ ],
+ [
+  3,
+  2541,
+  "reality And this is essentially what the process of science is It this distributed system community etc blah blah blah designed to effective"
+ ],
+ [
+  3,
+  2550,
+  "ly tell you the truth And at least in the context of science the way we be defining truth here is the ability to predict the future. That me"
+ ],
+ [
+  3,
+  2559,
+  "ans, you know, if I throw a ball to you, you can work out the equations in advance to know where that ball is exactly going to land."
+ ],
+ [
+  3,
+  2568,
+  "And there are a bunch of trust assumptions that you have to figure out whether the system is doing this thing properly. So we'll get into th"
+ ],
+ [
+  3,
+  2576,
+  "at in a second. So yeah this talk is going to cover the journey into building a truth-telling machine. We're quickly going to cover trust me"
+ ],
+ [
+  3,
+  2584,
+  "chanism in science. Two, what verification means, what truth-telling device is, and three, why is this important. Before we get into"
+ ],
+ [
+  3,
+  2592,
+  "that, is anyone a subscriber to this website? Hands up. Okay, tough, tough crowd here. We'll come back to this later. We'll come back to thi"
+ ],
+ [
+  3,
+  2605,
+  "s later. So okay, quick look at trust mechanism science. I won't spend too long on this. So don't trust verify. This is like the"
+ ],
+ [
+  3,
+  2617,
+  "core technological underpinning of Web3. And it's disrupted multiple industries, mainly financial, by building these trustless systems. So w"
+ ],
+ [
+  3,
+  2625,
+  "hat would this look like in science? Like where is the trust currently being held. And to like really simplify this just assume like I'm doi"
+ ],
+ [
+  3,
+  2634,
+  "ng an experiment, I'm a scientist, and if you are assuming what is the trust in this"
+ ],
+ [
+  3,
+  2639,
+  "entire thing as a system, you're trusting that I've done the experiment properly, trusting that I've recorded it properly, the results, you'"
+ ],
+ [
+  3,
+  2646,
+  "re trusting that there's some kind of screening mechanism before the information is disseminated as part of like wider institutional oversig"
+ ],
+ [
+  3,
+  2652,
+  "ht, you're trusting that someone else replicates this to ensure that my finding wasn't a fluke, and that there's some kind of correction sys"
+ ],
+ [
+  3,
+  2659,
+  "tem making sure to remove any information which is"
+ ],
+ [
+  3,
+  2661,
+  "just like not true. Spoiler alert, all of these trust assumptions and mechanisms are completely broken in science and it does not serve its "
+ ],
+ [
+  3,
+  2671,
+  "ultimate goal which is to be a system that produces reliable knowledge. Does anyone recognize this? Yeah, a couple people. So this was a pic"
+ ],
+ [
+  3,
+  2681,
+  "ture in a paper in 2006 that talked"
+ ],
+ [
+  3,
+  2684,
+  "about Alzheimer's and they claimed they found effectively the cause of it. Eighteen years later we found out that this picture had been phot"
+ ],
+ [
+  3,
+  2692,
+  "oshopped so this like one person in one reputable lab had caused a massive issue in Alzheimer and this is the most cited paper in Alzheimer "
+ ],
+ [
+  3,
+  2700,
+  "This redirected billions of dollars funding caused like drugs to go into pipelines which shouldn have had any viability So this"
+ ],
+ [
+  3,
+  2707,
+  "wasted a lot of time and money and this was one person in one lab and there's multiple people in Alzheimer's that have also done fraudulent "
+ ],
+ [
+  3,
+  2715,
+  "research and remember this is just one disease in one system and these are just the people that have been caught. Like having worked as an a"
+ ],
+ [
+  3,
+  2722,
+  "cademic you have to be pretty stupid to get your fake data caught. It's very, very easy to do it in a way you wouldn't get caught. So the ac"
+ ],
+ [
+  3,
+  2730,
+  "tual amount of fake data is huge. So some people say one in seven. I think it's probably"
+ ],
+ [
+  3,
+  2735,
+  "higher. And fraud has many different types of faces. This is not an exhaustive list. Sometimes it's making something up from scratch. Someth"
+ ],
+ [
+  3,
+  2743,
+  "ing's slightly tweaking it. Sometimes it's leaving out your last week's worth of results because it makes your month overall look a lot bett"
+ ],
+ [
+  3,
+  2751,
+  "er. So there's many, many faces and at least my understanding is that it's a big, big problem in science. Who recognizes this? Or who was fo"
+ ],
+ [
+  3,
+  2759,
+  "oled by this? Who saw this and actually believed it?"
+ ],
+ [
+  3,
+  2762,
+  "Because I believed it. I just thought maybe he's just wearing a puffer jacket and it just looks kind of cool. So, you know, AI's got to the "
+ ],
+ [
+  3,
+  2770,
+  "point where it can create things that aren't just tricking like some Luddite that doesn't interact with tech, but can kind of trick anyone. "
+ ],
+ [
+  3,
+  2779,
+  "So you can probably guess where I'm going with this. It's really good at faking data. And this is an example when I gave it intentionally"
+ ],
+ [
+  3,
+  2787,
+  "a very unsophisticated prompt, just fake me some data and it spews something out. And you might not be able to see at the bottom, but the au"
+ ],
+ [
+  3,
+  2795,
+  "to follow up question was, should I add some subtle noise to make it more realistic? So this is just a general model. And once you've receiv"
+ ],
+ [
+  3,
+  2803,
+  "ed the data, there's nothing that can tell you it's real or fake. Like once it's in the wild, it's way too late. So this is a massive, massi"
+ ],
+ [
+  3,
+  2811,
+  "ve problem."
+ ],
+ [
+  3,
+  2812,
+  "You've got massive amounts of fraud already, and now a tool that makes the cost of doing it impossible to detect fake essentially zero. So t"
+ ],
+ [
+  3,
+  2821,
+  "here is an upcoming crisis of trust in science. And kind of when we look back at the trust assumptions and mechanisms, this is the one that "
+ ],
+ [
+  3,
+  2829,
+  "really we're going to be focusing on for today's talk. The process by which results are recorded accurately."
+ ],
+ [
+  3,
+  2836,
+  "And the way this works in science right now is if you are not there to witness an experiment, you rely on someone's testimony. And you trust"
+ ],
+ [
+  3,
+  2846,
+  " their testimony generally because of their credential Humans lie and that the main problem Humans lie all the time And what we need to do a"
+ ],
+ [
+  3,
+  2855,
+  "s a system is move the trust anchor away from the human"
+ ],
+ [
+  3,
+  2859,
+  "We need to move it into the hardware. So that's what mainly I'm going to talk about here is how we digitize this process of witness testimon"
+ ],
+ [
+  3,
+  2867,
+  "y and securely have the ability to notarize physical reality, like build an actual machine where the results of it, you know for sure, are t"
+ ],
+ [
+  3,
+  2874,
+  "he truth. So this is what we'll be talking about for the next few minutes. What does this look like? So if we go back to the pulp, how would"
+ ],
+ [
+  3,
+  2882,
+  " we have verified this?"
+ ],
+ [
+  3,
+  2883,
+  "Let me show you something. Find a poster? Find whoever took the image, correct? Anything else? I'm sure it was a shaded photographic. Yeah, "
+ ],
+ [
+  3,
+  2893,
+  "so some kind of technical stuff involving the camera was taken and that's kind of essentially where it goes through. So there is a standard "
+ ],
+ [
+  3,
+  2903,
+  "for this. This is a coalition of big tech firms who have this mechanism that can you secure your secure signing or not and it provides prove"
+ ],
+ [
+  3,
+  2913,
+  "nance."
+ ],
+ [
+  3,
+  2913,
+  "You are probably getting some concerns with the logos there and as you should. This kind of standard is not great. What it effectively means"
+ ],
+ [
+  3,
+  2923,
+  " is we are relying on these tech companies to trust, to kind of decide who can produce an image that is verified versus who isn't. So if you"
+ ],
+ [
+  3,
+  2933,
+  "r camera is removed from their network,"
+ ],
+ [
+  3,
+  2936,
+  "then it no longer can do the signature that proves this valid. So there's that and then there's a bunch of other kind of technical issues wi"
+ ],
+ [
+  3,
+  2943,
+  "th that. There is something else that does something a lot better, much more open with some privacy preserving mechanisms. And if anyone's i"
+ ],
+ [
+  3,
+  2951,
+  "nterested in some of the more technical aspects, you can have a quick look at that. But moving on. So kind of thinking about it from how we "
+ ],
+ [
+  3,
+  2958,
+  "would have verified this picture of a pulp, we have a few learnings here."
+ ],
+ [
+  3,
+  2962,
+  "So one, it has to happen on the hardware and has to be at the point data is created. Number two, we need to focus on objective data, so anyt"
+ ],
+ [
+  3,
+  2969,
+  "hing from a sensor, something that's reading the light, something that's reading a temperature, etc. And we need some kind of secure signing"
+ ],
+ [
+  3,
+  2976,
+  " mechanisms. So I'm not going to go into these, but there's a few different types of trustless execution environments, which are physically "
+ ],
+ [
+  3,
+  2984,
+  "separated"
+ ],
+ [
+  3,
+  2984,
+  "parts of the CPU that can do functions like this, or hardware security modules, which are an entire computer of itself. Problem here is most"
+ ],
+ [
+  3,
+  2993,
+  " lab equipment doesn't have these. newer ones do but most of the lab equipment doesn't. So already we kind of understand be kind of difficul"
+ ],
+ [
+  3,
+  3001,
+  "t to get this done in science. So this is where I started. So this is a bunch of stuff that I've been working on,"
+ ],
+ [
+  3,
+  3008,
+  "me and my co-founder Erin, who's there somewhere. So we got a hold of the PCR machine. We connected it to a hardware security module, and we"
+ ],
+ [
+  3,
+  3016,
+  " got it doing this kind of cryptographic signing. In a very, very slow way, we were running like a bootleg copy of Windows XP, because the h"
+ ],
+ [
+  3,
+  3024,
+  "ardware secure module was Linux, the machine isn't. But we did a bit of a proof of concept, but it wasn't really usable."
+ ],
+ [
+  3,
+  3031,
+  "And then we went to the next step of realizing, OK, let's do another version. What hardware should we do it on? Let's do bioreactors, becaus"
+ ],
+ [
+  3,
+  3038,
+  "e bioreactors are very simple hardware. You've got something at the bottom, which is a motor that moves the magnets, and just two sensors. Y"
+ ],
+ [
+  3,
+  3045,
+  "ou've got something that senses temperature, and something that senses light. So we figured this was simple enough of a hardware to add all "
+ ],
+ [
+  3,
+  3052,
+  "these additional verification mechanisms."
+ ],
+ [
+  3,
+  3054,
+  "And so we did build one. I've got it right here. Oh my God. So this is our early version prototype of the first truth-telling machine in the"
+ ],
+ [
+  3,
+  3065,
+  " world. And essentially you would trust the results. The results are autonomously recorded on chain or private wherever you want. And what w"
+ ],
+ [
+  3,
+  3075,
+  "e realized with this was that even with"
+ ],
+ [
+  3,
+  3078,
+  "this there are a bunch of attack vectors. So you could snip one of the wires, add something else to it, etc. So I asked our engineers to kin"
+ ],
+ [
+  3,
+  3086,
+  "d of intentionally over engineer this and see how far can we really push it. Because we've added some cryptography to it. The next step is a"
+ ],
+ [
+  3,
+  3095,
+  "dding physical tampering. So this is what we're currently working on. And we've got like a kind of prototype version which should be kind of"
+ ],
+ [
+  3,
+  3103,
+  " working by the end of this"
+ ],
+ [
+  3,
+  3105,
+  "month or kind of mid next month. Anyone here is over technical, there's a bunch of technical things on the screen, so please have a look. Co"
+ ],
+ [
+  3,
+  3114,
+  "me find me after. But kind of the general concept here I was explaining is you've got the physical cryptography, but then you need to assume"
+ ],
+ [
+  3,
+  3123,
+  " that this device is going to be in a location where there may be an adversary."
+ ],
+ [
+  3,
+  3128,
+  "So you can have temper proof mechanisms, things like pressure sensors, which when they detect trying to open the device mean that the crypto"
+ ],
+ [
+  3,
+  3136,
+  "graphy no longer works. And then kind of as a last resort you can use things like glittered epoxy to cover things so when someone does open "
+ ],
+ [
+  3,
+  3144,
+  "it you know it open because they wouldn be able to recreate the exact pattern that the glitter epoxy resin had And this is kind of what the "
+ ],
+ [
+  3,
+  3152,
+  "full unit going to look like It going to be an automated unit of 24 doing a bunch of things"
+ ],
+ [
+  3,
+  3157,
+  "And kind of just more broadly, equipment's got some kind of cryptographic mechanism, plus minus tamper proofing. And then when you're lookin"
+ ],
+ [
+  3,
+  3166,
+  "g at the end, you can see the proof that the result you're reading is actually what the sensor measured at the time of the reading was taken"
+ ],
+ [
+  3,
+  3174,
+  ". Now, to why are we doing this? What does verification unlock? And it's not just about fraud."
+ ],
+ [
+  3,
+  3180,
+  "Fraud was where it kind of started with the journey of thinking, well, there are problems in science and how those could be resolved. But th"
+ ],
+ [
+  3,
+  3187,
+  "ere's a bunch of things that it unlocks. And one of the cool things is that with this device that we've got, it doesn't matter who the opera"
+ ],
+ [
+  3,
+  3193,
+  "tor is, because it could be somebody with a scientific degree or it could be someone's grandma. someone's grandma. It actually doesn't matte"
+ ],
+ [
+  3,
+  3200,
+  "r who the operator is because you trust the results because of the hardware, the cryptography and the tamper"
+ ],
+ [
+  3,
+  3205,
+  "proofing, not the human and not the credential. So this is actual decentralized science because you have democratized the ability for anyone"
+ ],
+ [
+  3,
+  3213,
+  " to produce verifiable data. Now there is a disclaimer just because there's still a bunch of attack vectors but I will move on assuming this"
+ ],
+ [
+  3,
+  3221,
+  " is true. And this is what brings us to what you guys all wanted to see. So this is like an OnlyFans. So OnlyFans is a creator economy platf"
+ ],
+ [
+  3,
+  3230,
+  "orm like YouTube, like Instagram, Spotify,"
+ ],
+ [
+  3,
+  3232,
+  "that allowed anyone to be able to learn what they wanted to and kind of distribute themselves using these platforms. So you had people like "
+ ],
+ [
+  3,
+  3241,
+  "Justin Bieber who became a pop star just because of YouTube. And if we've had these creator economies emerge for video music, art, writing, "
+ ],
+ [
+  3,
+  3250,
+  "cold, why not science? And the reason it has emerged in science is if someone doesn't have a credential,"
+ ],
+ [
+  3,
+  3257,
+  "if they're outside of an institution, you don't trust what they do. But if there was this kind of trust mechanism, then you could have this "
+ ],
+ [
+  3,
+  3264,
+  "great economy of science. So that's the first thing that it kind of unlocks, is that it unlocks an only defense for science. I had a couple "
+ ],
+ [
+  3,
+  3271,
+  "more points on that I actually skipped, is that some of the trends that are happening in Gen AI and 3D printing, I think in the next three t"
+ ],
+ [
+  3,
+  3278,
+  "o five years, you'll be able to kind of tell AI, make me a mass spec,"
+ ],
+ [
+  3,
+  3282,
+  "and it'll figure out what it needs. It'll do a simulated build. It'll simulate where the problems went wrong. It will fabricate all the boar"
+ ],
+ [
+  3,
+  3290,
+  "ds, tell you how to ship it, and then it will arrive to you assembled for like 5K. So I think there going to be mass democratization of equi"
+ ],
+ [
+  3,
+  3298,
+  "pment So doing like biohackers doing actual hardcore wet lab science is going to increase the other things that it unlocks is verifiable act"
+ ],
+ [
+  3,
+  3307,
+  "ions for robots so you know a lot of things are going to be"
+ ],
+ [
+  3,
+  3310,
+  "automated so whether this is labs or humanoid things walking around we need to know exactly what these systems were doing at all times not j"
+ ],
+ [
+  3,
+  3317,
+  "ust what they were reporting to us that was done if you've left your lab overnight for it to do a bunch of automated things and then you com"
+ ],
+ [
+  3,
+  3324,
+  "e back in the morning, you don't want the O3 model telling you what it did. You need to know for absolute certainty. So this is probably one"
+ ],
+ [
+  3,
+  3330,
+  " of the most important things that these kind of trust mechanisms would allow"
+ ],
+ [
+  3,
+  3334,
+  "you to do. There are a bunch of different applications in biosecurity, so it could be monitoring exactly what the device did, not what the o"
+ ],
+ [
+  3,
+  3342,
+  "perator has claimed it did. One of the concerns I have with these automated labs is that they could get hacked into, be told to produce some"
+ ],
+ [
+  3,
+  3350,
+  " kind of bioterrorism and then the hacker can kind of do this effectively by code. So, guard against that, at least the first step is monito"
+ ],
+ [
+  3,
+  3358,
+  "ring exactly what it's doing."
+ ],
+ [
+  3,
+  3360,
+  "And then you might be able to add physical things where if it detects certain action is happening, it can physically destroy itself. So not "
+ ],
+ [
+  3,
+  3368,
+  "blow up in kind of an explosion, but burn its microcontrollers and things like that so the device is rendered unusable. We are doing a reall"
+ ],
+ [
+  3,
+  3376,
+  "y cool thing tomorrow about how we would build an early warning detection system for novel pathogen emergence and why that needs this kind o"
+ ],
+ [
+  3,
+  3384,
+  "f verification layer."
+ ],
+ [
+  3,
+  3385,
+  "We, yeah, I'll talk about that probably tomorrow. On-chain prediction markets for experiments, maybe this could help drive the replication c"
+ ],
+ [
+  3,
+  3393,
+  "risis. Transparent funding, so like if you had an array of these bioreactors and you wanted to donate for its funding, that actual research "
+ ],
+ [
+  3,
+  3401,
+  "is being done properly, you've got verification exactly where your money went and exactly what the output was."
+ ],
+ [
+  3,
+  3407,
+  "So this is like the other kind of thing it unlocks. And then another hands-up question. Who thinks due to Duma AGI scenario that the ability"
+ ],
+ [
+  3,
+  3416,
+  " to gain capital will cease in like three to five years? So hands up if you think that. No one, really. Okay, we've got one person. Okay. I "
+ ],
+ [
+  3,
+  3425,
+  "do. So I do think there's a very doomsday scenario happening where the world's going to be completely fucked."
+ ],
+ [
+  3,
+  3432,
+  "No one can make any money. So the thing I'm trying to build for is imagine what would AGI want to buy. And I think AGUI would want these pip"
+ ],
+ [
+  3,
+  3441,
+  "elines of verified data. So this is half jokingly, half completely serious. So yeah this is just the kind of order like second third order e"
+ ],
+ [
+  3,
+  3450,
+  "ffects of once you build one of these trust mechanisms And then coming back right to the beginning when we talked about the different trust "
+ ],
+ [
+  3,
+  3458,
+  "mechanisms"
+ ],
+ [
+  3,
+  3459,
+  "I'm not sure why I crossed them out actually because they shouldn't be crossed out, but all the different trust mechanisms we can replace wi"
+ ],
+ [
+  3,
+  3466,
+  "th different things. So how rigorously an experiment is done can be done by robotics AI. A bunch of other things can be done with AI as well"
+ ],
+ [
+  3,
+  3473,
+  ". Maybe replication markets to incentivize replication, but we need this verification layer, and that's to ensure results are recorded accur"
+ ],
+ [
+  3,
+  3481,
+  "ately"
+ ],
+ [
+  3,
+  3481,
+  "that there was real witness testimony taking place, and the results you see are actual physical notoriety of reality. I think that is it. I "
+ ],
+ [
+  3,
+  3500,
+  "am happy to take questions. Yes. Yes."
+ ],
+ [
+  3,
+  3505,
+  "Sorry, can you wait one moment? We have online viewers. Hello. Dope. More hardware and crypto is great. Is it expensive to manufacture? Are "
+ ],
+ [
+  3,
+  3515,
+  "you planning to sell it to institutions, scientific? Not really. It's actually very cheap. So the microcontroller that we use with the TE, I"
+ ],
+ [
+  3,
+  3525,
+  " think, costs about $5."
+ ],
+ [
+  3,
+  3527,
+  "And the rest of the equipment is quite cheap. So we imagine one unit, so kind of like this but a lot smaller, would be about 30, 40 pounds. "
+ ],
+ [
+  3,
+  3537,
+  "The cheapest one in the market is about 200, 250 pounds. And follow-ups for that, sorry. Other ones on the market, are they cryptographicall"
+ ],
+ [
+  3,
+  3547,
+  "y secured? No. No, nothing. One more at the back. Thank you."
+ ],
+ [
+  3,
+  3551,
+  "What does the appification pipeline look like for these truth-telling machines so that I and my edge device can be truth-telling machines in"
+ ],
+ [
+  3,
+  3562,
+  " this framework? I missed the first word that you said. What was the? Appification. Can you turn this into an app, an app experience to use "
+ ],
+ [
+  3,
+  3573,
+  "existing consumer hardware?"
+ ],
+ [
+  3,
+  3575,
+  "For pictures, yes, because all your phones can do this cryptographic signing. So anything where the input data you need to be real as a pict"
+ ],
+ [
+  3,
+  3583,
+  "ure can. There are some elements in science like if you're running like Western blots and things like that in which you just use a camera. S"
+ ],
+ [
+  3,
+  3590,
+  "o you can do that but like most of it is lab equipment so most of it would need to use the sensors in the equipment. Yes?"
+ ],
+ [
+  3,
+  3597,
+  "Why would AGI be interested? in this kind of data. So why would AGI be interested? And could we also fake that data to the AGI? So why would"
+ ],
+ [
+  3,
+  3605,
+  " AGI be interested? I think the AGI would want to know the data it is inputting is real. And like I said, it was half jail, half series. But"
+ ],
+ [
+  3,
+  3613,
+  " I do think the AGI would care about actual verifiable data because it would know that it's probably being flooded with fake data"
+ ],
+ [
+  3,
+  3621,
+  "as a way to try to attack it. So whatever is the mechanism that makes it trustworthy. Yes. Thank you. With verification, do you expect that "
+ ],
+ [
+  3,
+  3630,
+  "there would be multiple ways to try to verify that the specific physical systems are not hacked? So you have videos, you have... So you expe"
+ ],
+ [
+  3,
+  3638,
+  "ct that there will be some kind of consensus eventually? I think it would depend and differ on different types of experiments,"
+ ],
+ [
+  3,
+  3646,
+  "what the likelihood is that this data could be fake, what the effect of this fake data is and the value and things like that. But really you"
+ ],
+ [
+  3,
+  3654,
+  " want the person performing to also be observed in addition to one of these systems if you want like real, real verification. Yes. Are you g"
+ ],
+ [
+  3,
+  3663,
+  "uys, have you thought of a way to include the metadata from the system at the time that it's recording everything and like when it last was,"
+ ],
+ [
+  3,
+  3671,
+  " when the tubes were flushed and all that stuff?"
+ ],
+ [
+  3,
+  3674,
+  "Yes, it does all the metadata available. Yeah. Okay, cool. All right. If anyone wants to play around with this, we'll be doing stuff during "
+ ],
+ [
+  3,
+  3685,
+  "the Hack Hacking Week, so you can try to break the verification on it. All right. Thank you, guys. Thank you very much. We're going to go ah"
+ ],
+ [
+  3,
+  3696,
+  "ead and take at least a five-minute bio break so"
+ ],
+ [
+  3,
+  3700,
+  "we can transition into the next session. Thank you"
+ ],
+ [
+  3,
+  3775,
+  "Thank you."
+ ],
+ [
+  3,
+  3805,
+  "Thank you."
+ ],
+ [
+  3,
+  3835,
+  "Thank you."
+ ],
+ [
+  3,
+  3865,
+  "Thank you."
+ ],
+ [
+  3,
+  3895,
+  "Thank you."
+ ],
+ [
+  3,
+  3955,
+  "Thank you."
+ ],
+ [
+  3,
+  3985,
+  "Thank you."
+ ],
+ [
+  3,
+  4015,
+  "Thank you."
+ ],
+ [
+  3,
+  4045,
+  "Thank you"
+ ],
+ [
+  3,
+  4075,
+  "Thank you."
+ ],
+ [
+  3,
+  4105,
+  "Thank you."
+ ],
+ [
+  3,
+  4135,
+  "Thank you."
+ ],
+ [
+  3,
+  4165,
+  "Thank you."
+ ],
+ [
+  3,
+  4195,
+  "Thank you. Thank you."
+ ],
+ [
+  3,
+  4230,
+  "Thank you."
+ ],
+ [
+  3,
+  4260,
+  "Thank you."
+ ],
+ [
+  3,
+  4290,
+  "Thank you."
+ ],
+ [
+  3,
+  4320,
+  "Thank you Music"
+ ],
+ [
+  3,
+  4375,
+  "Thank you."
+ ],
+ [
+  3,
+  4405,
+  "Thank you."
+ ],
+ [
+  3,
+  4435,
+  "Thank you."
+ ],
+ [
+  3,
+  4465,
+  "Thank you."
+ ],
+ [
+  3,
+  4495,
+  "Thank you"
+ ],
+ [
+  3,
+  4525,
+  "Thank you."
+ ],
+ [
+  3,
+  4555,
+  "Thank you."
+ ],
+ [
+  3,
+  4585,
+  "Thank you. Thank you."
+ ],
+ [
+  3,
+  4645,
+  "Thank you"
+ ],
+ [
+  3,
+  4675,
+  "Thank you."
+ ],
+ [
+  3,
+  4705,
+  "Thank you."
+ ],
+ [
+  3,
+  4735,
+  "Thank you."
+ ],
+ [
+  3,
+  4765,
+  "Thank you."
+ ],
+ [
+  3,
+  4795,
+  "Thank you. Thank you."
+ ],
+ [
+  3,
+  4830,
+  "Thank you."
+ ],
+ [
+  3,
+  4860,
+  "Thank you."
+ ],
+ [
+  3,
+  4890,
+  "Hey, hello, hello, everyone. Okay, so we're going to talk about D-ACC and specifically in the context of augmenting human capabilities, augm"
+ ],
+ [
+  3,
+  4905,
+  "ented human capabilities through robotics, brain computer interfaces and extended reality."
+ ],
+ [
+  3,
+  4914,
+  "So, I mean, how did we, how did we get here? So we started working with robots and brain computer interfaces through trying to make intuitiv"
+ ],
+ [
+  3,
+  4926,
+  "e imagination controlled quadrupeds. So imagination is the way that you actually could use a BCI. You just imagine something and then someth"
+ ],
+ [
+  3,
+  4938,
+  "ing else happens. And now we"
+ ],
+ [
+  3,
+  4940,
+  "are looking into using different modalities to control a robot So not just quadrupeds but robots of all kinds this is the project using DCI "
+ ],
+ [
+  3,
+  4960,
+  "to control this dog to come towards and away from you"
+ ],
+ [
+  3,
+  4967,
+  "and these are for assistive purposes so if you're unable to walk or communicate or anything that you'd need assistance with, we're developin"
+ ],
+ [
+  3,
+  4988,
+  "g ways to be able to do that. You can move around."
+ ],
+ [
+  3,
+  4995,
+  "And then record like going towards them in a way while also recording brain signals. So we built a few prototype control methodologies, the "
+ ],
+ [
+  3,
+  5010,
+  "first being EEG control. So if you were in Georgia, you would have seen this."
+ ],
+ [
+  3,
+  5018,
+  "Also here we've shown you guys some finger tap control, being able to control this thing just by tapping your fingers. And also we've also d"
+ ],
+ [
+  3,
+  5028,
+  "eveloped hand gesture control. So just by making different movements with your hands, you can now control this robot dog. and also through n"
+ ],
+ [
+  3,
+  5038,
+  "atural speech and talking to it. And also, it is able to detect humans and then follow them."
+ ],
+ [
+  3,
+  5044,
+  "It can detect an individual human and follow just you if you wanted to. And in terms of these demos, we actually are able to show you one of"
+ ],
+ [
+  3,
+  5059,
+  " these live. Just give me one moment, because Ronald is setting up the BCI control. Okay, yeah."
+ ],
+ [
+  3,
+  5069,
+  "So he's calibrating the BCI control, so you'll be able to actually see what we've listed here, code modulated VEPs. And this is like a reall"
+ ],
+ [
+  3,
+  5080,
+  "y robust form of BCI for those that don't know much about BCI. The way that this functions is you have a kind of button that flashes, and al"
+ ],
+ [
+  3,
+  5090,
+  "l you got to do is look at it and then that signal or that button causes a particular signal in your brain which can be picked up and then u"
+ ],
+ [
+  3,
+  5101,
+  "sed to control the robot So it looks like we have liftoff"
+ ],
+ [
+  3,
+  5105,
+  "So this movement is being controlled by Ronald's brain. Isn't it great? Move forward. Yeah, so systems like this could extend past quadruped"
+ ],
+ [
+  3,
+  5132,
+  "s."
+ ],
+ [
+  3,
+  5132,
+  "Could extend past quadrupeds to like assisted robotic arms. Maybe you have an arm attached to that that you then can use to control other th"
+ ],
+ [
+  3,
+  5149,
+  "ings. I'll show you another one on the demos."
+ ],
+ [
+  3,
+  5154,
+  "So this is one of the demos we have. Apart from BCI controls, we also thought of a few other intuitive ways to control, which is one of them"
+ ],
+ [
+  3,
+  5167,
+  " is a wearable keyboard. And we control it by tapping the fingers. And different combinations makes it move in different ways."
+ ],
+ [
+  3,
+  5178,
+  ". Sorry? . And after this, we'll be also having a demo of a gesture-based control, and it's using"
+ ],
+ [
+  3,
+  5202,
+  "a different type of network which is called an echo state network which Robert is working on. Now we are just setting it up so... Is it conn"
+ ],
+ [
+  3,
+  5228,
+  "ected? He try moving it backwards but it might go forward so it will be a good idea Can you really be able to show it Will you be able to sh"
+ ],
+ [
+  3,
+  5254,
+  "ow it"
+ ],
+ [
+  3,
+  5255,
+  "Yeah, so I'm using this wearable keyboard to be able to make this thing tap to the left, tap to the right. And you can control the movement "
+ ],
+ [
+  3,
+  5267,
+  "of this dog quite intuitively. You know, you just walk with your fingers, and you can control this dog. So if you only had control of your f"
+ ],
+ [
+  3,
+  5279,
+  "ingers, then this could"
+ ],
+ [
+  3,
+  5281,
+  "be a way to control an assistive robot for something, whether it be a robot arm or a mobile robot like this. OK, so that was the first one. "
+ ],
+ [
+  3,
+  5290,
+  "And now we'll look at the gesture-based control. And after we're done, if anyone is interested, you can come and try it out. So the gesture-"
+ ],
+ [
+  3,
+  5300,
+  "based control, we do a bit of training. And the good thing about it is you just"
+ ],
+ [
+  3,
+  5305,
+  "need to train it three times. I think that's what the results are. So we get good classification even with three trials and over five classe"
+ ],
+ [
+  3,
+  5316,
+  "s. Is that fine? Over five classes. So for the machine learning nerds, that's pretty good. Because if you can train a whole neural network w"
+ ],
+ [
+  3,
+  5327,
+  "ith just"
+ ],
+ [
+  3,
+  5328,
+  "three trials across five classes and it works, then you have a pretty good neural network, in terms of training at least. ."
+ ],
+ [
+  3,
+  5388,
+  ". . Do you want to show that? I think it's not visible."
+ ],
+ [
+  3,
+  5413,
+  "Careful, careful, careful. . that one works before. Other than this one, . OK, so let's move on from the demos."
+ ],
+ [
+  3,
+  5436,
+  "So why DIAC? Yeah, why are we thinking about DIAC in this field, like BCIs and robotics? And mainly it's because of some big advancements th"
+ ],
+ [
+  3,
+  5448,
+  "at have happened in big tech recently. So Snap has acquired a BCI company. And this was three years ago, actually. So they are working on ac"
+ ],
+ [
+  3,
+  5460,
+  "quiring their user base's"
+ ],
+ [
+  3,
+  5462,
+  "brain signals to be able to use them for whatever means they wish. And it's not necessarily that they're using this for negative means, but "
+ ],
+ [
+  3,
+  5474,
+  "there is definitely the potential for misuse. And the same is with Apple. So just like a few days ago, they announced that they are"
+ ],
+ [
+  3,
+  5485,
+  "now considering neural signals and native input just as keyboard and mouse. So this means that in the very near future, we have big tech mov"
+ ],
+ [
+  3,
+  5499,
+  "ing into brain computer interfaces and neural data acquisition alongside all of the other data that they hold about us. Yeah, so over the pa"
+ ],
+ [
+  3,
+  5513,
+  "st few days, we have learned a lot about the things we are not aware about,"
+ ],
+ [
+  3,
+  5520,
+  "like privacy issues and also how the sensor values can be manipulated. I think we are not really aware of that, but coming here and I think "
+ ],
+ [
+  3,
+  5534,
+  "talking to the people around us given us more insight on this. So, one of the biggest"
+ ],
+ [
+  3,
+  5543,
+  "issues is like Robert said social media companies like they have a large user base and they are getting into BCIs and AI and I think there a"
+ ],
+ [
+  3,
+  5553,
+  " risk over there because their systems are closed, and we need to start making open source systems, which are quite attractive because I thi"
+ ],
+ [
+  3,
+  5563,
+  "nk the user, the social medias, have good use cases,"
+ ],
+ [
+  3,
+  5567,
+  "and with a closed system, they can flip the switch in a time. So I think we need to come up with good use cases which are open source as wel"
+ ],
+ [
+  3,
+  5577,
+  "l. So in robotics, the various things we need to think about is, one is we are creating robots in the form of humans, and it's almost like c"
+ ],
+ [
+  3,
+  5586,
+  "reating an entity which is stronger than us."
+ ],
+ [
+  3,
+  5589,
+  "I think we should also look into enhancing the human body itself with technology before we head into developing robots in their own form. An"
+ ],
+ [
+  3,
+  5599,
+  "d the other thing is having modular hardware so that the user can modify their hardware based on their needs. And also, after that, we need "
+ ],
+ [
+  3,
+  5609,
+  "to make sure we are empowering people rather than taking their jobs away."
+ ],
+ [
+  3,
+  5614,
+  "I think people can slowly transition into this new world if they are allowed to train the robots. In terms of DEAC for brain computer interf"
+ ],
+ [
+  3,
+  5627,
+  "aces though, people have already started to think about this in the neuroethics field. So neuro rights have come about which are a set of id"
+ ],
+ [
+  3,
+  5640,
+  "eas"
+ ],
+ [
+  3,
+  5640,
+  "right now. Nothing has been put into actual legislation about how neurotechnology should be developed and deployed. But we really think that"
+ ],
+ [
+  3,
+  5649,
+  " this isn't enough. We should actually build this into the technology and having people have ownership of their neural data locally is proba"
+ ],
+ [
+  3,
+  5658,
+  "bly one of the best ways to kind of have self-sovereignty of your neural"
+ ],
+ [
+  3,
+  5662,
+  "data. But then also on the neurotech device itself, we need to have pipelines that are FOSS, so free open source, and have open standards ar"
+ ],
+ [
+  3,
+  5673,
+  "ound how we actually develop BCIs and have standard formats. There are a few, but nothing has been really pushed forward more than the other"
+ ],
+ [
+  3,
+  5683,
+  ". And all of these systems should be credibly neutral. And in terms of DX4XR, we see that"
+ ],
+ [
+  3,
+  5690,
+  "there are a lot of people developing different types of shared spaces in the extended reality world but these aren necessarily governed by t"
+ ],
+ [
+  3,
+  5700,
+  "he community that use them We see that this could be a very good way of putting D in the XR field and then also making these XR experiences "
+ ],
+ [
+  3,
+  5710,
+  "public infrastructure. So it really doesn't matter what type of device."
+ ],
+ [
+  3,
+  5715,
+  "I mean, yes, there will be some restrictions, but it doesn't matter what type of device or how much money you have or anything like this you"
+ ],
+ [
+  3,
+  5724,
+  " are still able to access these extended reality This the XRX infrastructure because at the end of the day it will enhance human capabilitie"
+ ],
+ [
+  3,
+  5734,
+  "s and then in the same way We should also have open standards So over the past few days we have met multiple people and found interesting pr"
+ ],
+ [
+  3,
+  5743,
+  "ojects we can work on such as"
+ ],
+ [
+  3,
+  5745,
+  "as verified actions from the robots and also using cryptography on the BCI signals because I think it's not thought about much by the compan"
+ ],
+ [
+  3,
+  5756,
+  "ies that's pushing out these different modalities of control using BCI's. And in this space, we have people who are actually thinking about "
+ ],
+ [
+  3,
+  5766,
+  "it. So we are looking to partner with other people, create projects, because"
+ ],
+ [
+  3,
+  5772,
+  "Because I think this is a use case people actually see when we talk about cryptography. The people in the public are not actually thinking a"
+ ],
+ [
+  3,
+  5781,
+  "bout how secure their network is. But when you have use cases that are attractive, they are more keen to using those things. And when we hav"
+ ],
+ [
+  3,
+  5790,
+  "e such measures put into devices like this, we can make sure that the user is always safe and they also have full control over their data."
+ ],
+ [
+  3,
+  5799,
+  "So in terms of things that we've started to build, one project that we're calling Reach uses AR or XR and a BCI to be able to connect to rob"
+ ],
+ [
+  3,
+  5811,
+  "ots or just computers in general. This is a schematic of how it would work. It's quite intuitive because what would happen is in AR you woul"
+ ],
+ [
+  3,
+  5823,
+  "d see the object, it would"
+ ],
+ [
+  3,
+  5825,
+  "have a marker which you simply look at and then you can then guide a robot towards it or just select it in some way. This is something that "
+ ],
+ [
+  3,
+  5834,
+  "we've started to build. We still need bits of equipment like reducing from a VR headset to AR glasses would be perfect but yeah this is just"
+ ],
+ [
+  3,
+  5843,
+  " one thing that we're working on. And the other project that we working on is called the State of Mind So apart from controlling an external"
+ ],
+ [
+  3,
+  5852,
+  " body we also need to learn how to control our own minds"
+ ],
+ [
+  3,
+  5856,
+  "It's not only for people who have mental health issues, but I think everybody needs to gain a bit more control over their minds. I mean, it "
+ ],
+ [
+  3,
+  5869,
+  "helps us navigate life better. So this project helps us visualize our minds using different colors and shapes and also"
+ ],
+ [
+  3,
+  5880,
+  "audio cues that come out based on the brain signals. Yeah, that's it. And thank you. And join us in shaping human acceleration. Thank you. I"
+ ],
+ [
+  3,
+  5892,
+  "f you have any projects and think of working with us, this is the QR code. And I think we've already spoken with many people around here, fo"
+ ],
+ [
+  3,
+  5904,
+  "und interesting projects,"
+ ],
+ [
+  3,
+  5906,
+  "seeing how we can make a good project out of it and also include different domains rather than just a few of them. Because I think we are su"
+ ],
+ [
+  3,
+  5920,
+  "pposed to collaborate somehow and find a good use case with all of them. And that's when the people outside this bubble are aware of what th"
+ ],
+ [
+  3,
+  5935,
+  "ey need to look into. Thank you. Thank you. Any questions?"
+ ],
+ [
+  3,
+  5941,
+  "So when you say mind control in this last one, I imagine it's like training your own brain, like you train muscle to have muscle memory at s"
+ ],
+ [
+  3,
+  5953,
+  "ome level. What does that look like? Is that like a PCI sensors that I'm wearing and getting feedback? How do you envision that interaction "
+ ],
+ [
+  3,
+  5965,
+  "happening? It would be a visual feedback."
+ ],
+ [
+  3,
+  5968,
+  "Yeah, it would be a visual feedback from the brain and also audio feedback from the brain and how it works, I'd give Robert to explain that."
+ ],
+ [
+  3,
+  5979,
+  " Yeah, so let's just take a wave that you might have heard of, like alpha waves. So these are very dominant in the brain when you are relaxe"
+ ],
+ [
+  3,
+  5991,
+  "d."
+ ],
+ [
+  3,
+  5991,
+  "So let's say that you wanted to make sure you get into a more relaxing state. You can, you'll be instructed to relax. And then this... This "
+ ],
+ [
+  3,
+  5999,
+  "will, you can kind of choose how you want to perceive your change in mental state. So this could be audio, so you could have like shapes app"
+ ],
+ [
+  3,
+  6008,
+  "ear, or sorry, not shape, or you could hear something and that would change the tone, or you can have it visually where"
+ ],
+ [
+  3,
+  6015,
+  "shapes would appear, or what we have right now is a particle system that kind of moves around and you can make it pulse. So in terms of this"
+ ],
+ [
+  3,
+  6026,
+  ", it's just any way of then visualizing something that we know is related to a particular mental state. And then learning how you yourself c"
+ ],
+ [
+  3,
+  6038,
+  "an change what you're doing in your mind to cause this by getting that feedback."
+ ],
+ [
+  3,
+  6044,
+  "Any other questions? All right, thank you. Thank you both so much. And that's it for the DIAC afternoon. We will have a short transition now"
+ ],
+ [
+  3,
+  6063,
+  " for 15 minutes into the cypherpunk evening sessions. Thank you again. Thank you."
+ ]
+]
