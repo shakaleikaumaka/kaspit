@@ -57,13 +57,14 @@
     "id": "1NB4qD3V39wp1cogAaUW5fdcz1fr_W8Y8",
     "kind": "video",
     "size": 0,
-    "stream": true
+    "stream": true,
+    "hosted": "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1NB4qD3V39wp1cogAaUW5fdcz1fr_W8Y8.mp3"
    }
   ],
-  "transcript": null,
-  "duration": null,
+  "transcript": "1NB4qD3V39wp1cogAaUW5fdcz1fr_W8Y8",
+  "duration": "01:46:05",
   "quality": "ok",
-  "transponder": false,
+  "transponder": true,
   "featured": true,
   "speakers": [
    "Michel Bauwens (P2P Foundation)"
