@@ -10633,5 +10633,1545 @@
   7,
   2629,
   "And what I mean by that is shouldn't we have data trusts"
+ ],
+ [
+  9,
+  0,
+  "So first of all, thank you guys, you know, for, I mean, just, continuing to keep up all of the, hard work on, you know, like, running and do"
+ ],
+ [
+  9,
+  11,
+  " these kinds of events and just continuing to do interesting, things. So the thing I wanted to talk about, today, is, governance experiments"
+ ],
+ [
+  9,
+  23,
+  ". Right? And,"
+ ],
+ [
+  9,
+  24,
+  "I hope that we can do more governance experiments and more, interesting governance experiments. So, to start off, right, maybe one natural t"
+ ],
+ [
+  9,
+  35,
+  "hing to start with is, let's talk about ICOs. Right? And, so this is, you know, a chart of, some of the ICOs that happened, back in 2017."
+ ],
+ [
+  9,
+  46,
+  "Right? So I'm sure some of you guys remember, you know, we had things like Filecoin. We had things like, you know, all being the DAO, of cou"
+ ],
+ [
+  9,
+  59,
+  "rse. So that one, did end up failing quite famously. You know, like Tezos, the various different, Ethereum related projects,"
+ ],
+ [
+  9,
+  70,
+  "you know, like, also things like Status, Omisego, and, like, Gnosis and, you know, the list goes on and on. Right? And I think what's intere"
+ ],
+ [
+  9,
+  81,
+  "sting to me about the, ICO period is, that's, while I think, ICOs had flaws, but, at the same time, they had a couple of advantages. Right? "
+ ],
+ [
+  9,
+  93,
+  "So"
+ ],
+ [
+  9,
+  93,
+  "a a really big one is that they were fair, and anyone could participate on kind of an equal footing. Right? And there were some ICOs that, l"
+ ],
+ [
+  9,
+  102,
+  "ike, came close to being completely fair, and but then, some of them did end up getting discounts to, like, privileged investors and, exchan"
+ ],
+ [
+  9,
+  110,
+  "ges and people doing marketing and so on. Right? But, I think even there, it was still much better than today. Right? And, the other really "
+ ],
+ [
+  9,
+  119,
+  "beautiful thing that they did is I think they created"
+ ],
+ [
+  9,
+  122,
+  "genuinely global and widely distributed communities. Right? Because, the way the economics of an ICO work is, like, you wants to get money f"
+ ],
+ [
+  9,
+  130,
+  "rom, wherever it is. Right? And some people are in The US, some people are in Europe, some people are in Asia. And, you know, you hire the c"
+ ],
+ [
+  9,
+  138,
+  "ommunity lead for Europe. You hire a community lead for China. You hire a community lead for Japan. Hire a community lead for Turkey."
+ ],
+ [
+  9,
+  146,
+  "And, like, you really try to reach out to people everywhere. Right? And and people everywhere can put in money. And then a lot of the time p"
+ ],
+ [
+  9,
+  154,
+  "utting in money translates into, like, being an actual productive member of the community. Right? And if you fast forward to, like, some of "
+ ],
+ [
+  9,
+  162,
+  "the more VC driven projects that we see over the last few years, I think they tends to be much"
+ ],
+ [
+  9,
+  168,
+  "more, like, single country focused. Right? Like, the more institutional something gets, the more it tends to get single country focused. Rig"
+ ],
+ [
+  9,
+  177,
+  "ht? And, you know, we see, yeah, a lot of, recent blockchain projects that are being, like, very America specific. I mean, we also see, yes,"
+ ],
+ [
+  9,
+  187,
+  " similar things for other countries and for other and in other"
+ ],
+ [
+  9,
+  191,
+  "continents. And I don't really think we have anything like a similar type of generator for global communities. Right? And, one of the dreams"
+ ],
+ [
+  9,
+  202,
+  " that, I had for a long time is, base the basically, yeah, can we take this concept of, an ICO and, can we come up with a structure that's, "
+ ],
+ [
+  9,
+  214,
+  "both preserves the benefits that it has"
+ ],
+ [
+  9,
+  217,
+  "and that's, at the same time tries to do some more interesting things to mitigate the downsides. Right? And so, back in, 2018, I, came up wi"
+ ],
+ [
+  9,
+  230,
+  "th this concept called a, DAICO. By the way, are people still seeing the slides? Just wanna check. All good? Okay."
+ ],
+ [
+  9,
+  240,
+  "I I should have the the Venn diagram here. Right? Mhmm. Okay. So, DAICOs, they, can basically yeah. The idea is that it's a type of DAO, whe"
+ ],
+ [
+  9,
+  252,
+  "re people, are prover prover to speak in a project or putting in money. And by default, the team can do, what they want to do with those fun"
+ ],
+ [
+  9,
+  264,
+  "ds, but they have some limit, to how quickly they can withdraw."
+ ],
+ [
+  9,
+  269,
+  "And the project the the participants in the project at any time have the ability to vote, to basically take the funds back. Right? And the g"
+ ],
+ [
+  9,
+  279,
+  "oal of this is basically to try to create a check against the like, a lot of the types of, fraud or, like, some of the failure modes of ICOs"
+ ],
+ [
+  9,
+  289,
+  " that we saw, right, where sometimes the team would just disappear with the money completely,"
+ ],
+ [
+  9,
+  296,
+  "or sometimes the team would, like, raise $70,000,000, and then they realize that, like, wait. Maybe they don't actually need to hire many pe"
+ ],
+ [
+  9,
+  304,
+  "ople. They just, basically, yeah, come up with excuses for why what they wanna do will take a very, very long time. And then they basically "
+ ],
+ [
+  9,
+  312,
+  "just use the money to give their team and their friends a pension for life. Right? And so, in those kinds of situations, the idea is that th"
+ ],
+ [
+  9,
+  320,
+  "e participants in the DAICO would just be able to vote and would be able to claw the funds back. Right? Now this isn't, like, the only kind "
+ ],
+ [
+  9,
+  328,
+  "of mechanism that you can do, but, to me, it's like an example. It's meant to be a starting point for, thinking."
+ ],
+ [
+  9,
+  334,
+  "And, it's, I think, recently, there's been a lot of interest in coming back to things that are similar to this. Like, I even know that a lot"
+ ],
+ [
+  9,
+  344,
+  " of Aragons are thinking about DAOs recently. It's been much more about, like, giving the team discretionary power by default, but, basicall"
+ ],
+ [
+  9,
+  354,
+  "y giving the distributed community more veto power."
+ ],
+ [
+  9,
+  358,
+  "And, I mean, it they he doesn't you know, Anthony doesn't really call it a DAICO, but it's functionally, yeah, a very similar concept. Right"
+ ],
+ [
+  9,
+  367,
+  "? So this is, like, one example of a thing that could be done. Right? And, I mean, this type of model was originally invented for, like, tok"
+ ],
+ [
+  9,
+  377,
+  "en projects, basically, of the type that launched in 2017. But, theoretically, yeah, it could be applied to"
+ ],
+ [
+  9,
+  384,
+  "just lost the Sir? We lost the What was that? Sorry. We lost the slides, accidentally. The slides. Heck. Oh, I see. Are we still hold on. St"
+ ],
+ [
+  9,
+  404,
+  "op presenting. Window. Share. Okay."
+ ],
+ [
+  9,
+  409,
+  "You good now? Okay. Perfect. Now you see it. Okay. Good. Yeah. So I think, like, I but I think, like, this type of model and just, in genera"
+ ],
+ [
+  9,
+  420,
+  "l, this kind of idea of, more sophisticated governance models that try to more explicitly give the community, yeah, like, more kinds of righ"
+ ],
+ [
+  9,
+  431,
+  "ts. Like, I think it's,"
+ ],
+ [
+  9,
+  433,
+  "something that can be applied in many more different types of, types of contexts. Another, thing that's, I mean, I've been working on recent"
+ ],
+ [
+  9,
+  444,
+  "ly, and, Devanche has been really, taking charge of, together with you know, like, David Dow and, you know, Gaskell and, like, Clemont and a"
+ ],
+ [
+  9,
+  456,
+  "nd his group is,"
+ ],
+ [
+  9,
+  457,
+  "deep funding. Right? And, deep funding is basically this public goods funding, mechanism that, has two of these, different, ideas to it. Rig"
+ ],
+ [
+  9,
+  469,
+  "ht? One of the ideas is basically to, use AI and, to use AI in a way where, like, you're not enshrining one single AI, but, you're creating "
+ ],
+ [
+  9,
+  481,
+  "an open market where anyone can, provide AI generated or potentially even, human generated,"
+ ],
+ [
+  9,
+  489,
+  "values. And then you have a spot checking mechanism that random where you have a jury that, does a much smaller number of, random checks. An"
+ ],
+ [
+  9,
+  498,
+  "d, basically, yeah, the incentives for the, people providing the answers with AI or to score as high a score on the, yeah, human jury spot c"
+ ],
+ [
+  9,
+  508,
+  "hecking, part as possible. Right? And the problem that deep funding is trying to solve is basically that's,"
+ ],
+ [
+  9,
+  515,
+  "like, one of the big problems with AI is that humans don't wanna make lots of decisions. Right? And once, like, you you need to do more than"
+ ],
+ [
+  9,
+  523,
+  ", you know, like, a single digit number of decisions, like, people's eyes tends to glaze over and they just, like, click no, yes, no, no, ye"
+ ],
+ [
+  9,
+  532,
+  "s for everything based off of, like, a one second look. And it ends up just leading to very low quality decision making. Right? So here, we "
+ ],
+ [
+  9,
+  540,
+  "basically say, well, you have a jury and then you feed the jury a very limited number of randomly sampled questions that's limited enough th"
+ ],
+ [
+  9,
+  548,
+  "at they can afford to think deeply about them. And then you,"
+ ],
+ [
+  9,
+  552,
+  "basically, yeah, you, allow anyone to come in with AI models and to try to predict them. And you take the, you you take the the values that "
+ ],
+ [
+  9,
+  563,
+  "are the most compatible with with the spot check-in those in those places where the spot check is made. So this is one of the ideas. Right? "
+ ],
+ [
+  9,
+  574,
+  "And then the second part of this idea is"
+ ],
+ [
+  9,
+  577,
+  "the the graph structure. Right? And, basically, the idea here is that a lot of the previous public goods funding ideas, things like quadrati"
+ ],
+ [
+  9,
+  585,
+  "c funding, they were sort of inherently global in scope in some ways. Right? Like, if you look at the mathematical reasoning behind you know"
+ ],
+ [
+  9,
+  594,
+  ", like, quadratic funding, like, it basically says, well, we it's a mechanism that assumes that that's"
+ ],
+ [
+  9,
+  600,
+  "people have a prob a a coordination problem or, like, a a pro one of these tragedy of the common situations where they're they all want us s"
+ ],
+ [
+  9,
+  610,
+  "ome things to be funded, but they're not willing to, like, cover the full cost individually. And the problem is that at the same time, you d"
+ ],
+ [
+  9,
+  619,
+  "on't know which things are actually valuable and which things are not. And so you let people donate, and then you use the donations themselv"
+ ],
+ [
+  9,
+  629,
+  "es as a signal."
+ ],
+ [
+  9,
+  630,
+  "And then you provide matching where the matching increases the more people donate to try to, like, correct for the inefficiencies of just th"
+ ],
+ [
+  9,
+  639,
+  "e raw donation mechanism. Right? And what's interesting about quadratic funding is, like, it is, in some sense, completely unopinionated and"
+ ],
+ [
+  9,
+  647,
+  " neutral. Right? And so when you have Gitcoin quadratic funding rounds, like, basically, that what that means is that there is a separate"
+ ],
+ [
+  9,
+  656,
+  "entity that's basically going in and saying, like, this is approved. This is not approved. This is on topic. This is not on topic. This is g"
+ ],
+ [
+  9,
+  665,
+  "ood. Or this is okay. This is bad. Right? And the the challenge basically is that, like, it assumes funders who are willing to fund public g"
+ ],
+ [
+  9,
+  674,
+  "oods in the in this very abstract way, which is also not the reality. Right? Like, funders themselves tends to be more opinionated about wha"
+ ],
+ [
+  9,
+  683,
+  "t kinds of things they want to support."
+ ],
+ [
+  9,
+  686,
+  "And so the idea here is basically that the values that deep funding provides are base are weights in on edges of this kind of graph. Right? "
+ ],
+ [
+  9,
+  694,
+  "And so we have a graph that basically says, well, you have a bunch of projects, and then the edges represents, well, what share of credits d"
+ ],
+ [
+  9,
+  703,
+  "oes one project deserve for another project? Right? So it's not trying to come up with a global score of, like, how much did this Geth libra"
+ ],
+ [
+  9,
+  711,
+  "ry contribute to humanity, how much it or even how much did it contribute to Ethereum. Right? You're answering a much more local question of"
+ ],
+ [
+  9,
+  719,
+  " 1% of the credit for x belongs to y. And then"
+ ],
+ [
+  9,
+  722,
+  "as a funder, like, you even have a choice. Like, you have a choice of which basically, which node is defined. And then when you find the nod"
+ ],
+ [
+  9,
+  731,
+  "e, then based on the weights that are done by the deep funding mechanism, like, the the funding automatically propagates. Right? And so it's"
+ ],
+ [
+  9,
+  740,
+  " a mechanism that is similarly, like, very, yeah, kind of neutral and applicable to, like, the entire,"
+ ],
+ [
+  9,
+  746,
+  "you know, like, a graph of projects on the Internet, but we are decisions are much more locally scoped, both for the funders and for the par"
+ ],
+ [
+  9,
+  755,
+  "ticipants. And so this is I mean, I like, again, I think deep funding is definitely not the only, yeah, like, funding mechanism, but I think"
+ ],
+ [
+  9,
+  765,
+  " the underlying ideas of, like, taking AI seriously as a solution to the problem of, well, how do you actually make a large number of decisi"
+ ],
+ [
+  9,
+  774,
+  "ons, but at the same time not blindly trusting AI, but, like, actually thinking about how to incentivize or how to constrain it. And also"
+ ],
+ [
+  9,
+  783,
+  "thinking about, like, instead of public goods in an absolute sense, thinking about dependencies and the graphs of dependencies. Like, these "
+ ],
+ [
+  9,
+  792,
+  "are, I I think, valuable ideas. And, like, you can work and build more things on top of them. One other trend is privacy preserving voting. "
+ ],
+ [
+  9,
+  802,
+  "Right? One of the other big problems of DAO voting is that who you vote for and what you vote for and against turns into a social game. And,"
+ ],
+ [
+  9,
+  811,
+  "like, in regular democratic elections, I mean, we have a secret ballot. And so we should have secret ballots for Dallas as well. And, Aragon"
+ ],
+ [
+  9,
+  820,
+  " is, actually doing this now. Right? And so they're taking technology that was started by PSC, and they're continuing to, like, you know, ap"
+ ],
+ [
+  9,
+  830,
+  "ply it and improve the user experience on it. So I I hope that we can see more private DAOs as well where"
+ ],
+ [
+  9,
+  837,
+  "participation in voting can be private. I mean, I think also even there should be an option for participation in a discussion to be anonymou"
+ ],
+ [
+  9,
+  845,
+  "s, but still proving that you're a member of the community. Right? And this is actually it is something interesting that Zoosalibid did a co"
+ ],
+ [
+  9,
+  854,
+  "uple of years ago. Right? Where in the original one, you know, we had Zoo poll and Zoo forums. And so people could post as a member, like, i"
+ ],
+ [
+  9,
+  862,
+  "n a way that there's zero knowledge prove that they're members without revealing which one."
+ ],
+ [
+  9,
+  868,
+  "Also, multi house designs. Right? I think, like, I'm I've always been a big fan of moving beyond coin voting because I think coin voting is "
+ ],
+ [
+  9,
+  878,
+  "attackable in a lot of ways and coin voting only uplifts one set of constituents. And so optimism, I think, did a good job of having these t"
+ ],
+ [
+  9,
+  887,
+  "wo houses, token house and citizen house."
+ ],
+ [
+  9,
+  890,
+  "And, basically, you have token holders and you have this sole bound, like, non transferable class of citizenships that and, like, these diff"
+ ],
+ [
+  9,
+  902,
+  "erent houses, they have different responsibilities. Right? So I think these are all, like, just examples of, different kinds of mechanisms t"
+ ],
+ [
+  9,
+  914,
+  "hat, we could use. Right? And the I think all of them are, in this"
+ ],
+ [
+  9,
+  920,
+  "at different stages, but they're generally at stages where they've already been worked on quite a bit. But there is still an opportunity to,"
+ ],
+ [
+  9,
+  929,
+  " like, really take the next step and push them into practice and roll them out in the real world and iterate on all of them much more. Right"
+ ],
+ [
+  9,
+  939,
+  "? So why is this relevant, to pop ups in particular? Right? I think,"
+ ],
+ [
+  9,
+  943,
+  "it's the same problem again. Hold on. Click. Click. Click. Mhmm. There we go. That's the the multi house design. Yeah. So, basically, why is"
+ ],
+ [
+  9,
+  957,
+  " the so why is this relevant for Zoom pop ups? Right? Is that lost it again. I don't know what happened. Yes. But there there we go. Yeah. I"
+ ],
+ [
+  9,
+  971,
+  " just ring edit."
+ ],
+ [
+  9,
+  973,
+  "Basically, yeah, I think, like, I've become convinced that, like, a lot of this like, a lot of the most valuable stuff that can happen in Az"
+ ],
+ [
+  9,
+  985,
+  "ure nodes, basically, can only happen if they become, like, permanent, fixed nodes to some extent. And, I think the reason why I believe thi"
+ ],
+ [
+  9,
+  996,
+  "s is basically that,"
+ ],
+ [
+  9,
+  998,
+  "like, doing the pop up thing is too high cost, for everyone. It's a high cost for people to put their constantly move around. It's high cost"
+ ],
+ [
+  9,
+  1009,
+  " for so, like, to rent the spaces for shorter periods of time. It's high cost to negotiate with new groups for the first time without of jus"
+ ],
+ [
+  9,
+  1019,
+  "t already knowing who you're dealing with. It's"
+ ],
+ [
+  9,
+  1023,
+  "generally a high cost to constantly reset your relationships. And, also, if he wants to do really interesting things, especially, so you usi"
+ ],
+ [
+  9,
+  1033,
+  "ng as you know, it's as an opportunity to experiment on the hardware side, then constantly moving it around every forty two days just does n"
+ ],
+ [
+  9,
+  1043,
+  "ot make any sense. Right? And so the challenge though is that's like, a pop ups are very light on governance. Right? And,"
+ ],
+ [
+  9,
+  1052,
+  "like, in some ways, ups are easy mode because there is a governance mechanism that has proven to work relatively fine, which is basically yo"
+ ],
+ [
+  9,
+  1060,
+  "u have a dictatorship of the core team. And then if the core team does things that the community dislikes, then, you know, they get the comm"
+ ],
+ [
+  9,
+  1069,
+  "unity realizes this, and then they just next time, they don't go to that pop up or they, yeah, potentially leave early. And then it's just a"
+ ],
+ [
+  9,
+  1077,
+  " very low cost for them to go to someone else's pop up instead. Right? But this is something that's does not work so effectively in a perman"
+ ],
+ [
+  9,
+  1085,
+  "ent note. Right? And so governance challenges become, greater."
+ ],
+ [
+  9,
+  1089,
+  "And, I think, also pop ups, they have this, kind of interesting triangulation in terms of, what their what their goals of, governance for a,"
+ ],
+ [
+  9,
+  1099,
+  " yeah, permanent node are. Right? One of them is basically that you need to raise capital without the capital raising turning into an over c"
+ ],
+ [
+  9,
+  1108,
+  "entralized form of governance. Right? And then another one is that you need to balance execution"
+ ],
+ [
+  9,
+  1115,
+  "ability with giving a, yeah, pretty complex set of guarantees for citizens. Right? Like, in a corporation, the guarantees that you need to g"
+ ],
+ [
+  9,
+  1124,
+  "ive for to shareholders are, like, actually pretty simple. Like, basic mean, often complex to interpret, but in principle, like, basically, "
+ ],
+ [
+  9,
+  1133,
+  "yeah, minority shareholders don't want us to get rugged. But in"
+ ],
+ [
+  9,
+  1137,
+  "this case, like, the specific things that property is that, like, Citizens wants to ensure a permanent know it upholds. Like, there's often "
+ ],
+ [
+  9,
+  1146,
+  "a lot of them. They're complex. They might even be evolving. And so, essentially, yeah, need to, like, have a structure that actually provid"
+ ],
+ [
+  9,
+  1156,
+  "es more guarantees, but at the same time, you need to have execution ability."
+ ],
+ [
+  9,
+  1161,
+  "And importantly, at the same time, you need to have something that can hold capital without it getting corrupted and captured. And so here, "
+ ],
+ [
+  9,
+  1170,
+  "I think some examples of, like, concepts that are interesting here. So ownership shares in a land. Obviously, if you have a permanent node, "
+ ],
+ [
+  9,
+  1180,
+  "a permanent node will have land, and that land gets more valuable the more successful the the, yeah, permanent node is, at least well, it it"
+ ],
+ [
+  9,
+  1189,
+  " actually depends. Right? Because potentially, yeah, the permanent node might expand physically. And so the lands might not get more valuabl"
+ ],
+ [
+  9,
+  1199,
+  "e or maybe, like, some of the land more central lands does, but then, like, the the periphery keeps expanding."
+ ],
+ [
+  9,
+  1206,
+  "Right? But, like, land is one type of thing that's it can economically becomes, like, part of the structure and part of people's calculation"
+ ],
+ [
+  9,
+  1215,
+  "s. Also, a popular one that that I've seen come up again and again from people thinking about this is ownership shares in startups that are "
+ ],
+ [
+  9,
+  1224,
+  "created in the node. So this is basically thinking of nodes as, like, actually being a type of community incubator."
+ ],
+ [
+  9,
+  1232,
+  "And then that node would have ownership shares in these startups. And then, like, this is an asset that's, you know, like, where it needs to"
+ ],
+ [
+  9,
+  1244,
+  " be governed. And, also, it needs to be, yeah, given to, like, initial investors in the per permanent node that needs to get some kind of a "
+ ],
+ [
+  9,
+  1255,
+  "reward that comes out of this."
+ ],
+ [
+  9,
+  1258,
+  "Then I think the the concept of citizenships. Right? So, like, I think once again, interesting about, citizenships and per in permanent note"
+ ],
+ [
+  9,
+  1267,
+  "s. Right? So first of all, like, I do think that citizenship should not be fungible. Right? And, like, to me, yeah, you know, like, citizens"
+ ],
+ [
+  9,
+  1276,
+  "hip is about loyalty, loyalty and fungibility are opposites. Right? This is also, by the way, why, like, turning loyalty points into ERC 20 "
+ ],
+ [
+  9,
+  1285,
+  "tokens on the blockchain never works because,"
+ ],
+ [
+  9,
+  1288,
+  "like, then, basically, whenever you get loyalty points, you just dump them on Uniswap, and it just becomes equivalent to, like, a discount b"
+ ],
+ [
+  9,
+  1297,
+  "ut with worse UX. But, I mean, I personally would actually prefer to see, yeah, a world without loyalty points, and just give, like, give me"
+ ],
+ [
+  9,
+  1307,
+  " proper discounts for most businesses. But I think, in this particular context,"
+ ],
+ [
+  9,
+  1312,
+  "right, so so, like, you will want, some way to recognize, like, who as individuals have been contributing to and, taking part in a, permanen"
+ ],
+ [
+  9,
+  1323,
+  "t node for a long period of time. And, like, people in that position should have more of a say in governance. Though so you can make it non "
+ ],
+ [
+  9,
+  1335,
+  "transferable."
+ ],
+ [
+  9,
+  1336,
+  "Also, you can potentially make it partially transferable. So this is the idea that, like, well, maybe you can transfer it, but then the thin"
+ ],
+ [
+  9,
+  1344,
+  "g that the recipients gets is less valuable than the thing that you lose. Or maybe it's, like, only only yeah. You have some class of, like,"
+ ],
+ [
+  9,
+  1353,
+  " asset that's only transferable after a lockup period or maybe, you know, you have alternatively, you have, like, a token. But then if he wa"
+ ],
+ [
+  9,
+  1361,
+  "nts to turn the token into giving you benefits, you have to lock it up for some long period of time. So there's a lot of ways to make,"
+ ],
+ [
+  9,
+  1369,
+  "like, concepts of membership that are partially transferable. Also, I think it needs to be scalar rather than being binary. Right? So in a c"
+ ],
+ [
+  9,
+  1377,
+  "ountry, citizenship tends to be binary. I mean, it's like a little bit of a scaler because for people coming in from abroad, you know, you h"
+ ],
+ [
+  9,
+  1385,
+  "ave the traditional kind of leveling pathway. You know, you have temporary residency, permanent residency, renew the permanent residency, an"
+ ],
+ [
+  9,
+  1393,
+  "d then, like, you can take the citizenship test in n years. But, generally, it's, like, pretty on the binary side. I think zoo nodes are fun"
+ ],
+ [
+  9,
+  1401,
+  "damentally different,"
+ ],
+ [
+  9,
+  1402,
+  "and I think citizenship is something that actually should be a scaler rather than a binary. Basically, yeah, regular visitors need to be rec"
+ ],
+ [
+  9,
+  1413,
+  "ognized more than guests, but full timers need to be recognized more than regular visitors. And and so, like, these are just some of the uni"
+ ],
+ [
+  9,
+  1424,
+  "que"
+ ],
+ [
+  9,
+  1424,
+  "considerations to think about. Right? But I think in general, right, like, one of the initial, yeah, motivations for this whole concept is b"
+ ],
+ [
+  9,
+  1434,
+  "asically that's like, these are opportunities to, like, really, yeah, actually do more of these kinds of experiments. And, you know, there w"
+ ],
+ [
+  9,
+  1445,
+  "as a lot of excitement about DAOs in Ethereum."
+ ],
+ [
+  9,
+  1448,
+  "I mean, like, in 2015 to 2020, a lot of excitement about, you know, ICOs, of course. And the interest in DAOs has definitely, yeah, like, dr"
+ ],
+ [
+  9,
+  1459,
+  "opped off quite a lot recently, and I think there's basically a couple of reasons. Right? One of them is that's basically, everyone forked c"
+ ],
+ [
+  9,
+  1470,
+  "ompound and, like, compound style governance has a"
+ ],
+ [
+  9,
+  1474,
+  "lot of flaws to it. But, like, this includes, like, vulnerability to financial attacks. This includes, like, voter apathy. They'll include I"
+ ],
+ [
+  9,
+  1485,
+  " I don't know. Just, like, low voter participation. Thus, it includes a low quality decision making. Like, it includes all kinds of issues. "
+ ],
+ [
+  9,
+  1496,
+  "Right? And the other one is, of course, that there realistically"
+ ],
+ [
+  9,
+  1501,
+  "were a lot of projects that were only decentralizing because they wanted to, you like, not be under the eye of Gary Gensler. And so now Gary"
+ ],
+ [
+  9,
+  1510,
+  " Gensler is gone. And so those kinds of projects are just proudly, yeah, you know, taking off the mask and saying we're going full centraliz"
+ ],
+ [
+  9,
+  1519,
+  "ed now. And so I but at the same time, like, the reason why I'm optimistic about this space is that I do think that,"
+ ],
+ [
+  9,
+  1527,
+  "you know, there are needs for this kind of stuff. And at this you know, like, basically yeah. I mean, like, a dictator governance has a lot "
+ ],
+ [
+  9,
+  1537,
+  "of flaws to it, and dictator governance is sort of what you get by default if you just don't have brain cycles on this problem and you get l"
+ ],
+ [
+  9,
+  1548,
+  "azy. And also token holder governance is the other thing that people fall"
+ ],
+ [
+  9,
+  1553,
+  "fall into when they get lazy, and that also has a lot of problems. Right? But at the same time, like, we have new tools. Right? And to me, I"
+ ],
+ [
+  9,
+  1563,
+  " think the two big new tools are ZK and AI. And ZK, the the reason why is basically because it it gives you privacy. And by giving you priva"
+ ],
+ [
+  9,
+  1573,
+  "cy in governance and in communication, you have a lot more leeway to solve the problem that"
+ ],
+ [
+  9,
+  1579,
+  "governance turns into, like, a very toxic type of social game. And with AI, I basically see AI as a solution to the problem of how do you re"
+ ],
+ [
+  9,
+  1589,
+  "spect a person's intention while at the same time answering a making decisions at a very high volume. Right? And, like, this was also the so"
+ ],
+ [
+  9,
+  1600,
+  "rt of thing that's, you know, like ten and twenty years ago, it was solved by liquid"
+ ],
+ [
+  9,
+  1606,
+  "democracy and the whole concept of delegation. Right? And, like, Dallas obviously used delegation, but then, like, we've discovered that del"
+ ],
+ [
+  9,
+  1614,
+  "egation well, delegation is also very disempowering in its own way. Right? And so, like, you basically only have one decision bid at the beg"
+ ],
+ [
+  9,
+  1623,
+  "inning, and then you just, like, check out, and then you stop thinking about it. And then delegates themselves accumulate a huge amount of p"
+ ],
+ [
+  9,
+  1631,
+  "ower. Right? And I think to me, AI is all it's is a different way of scaling"
+ ],
+ [
+  9,
+  1636,
+  "up the ability to interpret human preferences on specific situations. But at the same time, it needs to be used in the right way. Right? And"
+ ],
+ [
+  9,
+  1645,
+  " used in a way where it does the thing that's valuable, but at the same time, like, you're not just entrusting everything to one single thin"
+ ],
+ [
+  9,
+  1654,
+  "g that, like, might get, you know, like, attacked with a jailbreak or"
+ ],
+ [
+  9,
+  1658,
+  "that, like, might actually be interpreting your goals very incorrectly. Right? And so those are the kinds of things that, you know, like thi"
+ ],
+ [
+  9,
+  1667,
+  "ngs like deep funding try to correct for. Right? And so we have these powerful new tools. We also have the experience over the last decade w"
+ ],
+ [
+  9,
+  1675,
+  "here we saw what succeeded and failed. And so I hope that, you know, like Zucas and other nodes can really be part of this and be part of, l"
+ ],
+ [
+  9,
+  1684,
+  "ike, thinking of and"
+ ],
+ [
+  9,
+  1685,
+  "experimenting with, like, the next wave of these kinds of governance ideas. So thank you. Thank you so much, Vitalik, for this inspiration t"
+ ],
+ [
+  9,
+  1705,
+  "o all all all the contribution. And maybe we can make a small QA session. Maybe there's some question from committee. And is there any quest"
+ ],
+ [
+  9,
+  1724,
+  "ion?"
+ ],
+ [
+  9,
+  1725,
+  "Thank you so much for the insightful talk. Actually, I have two question. The first one is related with this one. So voting is mostly we see"
+ ],
+ [
+  9,
+  1735,
+  " that transparent or coercible in some ways. And if they are private, they may be, in most most of the cases, off chain. If privacy preservi"
+ ],
+ [
+  9,
+  1745,
+  "ng voting could be made native,"
+ ],
+ [
+  9,
+  1747,
+  "what new mechanisms or incentive models do you think become possible? This is my first question. Mhmm. If you would like to answer it. Or th"
+ ],
+ [
+  9,
+  1756,
+  "e other one is, so we also know that Ethereum has made transparency programmable, and we have been working on protocols on privacy solutions"
+ ],
+ [
+  9,
+  1766,
+  ". Do you think Ethereum's features and game includes privacy being a first class primitive"
+ ],
+ [
+  9,
+  1772,
+  "on par with programmability and scalability? Thank you so much. Yeah. So for the first question, like, I don't see privacy as, like, directl"
+ ],
+ [
+  9,
+  1782,
+  "y enabling new types of, voting mechanisms because any voting mechanism that can be done private theoretically can be done transparent. I do"
+ ],
+ [
+  9,
+  1792,
+  " see it as a way to take these mechanisms"
+ ],
+ [
+  9,
+  1795,
+  "and, like, basically eliminates a large class of ways in which they break down and in which participants end up inputting into the mechanism"
+ ],
+ [
+  9,
+  1805,
+  " something other than their honest, well considered opinion. And so I think this applies for regular voting. I think this applies for quadra"
+ ],
+ [
+  9,
+  1815,
+  "tic voting. I think this applies for jury deep funding. I think it"
+ ],
+ [
+  9,
+  1820,
+  "applies in all kinds of different situations. For the second question, you know, so, like, the long term role of privacy in Ethereum. Right?"
+ ],
+ [
+  9,
+  1830,
+  " So I I generally believe that privacy is important. And, I think, to me, the balance between privacy and transparency yeah. I mean, I think"
+ ],
+ [
+  9,
+  1841,
+  " it's a it's a subtle question, and, it differs a lot case by case. But one of the principles is, basically,"
+ ],
+ [
+  9,
+  1849,
+  "like, transparency for how the wires are laid out and privacy for what goes through the wires. Right? So, you want people to be confident in"
+ ],
+ [
+  9,
+  1859,
+  ", what the mechanism is and, like, how the thing that they are participating in works. But at the same time, you don't necessarily want, lik"
+ ],
+ [
+  9,
+  1869,
+  "e, every individual contribution"
+ ],
+ [
+  9,
+  1871,
+  "that goes into the calculation and all of the intermediate steps to be publicly visible. And so in terms of, like, a level of enshrinement, "
+ ],
+ [
+  9,
+  1882,
+  "historically, the challenge has just been that this technology is not mature enough to enshrine. Right? And up until, like, maybe about abou"
+ ],
+ [
+  9,
+  1892,
+  "t even now potentially, like, the the challenge was just, like,"
+ ],
+ [
+  9,
+  1897,
+  "what algorithm. Right? Because, basically, you have this problem that, like, you realize that like, a couple of times it happens that we des"
+ ],
+ [
+  9,
+  1906,
+  "igned a bunch of features around the assumption that people would be using specific curves, specific types of fields, specific primitives, a"
+ ],
+ [
+  9,
+  1916,
+  "nd then a year passes. And then, like, the whole"
+ ],
+ [
+  9,
+  1919,
+  "game of, like, what changes and, like, what types of Synarcs or Starcs people use changes completely. Right? And so, like, the whole concept"
+ ],
+ [
+  9,
+  1930,
+  " of, like, making blobs be based on 256 bits, like, that's something that's going to have to change at some point. So a lot of things that w"
+ ],
+ [
+  9,
+  1940,
+  "ill, need to change. Right? And so that"
+ ],
+ [
+  9,
+  1943,
+  "was probably the big arguments for saying, well, okay. If it's rapidly changing, let's meet let's, like, add features into Ethereum to suppo"
+ ],
+ [
+  9,
+  1952,
+  "rt people working on privacy. So things like elliptic curve precompiles, but let's do an application layer. And I think now, privacy like, s"
+ ],
+ [
+  9,
+  1961,
+  "nark and stark protocols are still evolving, but they've gotten to the point where, theoretically,"
+ ],
+ [
+  9,
+  1967,
+  "if we choose one and we choose the right one and we just say we're done, we're enshrining it forever, like, that's not a bet a great choice,"
+ ],
+ [
+  9,
+  1976,
+  " but it's also not a fatal choice. Like, three years ago, it would have been a fatal choice. Right? Like, now it's, like, finally, actually "
+ ],
+ [
+  9,
+  1985,
+  "not a fatal choice. Right? You know, like, we literally have proving algorithms that can do proofs over hash functions where the overhead fa"
+ ],
+ [
+  9,
+  1994,
+  "ctor of proving it is less than the overhead factor of the EVM compared to an properly"
+ ],
+ [
+  9,
+  2000,
+  "efficient VM. Right? Which is, like, incredible. It's mind blowing. Right? You know, like, even just, like, naive one dimensional Starks now"
+ ],
+ [
+  9,
+  2009,
+  " for proving Poseidon hashes, you know, with a particular sets of parameters, the overhead is under 100 x. Right? And then there is other, p"
+ ],
+ [
+  9,
+  2019,
+  "rohibitive cycle even lower. So the reason why"
+ ],
+ [
+  9,
+  2022,
+  "enshrining privacy today now is still a bad idea, in my opinion, is safety. Right? Like, basis so if, for example, Ethereum added EIP seven "
+ ],
+ [
+  9,
+  2032,
+  "five zero three, this is, the wormhole EIP today, then if someone could hack the mechanism, they would be able to print an infinite amount o"
+ ],
+ [
+  9,
+  2042,
+  "f money. And, like, this is bad. Right? And so"
+ ],
+ [
+  9,
+  2045,
+  "and the problem is they'll be able print an infinite amount of money, and we would not even be able to know that the that it it had been hac"
+ ],
+ [
+  9,
+  2054,
+  "ked until it's, like, way too late and there's months, months, and months of history during which a bunch of bad coins are being created. So"
+ ],
+ [
+  9,
+  2062,
+  " the like, at some point, I think proofs will get safe enough that, it will be safe for us to rely on them, but,"
+ ],
+ [
+  9,
+  2069,
+  "I think, like, that still not for the next couple of years. And so the short term priority for Ethereum l one is to do things like Fossil an"
+ ],
+ [
+  9,
+  2079,
+  "d things like account obstruction that can, like, be basically, yeah, provide greater guarantees that privacy protocols can work with, Ether"
+ ],
+ [
+  9,
+  2089,
+  "eum without needing to, you know, like, take some centralized compromise"
+ ],
+ [
+  9,
+  2094,
+  "as, like, relying on relay networks and then, you know, like, being vulnerable to, like, having to ask builders for permission. So that's, k"
+ ],
+ [
+  9,
+  2103,
+  "ind of how I view, enshrinements. I do think that over the next couple of years, we are going to make a, yeah, very serious push toward stan"
+ ],
+ [
+  9,
+  2112,
+  "dardizing privacy features for us at the wallet layer, And then, like, think about l one,"
+ ],
+ [
+  9,
+  2118,
+  "over time on a longer schedule. Right? Because l one is the more risky and irreversible thing. Thank you. Thank you so much for the answers."
+ ],
+ [
+  9,
+  2130,
+  " Yeah. I believe we can get one more question, Vitalik, if you have time. And, Vith, do you want to or Michelle? Okay. One. Hello, Vitalik. "
+ ],
+ [
+  9,
+  2142,
+  "Good"
+ ],
+ [
+  9,
+  2142,
+  "to see you again. We will see each other in Singapore on the network state conference on the stage very shortly. And Liberland is again open"
+ ],
+ [
+  9,
+  2149,
+  " for business. We're very welcome to have you guys. Multiple events that we're building. So it's a lot of fun. It's the fact that you also h"
+ ],
+ [
+  9,
+  2156,
+  "ave a basically full sovereignty, not just in blockchain sovereignty, but but we are Mhmm. Of course, having some issues with Croatia, but i"
+ ],
+ [
+  9,
+  2163,
+  "t's getting much better than than it was before."
+ ],
+ [
+  9,
+  2165,
+  "So my question about the citizenship concepts and turning Zuzalu. You really think about, like, building whole cities under the zoo concept "
+ ],
+ [
+  9,
+  2174,
+  "and granting people citizenships in under these cities, under the zoo concept. And where is the first pilot project that you want to do? Tha"
+ ],
+ [
+  9,
+  2184,
+  "t that's my question because you're really turning to this, I would say, enclaves of zoo zoo cities. Yeah. So"
+ ],
+ [
+  9,
+  2191,
+  "yeah. So I, like, I still believe in the distributed model. Right? Like, I believe that people in the community should go and make their own"
+ ],
+ [
+  9,
+  2200,
+  " things. And, like, I think, when they make their own pop ups, like, I think concepts of citizenship is, something that is going to be valua"
+ ],
+ [
+  9,
+  2210,
+  "ble to have. So I don't think this needs to be, yeah, like, pushed in a top down way across the ecosystem."
+ ],
+ [
+  9,
+  2217,
+  "I think, like, I would want to see some different pop ups having some different models. I would also love to see, like, some degree of inter"
+ ],
+ [
+  9,
+  2225,
+  "operability, and that could mean technical interoperability. It could even mean figuring out, like, different forms of economic cross alignm"
+ ],
+ [
+  9,
+  2233,
+  "ents between between different pop ups. It could even mean, like, some kind of partial recognition of"
+ ],
+ [
+  9,
+  2239,
+  "each other's citizenships. So I think I mean, like, these and so I think these kinds of concepts are, like, valuable to start thinking about"
+ ],
+ [
+  9,
+  2248,
+  " and doing at a small scale. I mean, I think, I mean, Liberaland's like, what what is the, yeah, kind of active population of it, right now?"
+ ],
+ [
+  9,
+  2256,
+  " Do you have more time? I'm not sure about Yeah. I mean, I'm happy to keep going for a few minutes. Mhmm. Yeah. Well, right now, we have gro"
+ ],
+ [
+  9,
+  2265,
+  "wn to 12, but it's just a matter of really people stop being fearful and and moving into the territory and building something. So we're Yeah"
+ ],
+ [
+  9,
+  2273,
+  ". Right. Right. Four more four more buildings now so we will be able to have more permanent permanent population."
+ ],
+ [
+  9,
+  2280,
+  "That's good. Yeah. Well, I think yeah. I mean, I'm looking forward to you guys getting to a 150. Hi, Vitalik. This is Michel Bowens. Yes. Hi"
+ ],
+ [
+  9,
+  2291,
+  ", Michel. Hi. So, you know, I'm dreaming of this moment where this connection between Ethereum and which, you know, I see as a coordination "
+ ],
+ [
+  9,
+  2301,
+  "of coal and capital,"
+ ],
+ [
+  9,
+  2303,
+  "and that it actually goes down to the ground where all the people doing community land trust and bioregionalism. And so do you have any idea"
+ ],
+ [
+  9,
+  2312,
+  "s about it? How do we can create more of a junction between the physical and people kind of healing the land and their soils and then actual"
+ ],
+ [
+  9,
+  2321,
+  "ly the capacity of mobilizing capital and code, you know, at the kind of the service more of the real world and not just like staying at the"
+ ],
+ [
+  9,
+  2329,
+  " level of,"
+ ],
+ [
+  9,
+  2330,
+  "code and money. So that's kind of my dream. Don't know if you share it or not, but, you know, I think there's a huge potential for Ethereum "
+ ],
+ [
+  9,
+  2339,
+  "to become a coordination engine, you know, for more than just code and capital and actually going to the, you know, in the physical world. Y"
+ ],
+ [
+  9,
+  2348,
+  "eah. I agree. I mean, are there any, like, particular, types of, like, Ethereum coordinating"
+ ],
+ [
+  9,
+  2354,
+  "things in the in the physical world that you think makes sense or at least are are worth trying to do? Well, I'm thinking of tools of the co"
+ ],
+ [
+  9,
+  2363,
+  "mmons as a potential project. I I can't pronounce the name of the guy doing it. Hugo Makovich, I'm, I'm guessing. So the idea here is to com"
+ ],
+ [
+  9,
+  2372,
+  "bine, you know, regenerative projects, create a current digital identity,"
+ ],
+ [
+  9,
+  2377,
+  "and then basically start behaving like a like a nation and and doing like, you know, bonds and stuff. Right? And then you could attract, you"
+ ],
+ [
+  9,
+  2387,
+  " know, the floating web three capital into like entangled forms of common property where you'd have, you know, local people billing their in"
+ ],
+ [
+  9,
+  2397,
+  "frastructure, but they could also then accept investments,"
+ ],
+ [
+  9,
+  2401,
+  "but in a way that is comfortable with local values. And doing that, like Right. Micro, you know, forms of capital, like, I haven't studied i"
+ ],
+ [
+  9,
+  2409,
+  "t like material sounds interesting to me, but things that are similar to that. Right? I see it. So, like, real world assets, but, like, inst"
+ ],
+ [
+  9,
+  2417,
+  "ead of just, like, hyperscaling dollars in S and P 500, like, have lots of little assets that have,"
+ ],
+ [
+  9,
+  2423,
+  "like, much more interesting and complex, I mean, like, rules about, like, what kind of ownership they have and what you can do with them. Ye"
+ ],
+ [
+  9,
+  2432,
+  "ah. Exactly. Yeah. Yeah. I I mean, I definitely support those things. I think I mean, this is also part of why I just, like, want these, dif"
+ ],
+ [
+  9,
+  2441,
+  "ferent kinds of experiments to happen. Right? Because I think it's a natural type of grounds of,"
+ ],
+ [
+  9,
+  2447,
+  "like, basically, yeah, blockchain people who are faced with, like, needing to figure out the economics of a physical space. And then, like, "
+ ],
+ [
+  9,
+  2455,
+  "hopefully, we'll even start to quickly see examples of, look, where these kinds of things make sense. And then I think at the same time, you"
+ ],
+ [
+  9,
+  2464,
+  " know, we should also run the experiments in the other direction. Right? And take, you know, people who have already"
+ ],
+ [
+  9,
+  2471,
+  "spent a lot of time thinking about these kinds of, local economics and basically see, you know, like, are there pain points, that are partic"
+ ],
+ [
+  9,
+  2480,
+  "ularly well fitted to, like, either blockchains or other types of cryptography. Right? And I think, I mean, I suspect, like, they will want "
+ ],
+ [
+  9,
+  2490,
+  "some kind of, like, a long distance interoperability. And, I mean, both with each other and, potentially with"
+ ],
+ [
+  9,
+  2497,
+  "crypto capital. Right? And so I think, like, thinking about it from, that side is really valuable too. Thank you. Thank you. Well Thank you "
+ ],
+ [
+  9,
+  2507,
+  "so much. People wanna more question, but I know your schedule is tight. And thank you for your contribution, and thank you you are here with"
+ ],
+ [
+  9,
+  2517,
+  " us at least as online maybe. And Mhmm. See you later. Yes."
+ ],
+ [
+  9,
+  2521,
+  "Thank you very much. Yep. Enjoy your Zukaus. Thank you."
  ]
 ]
