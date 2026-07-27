@@ -1,0 +1,261 @@
+# Web3 Security in the Face of Mainstream Adoption
+
+Date: 
+Source video: Web3 Security in the Face of Mainstream Adoption
+Drive: https://drive.google.com/file/d/1QnhawK-XmNKgsAobtSANBku9XeVZzkBt/view
+Duration: 00:53:48
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Well, good afternoon, everyone. Good afternoon. Hello. Hey. And, you know, day two of ZooCash and really excited. Like, you know, day one was really fun and then, you know, had had that was a very philosophical and and kind of, like, historic perspective. I am going to it's gonna be very, very hard to beat that. Right?
+
+[00:24] And so I'm gonna be like, you know, put on my nerd glasses, and then, it's it's gonna be a mix of nontechnical and technical because I figured, like, this is kinda like the crowd that we have. Like, we have nontechnical folks that are interested in, you know, like, the coordination kind of side, but also, like, technical folks, like, I myself and her. So today, I'm gonna be talking about web free security in the face of mainstream adoption.
+
+[00:48] And this is kinda, like, in line with what we are doing at Zurich at you know, also, like, the philosophy of why I am working in this direction and in this area as well. Alright. No worries. Thank you. So a little bit, quick introduction about myself. So I'm head of developer relation at Zurkit and Quantstem. Quantstem is security auditing firm. So we audited, like, Ethereum, Avalanche, Binance Smart Chain, a lot of, like, layer ones,
+
+[01:16] as well as a lot of, like, smart contract system myself, like, all the as well. My own experience also, like, dabbed into, like, the nontechnical roles, like, other PM, you know, doing the management stuff. Now I'm more on the Zurkit side. Head of developer relations means, like, talking to projects, you know, like incubating them and also internal technical development. So on Zurkit, like, at one point, we have, like, 3,000,000,000 TVL.
+
+[01:43] Those taking contracts are written by my team. So that was pretty fun. That was pretty fun. Aside from that, so I have a couple of, like, community or volunteering work. So one is serving as a NYC, which is top engineering school in Taiwan. Maybe you will know, And so that one and then I also host a East Taipei. But for East Taipei, that's gonna be another topic for another day. Right? Alright. So that's a quick introduction about myself.
+
+[02:13] Crypto world's current security, it's, not looking good. Right? Like, we all know this. So quick quick kind of, like, warning. I'm gonna speed run this whole thing. I'm gonna talk very fast, flip the slides very fast. So just bear with me. You know, we all know crypto world's current security is very bad. It's just, like, gone going worse and worse. This is until 2023, but then we can also see this is just this year alone. Boom. Boom. Boom. Like, a lot of stuff happens. Right? And so hacks keep happening.
+
+[02:43] And then kinda like from the perspective of auditor, we know how this is like, this keeps happening and then why, etcetera. Well, in short, it's because we're humans and we're developers are humans. They still make mistakes. But that's not all. Right? These the the ones I showed, there's like, DeFi security, like, direct ones. But also,
+
+[03:06] there's a lot of other kinds of, security issues like scams. You know, these are private key, kind of like leaks, etcetera, centralized service getting hacked, all those kind of things aside from just the five protocol being, like, hacked. So, I, like, we look at this and then we see, like, okay. So so what is how do we kind of, like, classify these attacks? Right? So you have individual and the financial system scans,
+
+[03:35] phishing, social engineering, or insider could be, like, on both sides for the individual of a financial system. Right? And mostly what we kinda look at on the smart contract audit side is on DeFi protocols, like, the financial system itself, centralized custody also, like, on this financial system itself. Right? Now it's always unfortunate that things happen. Right? Like, attacks do happen, but they do happen.
+
+[04:01] And so let's look at how we react right now on a quote, unquote decentralized world blockchain. Right? So post attack procedure attacks happen, obviously. And then you track try to track the culprit, which is on chain tracking. You contact chain analysis, whatever, or like Zero Shadow. They're a very good firm, by the way. Super friendly people.
+
+[04:25] And you try to stop funds from going out. You can contact the exchanges. You can contact, like, different like, these centralized entity, and sometimes they require you to file some, like, stuff. Like, oh, you need to file a police report or file to the FBI so that, you know, we can have this as a formal document and then help you freeze the fund, etcetera. Right? And so in some way, like, enforcement,
+
+[04:47] and then there's, like, government officials kind of, like, stepping in during this process. Now if we kinda, like, graph this out, then it becomes like this. Decentralized, blockchain system, you got the money flowing from victims to attacker. Attacker sends us to exchange. Then we try to kinda, like, intercept it. There's exchanges. These are basically centralized financial system. Right? And then they try to, like, funnel out the funds to themselves in the real world.
+
+[05:15] This is right now where we sort of have a chance to stop the funds from going, to going to the wrong hands. Right? But it is heavily relying on this part heavily relying on this part. And just to kinda, like, show, like, what happened outside of blockchain world as well. Right? This is the real financial system,
+
+[05:40] Swift. Right? And during 2016, Bangladesh Bank heist, there was a 1,000,000,000 USD transfer initiated. Right? Which is crazy. But guess how much was actually hacked? What do mean by hacked? Well, actually transferred. 10%? It's actually exactly 10%.
+
+[06:04] Good guess. Good guess. But here's the thing, though. Here's the thing. Like, they were they were able to do so because, Bangladesh Bank, you know, like, they're trying to, like, funnel it out. And it goes through the Federal Reserve Bank of New York, which is not a centralized entity, but they detected anomalies. And then, like, they managed although they split it the funds transfer,
+
+[06:27] in many ways, they managed to, like, stop, like, 90% of the thing. Now imagine this in the blockchain world. That doesn't happen. That 1,000,000,000 USD is gone, right, directly. So this is real world, how we have sort of, like, help mitigate. There's also real world scams that we need to consider. Right? So there's, this there's a lot of numbers I just want to show you this. Sorry. There's a 10,000,000,000 reported loss right here.
+
+[06:59] And this is just scam alone. Right? And a lot of this is on elders, etcetera. There's, like, just different categories of this shit. So here's two elders specifically. Right? You see these are, you know, just different ways of scamming them. But you like, in Taiwan, when elders are trying to, like, make big transfers,
+
+[07:22] it's suspected to be, like, they're getting scammed. They then the banks will call officials, you know, to kinda, like, intervene and try to, like, hey. You know, you might be getting scammed. Like, let's not do this. If you kinda, like, look into, like, the structure again, like, here is, again, the bank and then victim is trying to send the transfer to the attacker. There's some notification
+
+[07:46] system going, and then the government officials comes in and intervene. Right? Now why am I pointing to these things? It's because when we're talking about mass adoption and all these things, like, it's not just us, who are very young, very technical literal, even nerds, etcetera. Right? There are our parents, our our grandparents.
+
+[08:11] It's these these folks are not necessarily, as literate in technology. Right? And and they may have a decline in brain function, like, that makes them, like, target a victim, these kind of things. And so we're we're not only if we're talking about building for mass people, then we're not only building for us. We're building for these people as well. And these are the ways that
+
+[08:38] currently we're, you know, fighting against, like, these crimes. Now kind of going back to where we are from, like, decentralized, cyberpunk, etcetera. Like, we want mass adoption, Right? And and and our ideal kind of world world of mass adoption is everyone using on chain financial system.
+
+[09:01] Right? I'm using these terms as a very hand wavy way, by the way. It's not, you know, serious in any way, but just for the sake of discussion. When we talk about decentralization, we always talk about, oh, it cannot be censored. It cannot be stopped. It cannot be tracked. Privacy as well. And then finally, security. Like, ideally, we want security. Right? Like, people not getting hacked, people not getting scammed, etcetera. Right?
+
+[09:29] This is not ideal, by the way. It should ideal case should be, like, maybe better than a traditional finance financial system. But here, I would just say, like, roughly, remains roughly the same as traditional schemes. In my in my opinion, that's sort of okay ideal. Let's let's say this is the ideal Cyberpunk future. But in my opinion, this might be an impossible triangle.
+
+[09:55] Why is that? Because well, let's consider if people have done, you know, mass adoption and decentralization. What does mass adoption means? It means that the attacker actually doesn't need to off ramp anymore. They just need to they just well, they can already use it because it's mass adopted. Right? They use it in real life and on on chain and all that. So that's great. So assume mass adoption decentralization
+
+[10:20] is there, which is cannot be censored, cannot be tracked. Then actually, you have, more financial loss, like, just looking with what we have right now. Right? And all the scams are ongoing. Just more financial loss due to unable to stop these transactions, etcetera, to from happening. Right? So, this is kinda like, unfortunate
+
+[10:43] in my opinion. Well, this is kinda like the food. The impossible triangle for food is tasty, healthy, and cheap. Right? But it may seem like impossible triangle, but may maybe it's not. Maybe there's some tricks on TikTok that you can learn. Like, oh, maybe it it still looks nice and and still kind of healthy,
+
+[11:06] but tasty and cheap. You know? So so in my in my opinion, it maybe looks more like a design space that we can do. But, you know, in any case, people may think, like, okay. Maybe this is not an impossible triangle, and they come with another angle, which is saying, maybe it's just a matter of education. Right? Like, if people like, more people are aware of the situation
+
+[11:32] and know how to use these things, then these things wouldn't happen. Well, guess what? Not necessarily true. And the way that I understand, like, this education part is, like, through privacy, actually. So, you know, we we we know data privacy yesterday. Yesterday, there was talking about, like, Cambridge Analytica. Right? And and I would say it is pretty great awareness across people around the world about this incident and then, like, the privacy in general. Although how important, not necessarily knowing. But that was already, like, world
+
+[12:08] events. Like, people know. Right? And here here is kinda like the statistics that shows that. Like, okay. People, like, 70% more than 70% kinda like know shit is happening. Right? They they're not unaware of this. But did they did that change their behavior? No. Not really. Still people are using Messenger, Instagram. I mean, I I still use it.
+
+[12:34] Right? Because people still use that. Yeah. Exactly that. Exactly that. There's no signal, interestingly. Right? And so you see Telegram, etcetera, all these things here, thing things here, but, like, also no signal, which is actually one of the main points that I'm going to go next. So if we look at these things, like, roughly, this is I know when it came, like, it's probably, like, one or two years ago, kind of a statistics.
+
+[13:01] But WhatsApp, roughly 2,000,000,000, which is, take it at this rough value. Right? WeChat, 1,340,000,000. Facebook Messenger, 1,000,000,000. It's a lot of numbers. And then, like, Telegram, I think we as, technical nerds, we know that doesn't work. It's, it's technical bullshit. Right?
+
+[13:24] However however, they have they have 900,000,000 and they have, like, you know, a good marketing on privacy and all that. Right? But that's actually gonna be something we discuss. Signal, which you brought up, 50,000,000. 50,000,000. So the the difference is very huge. The difference is very huge. And so here's my question,
+
+[13:48] which is I'm sorry. Which app is making more contributions to privacy? Telegram or Signal? Marketing users? Telegram. Not marketing. Like, actual privacy. And here, obviously, like, actual privacy that that means differently for each other. Like and Signalize. You think it should be signal. Right?
+
+[14:12] Any other opinions? I I think technical nerds yes, sir. I mean, maybe depending on you define contributions. Yes. Like, people use Telegram. So even if they do a a few things, but privacy, but more people use it, you could argue the Telegram support to because they do have private chats and sync up on Telegram. The UI of that sucks because it's a separate chat thing. Yeah. Yeah. Yeah. So I wouldn't say Cigna because,
+
+[14:35] WhatsApp is using Cigna's proper for their encryption, and WhatsApp is the two way user chat message app. So even though WhatsApp has a metadata share of Facebook, that's Cigna that brings privacy to to the data. That actually brings another thing. Like, WhatsApp actually sucks at metadata sharing, etcetera. Like, if we're going to the technical nerdiness,
+
+[14:58] like, WhatsApp shares, like like, basically knows, like, you know, who you're talking to. They don't know, like The content. You know, the content, but, like, sometimes it is already, like, too much information when you know, like, who you're talking to. Where where at SIGNA, I think it's otherwise. But I would argue, it will be Telegram because simply more people using it and then more people like like, the other way that I would measure this is, like, the the amount of governments
+
+[15:28] trying to ban something. Like, I haven't heard signal being banned yet, but Telegram, yes, they try to, like, seize it. And that is because it has some impact into those regions. Right? And so when the nation states doesn't still doesn't have the control over that thing yet, it does contribute to that region's,
+
+[15:51] like, privacy in that sense in that sense. And and they can mobilize. That I think I think that that is where my perspective is coming from. The actual thing is the action that it enables people. Right? Like, Telegram, etcetera, because more people use it, you can actually mobilize people to do, like to become a threat to the government, to become a threat, like, you know, to to become a movement, kind of like, for movement in it, and hence become a threat to the government officials.
+
+[16:20] Then they find the need to try to seize Telegram or or these things. And hence, in my opinion, at this stage, Telegram does have some more privacy contribution. But as a technical nerd, I fucking hate it. I totally agree with that. Right? But this is this is one way of, like, viewing things. Right? Now,
+
+[16:43] this is how I do consider things though, which is designed for impact or, like, you have a product that is doing the impact right now. And then also pave the way for the future that it is easier to get into the more decentralized version of it. Right? The first one, I would say, like, the most decentralized or secure product may may not be important at the moment. Right? Just due to the impact being low. Like, yes, signal is great. My dad doesn't use it. I cannot,
+
+[17:13] like, come come have a con proper conversation with him there and tell him, like, hey, you know, China China is coming and whatever, like, political, like, geopolitical situation is going on. That's gonna be hard to do that. I'm gonna try to talk with him maybe on Messenger because, like, you know, maybe maybe the, the yeah. Yeah. May maybe the other regime has more power over Telegram and then I'll choose Messenger. In that particular case, actually,
+
+[17:41] Messenger has like, protects my privacy against, like, the the target that I'm, you know, against. Right? But the I think I think for cyberpunk design, at least for me, acceptable cyberpunk design is, like, you have the system and, like, we, design a system, may have the centralized component, etcetera, but it's should be easy for people to get out of it and maybe, like, move their stuff out of it, right, to a more decentralized version or even just another centralized version.
+
+[18:14] So so this is, in my opinion, kind of like the the line that I would I would, draw and say, like, hey, you know. So in my mind, messenger, etcetera, these are still not acceptable because it's not easy to move those data, like, you know, away and then and then get into other systems. But for me, it would be okay if they are centralized,
+
+[18:38] but, it's easy to move like all these conversation or like these social graphs away from from the system. Cool. So, uh-oh, I still have this slide. Does it that matter? So what's what is Zurichet? So we're we're getting into, the the a little bit technical part. So so what is the future of security in the decentralized world for then this is kind of like our proposal or kind of like experimentation,
+
+[19:08] which is, well, we see this thing if we have the mass adoption and then, you know, like the, everyone uses it and the security becomes bad, like in terms of scamming, etcetera, like hacks. Right? And so maybe we still need something here in between that we have seen in all the traditional kind of like systems that helps intervene,
+
+[19:33] but maybe not in such a human labor's way. Right? But in general, I think maybe there's something that is needed here, to help for mass adoption. Now, this goes into kind of like the circuits particular. So, you know, we're talking about blockchain. Right? Basic transaction flow of now too. I think a lot of technical folks just know this by by heart,
+
+[19:57] or not not even by heart, just any part of your body you'll know this. You have a lot of like, transactions go to a sequencer, and then sequencer packs those into like blocks. Right? And then, basically, you just like compress them and then send it to l one and say, hey, you know, commit to l one. This is my my state of the l two. Right? This is basic transaction flow of a typical l two.
+
+[20:23] Zurkit, Zurkit sequences does a little bit more, and we call it, sequencer level security, which the concept is very simple. So this is high level concept. Obviously, implementation is not very simple. But basically, you have an Oracle at the sequencer and just tells you it scans every transaction. So here, the Oracle is actually a AI or machine learning algorithm.
+
+[20:47] Actually, couple of machine learning algorithm. And then just like determines whether this transaction is potentially malicious or not. If it is not malicious, which is it is very safe, then it goes to package into the normal l two blocks. If it is, oh, it looks like a bad thing, then we go to a quarantine. This is how Taiwan has say, stays safe during the COVID times.
+
+[21:10] Seven days of quarantine time, made, COVID, come away. Yes. We'll go into that in a in a bit. So I have a slide for that. Cool. So so this goes to the l one. So this is like circuit basic flow. Now, so so this is kinda like our idea of like, maybe this is how we can help, which is an app model sitting in between
+
+[21:35] and then just kind of like help sift through. So that these hacks and scams, you know, advanced things doesn't, well, with this more advanced kind of system, obviously, more more centralized. But in my opinion, it kinda falls into that design space. You move it a little bit. It is less healthy from the tasty food. The the food analogy, it's less healthy,
+
+[21:59] but it is, like, tasty enough that everyone will want to eat it. That's kinda like my analogy. Like, tasty is like, you know, mass adoption. Right? You don't want fries to be mass adopted. Cool. So now going to a more more technical part, how to design this security, in the sequencer level. So this is like a short very, very short version of the East Istanbul talk itself.
+
+[22:25] But there's actually a couple of challenges challenges on this, which is the training the data, training the model itself, the data set collection annotation. This is like AI problem. Right? But then the the other thing is, executing the model so that, we have a performant l two. Right? That you still want to be able to produce blocks every, like, two seconds,
+
+[22:48] etcetera, like, just go there. And then network security protect against DDOS, etcetera, and also, like, the ongoing maintenance of these things. Now I think this is where where it's, here. So mostly on the result, we have low false positive rate of 0.1% to 0.3%, lowest false negative rate at 0.5%.
+
+[23:13] And these are theoretical from kind of, like, test, examples that we have. But, practical experience Not the number of transactions that you have in in the l two? Yeah. So I would say, like, practical experience on on the l two itself, which is this, is, so we like, this is a couple like, well, I think maybe
+
+[23:37] a couple months ago or, like, one year ago. But, like, this is a transaction count, and then we only have 12 quarantined. And that that is the actual thing in practice. Right? So These are false positives. Right? These are false positives. That's correct. That's correct. The dangerous one is false negative. That's also correct. But also,
+
+[24:00] I think I think for if you look at the false negative rate, yes, it can be improved. I obviously still hope that, but but it is better than 100%. Right? I would say I would say it's better than 100%. So so this is essentially like, obviously, this can be improved and all that, like or we we wish to improve that. Like, it's kinda like model training stuff. But the point here being,
+
+[24:30] like, by changing that, to not so healthy from super healthy food to not so healthy food, actually makes it very tasty for mass adoption where people to like, oh, it's from 100% being hacked and then, like, to 99.5% not being hacked. Right? So if you consider that, that's actually not too bad. So that's that.
+
+[24:56] There's a couple of requirements, like, when we're thinking about, like, designing the seek sequencer level security, which is you have EVM chain. You have, block, production at, you know, 500 millisecond to two seconds, as I mentioned. Blocks has to maintain, like, the typical block size, 30,000,000, gas, and then scan every transaction and then, for the intents.
+
+[25:20] And we hope that a hack must not get through. Right? And so how do you design for that? So the first design decision that you all came across, which is the only design kind of, like, stuff that I'll talk about here, for for, you know, for for the time, is is this. At what level and what granularity should the simulation be performed? So you have, like, these transaction being executed on chain. Right? Or not yet on chain, but, like, being executed. You can do two things. One is, each transaction
+
+[25:51] scan each transaction individually. Right? Or you scan the entire block after you have sequenced it. So I think technical people, folks already kind of know. Difference. I mean Oh. Different is so different. Yes. So performance wise so we can we can kinda, like, talk talk about this. Well, I'm gonna talk about this actually, which is
+
+[26:15] first, we call it SLS one one point zero, scanning transactions independently. So one, this is great in performance because you can paralyze all the scanning. All the transactions are not correlated to each other. And you can act before block formation, which is before you sequence all these transaction in in the into the block. Right? And so this is great. However,
+
+[26:40] it has the issue of transaction dependencies. So so and what does you know, this transaction dependency can actually be used to hide the text. And just to kinda, like, clarify what this means is that, you know, these are two transactions, that have dependencies. And transaction one is literally just saying like, hey, if this account has balance of at least 1 ETH, then I execute something or else I I don't. Right? So here,
+
+[27:07] whether this is being executed really does depend on whether transaction two is before or after or whether it happens at all or not. Right? So if you simulate it independently, this if executed as malicious, this is not going to be found. So that's the issue. But it is, very efficient because you can paralyze them. So that's great. Cool.
+
+[27:31] So the obviously, the other choice, if you want to satisfy the requirement that we don't want to let any transactions, like hack transactions to be true, then you want to scan the entire blocks. Right? You know how the blocks already formed? Like you have it sequence, then then well, it's not that it doesn't matter, but like you already have sequence. Right? So so you just execute and
+
+[27:56] see the simulation. So in this case, if you can identify a hack, then you won't miss it, which is great. But here are the downside, which is obviously on the kind of like, the the perform performance side, like trace of simulating is much larger. Scanning actually takes much longer than what we ideally wanted. Right? Like, five hundred millisecond to two second time, that's kinda like a requirement that we want for a blockchain or at least a NL two.
+
+[28:24] Right? The other thing is what do you do when the block is bad? Like, well, you find this is bad. That means you need to rep package the whole block and then redo the simulation. Right? And so this is very, very annoying. Alright. So SLS free is kind of a idea,
+
+[28:47] which is kind of optimistic, in a optimistic way. So working with a reorg. So we form the blocks optimistically. We just say like, hey. This is good. This is good. Just go on. And then we still do the scanning in parallel. So scanning of the whole block goes on at the same time. But when we find problems, then we do the reorg on the l two because there's time between l two blocks produce,
+
+[29:15] production and then the commitment of on the l one. So this is this is SLS three. But this can result in liveness problem, which is like you you can do as attack it and make it like just keep reworking, which is also bad. Can we just check them individually? Aye. And then That's the dependency is by by the second one. Yes. Exactly like that. So so currently currently,
+
+[29:42] architecture in circuit works like that. Right? Like, you have you have the first part, that does the individual check, and then mostly mostly it just, like, filters it out. And then you have this SLS two. SLS two is actually the other one that without the the optimistic one. This is one version of it, but then
+
+[30:06] this is the this is the current version of it, which is basically you you do that optimistically. Right? So, yes, exactly as you said. Thank you. Do you want to, like, wear out circuit as an architect? Yes. But, basically, that that is, that is the idea. And that's what we have implemented right now. So, like, obviously, this is just one design consideration with, like, a lot of moving parts. Right? Just to kinda, like, showcase, like, one
+
+[30:33] interesting part and more unique part on the challenges on doing the circuit thing. So, you know, speed ran. Good stuff. So conclusion, you know, I think, in my opinion, we're not building in a vacuum. Right? So so, yes, we're building some financial system, but then there's always some other blockchains,
+
+[30:56] quote unquote, maybe much more centralized, etcetera, and very incompatible with the very decentralized Ethereum, Elite, or Bitcoin, you know, whichever you believe in, that they will they are going to build that. Right? And if they are, if they are achieving, they're not doing decentralization,
+
+[31:22] not thinking about paving the way to decentralization, then you basically still get kind of, like, the same system all over again, just maybe faster and more efficient in that way. And so my my kind of like in my opinion, it's kinda like acceptable or practical cyberpunk, way is to always consider the masses when you're designing this product,
+
+[31:48] and for mass adoption. Right? The goal is for non tech savvy people, grandpas, grandmas to start be able to use the new financial system without necessarily, like, knowing it. And then this includes their mental capability of, like, we see the world right now. We see them getting scammed. They're gonna get scammed still in the new financial system. And how do we kinda, like, help them out, you know, as a social structure kind of support system or a technical system. Right?
+
+[32:19] And so for me, I believe in accepting a trade off and then, you know, paving the way so that it's easy for people to also get out of your product. I think that's that's, very important for more cyberpunk y design, not cyberpunk, totally. But it's paving the way there because once you have a system that's easy for people to get out,
+
+[32:42] then it is well, at least I believe, it is aligned with your interest to make sure that you're serving them best. If you have a system just really closed and then they cannot get out once you capture them, then once you cap you know, before you capture them, you're gonna treat them very good. And then once you catch them, you're like, fuck you guys, I'm gonna exploit you. Right? And so having a system design that's very easy to move to other systems
+
+[33:10] and better yet, decentralized system is very important in my opinion. And, obviously, I'm in the Ethereum camp of people, so I do believe in having, like, financials, like, you know, having big institutions financials, like these these, like, companies to get used to EVM tooling or just higher level decentralize
+
+[33:34] decentralized kind of tooling, but in a more controlled manner. Right? Like, when they see total decentralization, they see those hacks. They not it's harder for them to, like, adopt it. But with controls, they're willing to adopt or more willing to adopt and then get familiar with the tooling. And now it's very easy for them to move to a total decentralization world.
+
+[33:57] So I believe that's kind of, like, the way so that we can go to a more decentralized world in the future. One of the motivation for this kinda, like, talk is because sometimes when I talk about, like, this idea, I get attacks on purist. Like, I respect purist a lot. Like, purist meaning, like, total decentralization.
+
+[34:20] Like, if they see anything that is not decentralized, they're like, this is bullshit. And then they they laugh at your face, etcetera. But that actually makes people go away. And I come from a education background, which is like, you need to pave away a framework that in the beginning, it's helping them. They're not completely walking,
+
+[34:45] but they're walking somehow. And then after they their muscle or whatever are developed, then they can let go of that help. Right? And and I think this, on the financial side, and I that's what I see Zurkut is, which is this helping framework that make sure that they feel safe. And then they get used to walking on this more decentralized tooling, etcetera. Then one day they'll realize, actually, it's better to maybe use without this,
+
+[35:15] then they can do that. Alright. Thank you. Yeah. I have two questions. Yes. First one is, do you have any, any work study on decentralizing the sequencer? Is it centralized. Right? Yes. What's common in the So there is no current,
+
+[35:40] ongoing research on decentralizing it. We do think it is possible, but there is lacking I think I think it needs progress from the maybe ZKML kind of stuff. Because because that is right now, the efficiency part is a big part. Right? So I think the ZK ML is still kinda like in the early stage. Right? And so
+
+[36:04] so we do think once that is developed, then this is possibly, you know, decentralizable. Yeah. Actually, the second question will be about the ZKML because you you are using some AI tools for assessing the security of transactions. Right? That's right. Are these tools, of yours? I mean, you are are you using some service or you developed that AI? So we internally, we do have a AI team. Okay. We do have a AI team of which Otherwise, you need to you need to be sure that,
+
+[36:35] the result is exactly the result of, the the the internals of AI. Yeah. Exactly. Exactly. Thank you very much. Thank you, sir. Is there any question? Thank you for the presentation. I was wondering before the report happening about any hack, how can you make sure those found didn't leave
+
+[37:00] the circuit environment? Let's say I I I am a bad actor and I hacked a smart contract or or it could be some wallet, transferred everything to very new account, that you don't blacklisted or you don't have any idea about. And then
+
+[37:24] somehow, I managed to also leave the Zurichet. I mean, do you have any protection for this kind of things before the report, happening? Yeah. So the system? Perhaps let me clarify what actually Zurkit does. Zurkit detects hack. Sorry? Zurkit detects the hack and then stops it from happening. So in a way so so the the scenario you described is he hacked it,
+
+[37:53] and then he's getting away with it. And what Zerket does is it stops it in the beginning. When it succeeds, it stops it in the beginning. The way that I will see it is like or how I would, typically describe in a very simple term is like it's like a blockchain with antivirus. So when the hackers are viruses, they're doing malicious stuff. They try to execute, and then Zerget says,
+
+[38:15] sorry. I blocked it for you. That's essentially what Zerget does. So sorry for asking this again. Like, what if it's not a hack? Like, it's it's kinda like sending the the found kinda like it looked like sending the found. It's it's how do you detect detect the hack? I I I didn't get that part because Yeah. No. It's a great question. So Like, what if I am I am very honest user? I send money then. Like,
+
+[38:48] the the found leave my my account and you detect detect the new account. I I didn't get it really. I No. I pick that's only because I didn't explain it. So thank you for your question. This is a great one. And essentially, this comes into how the AI detects or how the machine learning classifies this as attack or not. Right?
+
+[39:12] So a couple things. We basically like, for machine learning algorithm, you feed it a lot of, like, training data, and the feature is actually really important. Right? So all the feature that we fit, or feed it to is, like, the transaction simulation trace, the gas use, the amount of, like, assets exchanged hands, and then also some tags, which is, like, which protocols interacted
+
+[39:35] in what order, etcetera, these kind of things. Right? Now now as, well, because I'm a security auditor, so I've investigated hack all the time and then also, like, normal transact normal normal users transaction is really, really simple. I deposit, I withdraw. Typical or I swap. Yeah. Yeah. I approve. As a grandma, one of the grandma or grandpa,
+
+[39:59] I am somehow convinced to send my phone to someone else because, like, you really mentioned the mass adoption. And to be honest, You're like talking about scams. So that's a little kind of scam. Social engineering. Yeah. Social engineering. How do you detect it? Because I need to report it somehow to you. And, I don't know, like, the the the hard
+
+[40:22] finality, of circuit. But Yeah. Let's say I I am one of the grandpa, and I I couldn't report it in in, like, the that time period. No. I agree with that part. And to be honest, like, transparently speaking, I don't have the full, like, answer to that. Like, my sense is it should be, like, with some sort of, like, KYC,
+
+[40:47] some sort of z k kind of, like, an identity. And you know that these kind of, like, relationship, etcetera, these kind of stuff. Right? And then with for them, it should be, like, another layer of abstraction as well. Right? So I would say that is needed. But underlying, like, to be able to stop all those things
+
+[41:12] and then saying that this is not, a good transaction and this is maybe a malicious transaction, you need first a system like Zurkit. And then you can enrich the oracle, basically. That that's that's the basically what you're talking about. Like, what kind of oracle can we enrich? And you can actually build different layers onto that. Right? Like, one, just super nice
+
+[41:39] like, I wouldn't say it's solution. Super naive way is like, hey. You know, some sort of KYC, some sort of, like, decentralized and and identity or centralized identity. I don't care. Right? And so I think, like what was what was it called? Like, Blight ID or something? There there was, like, a enterprise between enterprise, there's, like, these, like, IDs. And then you there was discussion of,
+
+[42:03] I want to make sure I'm sending money to the correct enterprise. And then those DIDs are the ones that you can kinda, like, map to. Hopefully, that answers the question. Thank you. Two questions. But, yeah, he talked about you. He talked about you send grandfather sends his sons the funds to
+
+[42:25] the wrong address or to a scammer, and then he contacts Saker and said, hey. I sent a I got scammed. But that's not how it works. Right? You don't accept any message afterwards and then roll back anything. You would detect it automatically or you don't. And if you don't, then it happened. Right? Yeah. Right now well, for the ones I presented, yes. That's correct. Okay. Yeah. And But, like, l two l two, ultimately, it does it does have the,
+
+[42:54] call it fortunate or unfortunate capability of rolling back. Like like like, we were doing that for reorgs, for the, like, internal reorgs for the optimistic ones. And then, like and it also has happened before. I think it was scroll. I think it was scroll. Like, there was a big hack, and then they literally rolled back the transact the the a lot of, like, blocks. Right? So it can happen, but it it is not ideal.
+
+[43:20] And yeah. Yeah. Of course, if you have a long window of Yeah. Exactly. Then everyone has to wait that long before they trust the transaction. But, yeah, my question would be in a similar way. Like, I think it's basically impossible to detect a scam sending money to a wrong transact to a new address, for example, because you don't know if they're just splitting a wallet into two. So I think that is better to show the user interface so that the wallet would show you, hey, this is a new wallet. Are you sure you want to send your money there?
+
+[43:55] Because otherwise, you might block users just sending their funds between their addresses. Yeah. Yeah. And and so that's that's kinda like an, well, there's different kind of ways to solve that. Like, if you want, you can have a setting for the ad and this is what kinda like what I didn't mention. Like, Zurkit is also good for, like, in my opinion, for enterprises to add some custom rules for their smart contracts or just their EOs
+
+[44:23] to so that it restricts some sort of, like, sending and transfer at all those transaction capability. Now imagine you you literally, set the limit. So this EOA is your grandpa's ELA. And then, you know, let's say Zurkit right now already implements the interface that you can tell Zurkit that, hey. This ELA can only send to these two addresses
+
+[44:48] by you. And then your father tries to send to other addresses. Then Zurichet says, like, hey. There's actually something wrong. Let me send an email. So so here's here's the thing. Like, before Zurichet, I also seen a lot of, like, other solutions to kinda, like, do this. Like, for example, Harpy, which is also a very good, company. Harpy does RPC endpoints.
+
+[45:12] And so if you plug their RPC endpoints into MetaMask, for example, and then you sign, you know, you you sign those transactions. Let's say you're sending sending funds to an unknown address. It doesn't broadcast and forward that to the node directly. It checks in an internal kind of, like, database, whatever, or whether it's, like, a new address, as you said, it sends an email to you.
+
+[45:38] It's like a two FA. Two FA for transactions. And but that is relying on this. That is real sorry. That is relying on RPC. And imagine if this is like, let's say this person's private key getting hacked. You can still send that away through other RPCs.
+
+[46:03] Right? But then if it's on circuit, then you can actually stop it on the chain level, which is very different solutions from, like, these Harpy, etcetera. Like, I'm not saying they're bad, but there's different level of protection it does, give you with trade offs, obviously, and that's the triangle thing. It's less healthy,
+
+[46:27] but it's tasty. Yeah. Good points. Yeah. I think the and this RPC, you can plug into every chain, so you can use it. Yeah, the the per wallet setting sounds like a good compromise. Thanks. Thank you. Yeah. So I'm also, like, interested in, you know, we talk about mass adoption. Yeah. So, like, what in your view in the next five years would be the biggest adopters for Zurich would be, like, large institutions,
+
+[46:53] banks, I I don't know, like, or DeFi project or average users. What do you think or see? That's a great question. I think as a startup, we're always exploring and not I wouldn't say I'm set into, like, one specific direction, but Circuit is, like, literally designed for financial stuff. Right? Like, all this is is for stopping financial kind of losses, etcetera. So I would say
+
+[47:20] it makes sense for big institutions. It makes sense for them to have a safe for guardrail, etcetera, like these kind of system to help help them out. Right? It does also make sense for retails who I mean, a lot of us also, you know, invest in d five protocols or put their money in d five protocols. A lot of them are also very centralized.
+
+[47:46] Like, with the upgradable proxy, great. Thank you. Right? It's it's very transparently centralized. That's blockchain. Right? Like, right now, a lot of, like, unfortunately, the DeFi protocols. Like, there is only a handful that are actually decentralized. So if you look at human behavior at this moment, they're still
+
+[48:10] literally doing centralized stuff, but they like it because there's yield and then they can see it in some sense. Right? It's transparently centralized. A lot of them. Right? Uniswap being an exception. So, yeah. Yeah. So, like, a comment on that is, like, interestingly, we listen to a podcast on the way here. It's from Bankless. So they interview a CEO from Bridge. It was a, know, probably start up. They got bought by Stripe.
+
+[48:41] So, like, the CEO was saying, like, in his view, in in the future, the blockchain would act as a layer two for normal banks. So the bank will do, you know, the norm their normal thing, but the the actual transaction in between internal banks or, you know, in the banking system will be blockchain tokens and stuff. So that actually saves a lot of money and time for the banks. And if,
+
+[49:06] you know, if Circle is so good with detecting those kind of hacks and stuff within large institutions, that could be a really good layer too. Yeah. I mean Yeah. I mean, like, if if the regulatory actually works. Yeah. Yeah. Yeah. I so so this is kinda like what so it's kinda like our philosophy of doing works, like, you know, like, Zerke itself is incubated by QuantStem.
+
+[49:30] What Quantstamp does is on the security side, kinda like helping out people to make sure it's secure. Zurich is building this infrastructure so that if you need, like, you know, some sort of safe rail for your financial system and and a more or less more or less permissionless, right, manner, then you have Zurkit. Then we also have Chainproof, which is you can also ensure web free components. Like, Chainproof is a is a company that basically can ensure
+
+[50:01] web free projects, etcetera, or, like, layer twos, all these things. So it's kinda like within what you describe is exactly kind of like how we think we're kind of like serving, if that makes sense. Thank you. I think
+
+[50:24] regarding your question, I think banks can be l twos on on blockchain, I think. Because you all all the banks that are transacting each other needs a ground truth, which I think the base should be a blockchain, which is public. Yeah. I think the otherwise is a bit incorrect. And my question is regarding the internals of the AI that you use. I mean,
+
+[50:48] for training, how did you find this previously tested, previously detected, illicit transactions from Lazarus groups or so? Yeah. So unfortunately for the industry, unfortunately for training data, there have been so many, like, so many hacks previously. Right? So we basically collect those,
+
+[51:16] and then use that to train. But the, so so the other, the other presentation that have, like, more complete actually talks a little bit into this, which is it's not actually as easy to say, like, I I just collect them and then train it because they are happening on different blockchains. And then the contracts
+
+[51:38] actually refers to specific addresses on that blockchain, which doesn't exist on circuit. And so when you do the simulation, there's actually a, issue with transporting all that state and all that constant on the smart contract into the testing environment, which is another challenge that I just didn't mention here. Yeah. Of course. Of course. Yeah. It it depends on the spec, but
+
+[52:02] apart from the difference of the spec, you can I mean, an AI model can detect the similarity between the between I mean, similarity of how a transaction generated? Right? Yes. There should be some similarities between if even if the specs are different, even if the anyways, second second point I think I that I need to know
+
+[52:28] is, can I or can I manage this person bypass this AI test? Is do do you do you use some some authentication method for AI? I mean, the output of AI that is passed to the sequencer. If if if if I bypass it, I can say, okay. I can send a transaction, which I claim that it is tested by AI, but actually, it is not.
+
+[52:53] No. Do you use something signatures on or some watermarking techniques, for example? So the sequencer, it's so it's not like when I send a transaction, I say that it is tested by AI. And this is the centralized part of the com like, the architecture. Right? Like, the sequencer is a centralized part, And we just lean into that,
+
+[53:18] at this moment and saying that, hey. This sequencer will do the AI computing. Right? Will do the AI computing. Okay. Internally. Yes. That's correct. Thank you. Thank you. Thank you, Martinet, and thank you everyone when you are watching live.
+
+[53:42] Today is our end of our online sessions, and see you tomorrow. Bye bye.
