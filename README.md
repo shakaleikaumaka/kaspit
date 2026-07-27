@@ -17,12 +17,13 @@ Shaka helped the gathering and ran its A/V — and when the tents came down, the
 recordings shouldn't vanish. So the bard shared the drive, and the pit was forked.
 
 This repo is a **demo instance** of the P.I.T. Protocol, forked in one day from the
-Esmeralda genesis:
+Esmeralda genesis — now running the **full genesis Knowledge Transponder UX** (v2.0):
+synced glowing transcripts, tap-to-seek, deep search, Patrick's speaker bubbles.
 
 - **39 sessions cataloged** — d/acc morning with Vitalik Buterin & Glen Weyl, Balaji Srinivasan,
   the Cypherpunk Sessions (DarkFi), "How to Run a Country On-Chain", Swiss Democracy,
   Permanent Hub Visioning, Buildathon Submissions, and 32 more
-- **6 featured sessions** with inline Drive players
+- **Full Knowledge Transponder UX** — press play, the words glow (transcripts land as the harvest fleet completes)
 - **Speaker tags** where known (real names only where verifiable; @handles otherwise — radical honesty)
 - **≈ \$0 infra** — static site, recordings stream from the source Drive folder
 
