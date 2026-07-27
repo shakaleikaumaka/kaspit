@@ -1,0 +1,229 @@
+# Building Network States with Statecraft
+
+Date: 
+Source video: Building Network States with Statecraft
+Drive: https://drive.google.com/file/d/12iOlmmgxk3YSdB7CwfP8wzHMzGiEQpZe/view
+Duration: 00:46:08
+Transcribed: 2026-07-27 · deepgram nova-3 · PIT BULL harvest fleet v3
+
+---
+
+[00:00] Today, we are with, Vladislav and, we will talk about the Statecraft. And we will learn how we can make our DAO mapping and the Statecraft models with frameworks and the simple majority and the other options and features. And he will teach us first and we have already created DAO union. I I will we will add you there and maybe we can make some of the proposals for how how was the event so far like in five minute etcetera for just the experience and to show you how we can use that. And Vladislav, thank you.
+
+[00:32] Yeah. It's amazing. Thank you so much, Tariq. Excited to meet all of you virtually today, but hopefully sometime in the near future in person as well. Thank you for such a a great introduction. So I will structure my talk in two parts, basically. The first part, I will give you some ideas on network states.
+
+[00:58] The ideas that our team shares, the ideas that we find valuable and the and interesting. I will tell you how we think network states might look like, how they might evolve, and how they might be structured. And then I will show you how to actually do this in the system that we create.
+
+[01:22] So I will try to have half of the time dedicated to the lecturing and half of the time to the hands on workshop. I hope I will be successful in this. So let me open my slideshow, and please tell me. I hope it works perfectly. You should be able to see my slide. Right? Yes. It's it's good.
+
+[01:47] Yeah. Thank you for the thumbs up. So, yeah, let me just open my notes really quickly, and I will start. So hello again, everybody in the audience. I will start with just a bunch of simple questions.
+
+[02:11] So the first question is, what is the network state? And I think since we are in Zozalo Zozalo cache, everybody might have their own opinion on what is the network state. So we think that I think that people can see it as some form of doubt,
+
+[02:35] or people might see it as an evolution of DAO. People might think it might might think of it as a hypothetical concept, or they might have some mental models already. I think this is very personal, this question. And I think that you might have a lot of engaging discussions on it as well in cash,
+
+[02:59] probably in the dinner or maybe on the breakfast. But I think that the in my opinion and and generally, I would say, a network state is a and I think that's not only I share this opinion, I hope, that it is a an online community that has
+
+[03:22] some specific shared values and purposes, and they might want to act on these values. So I think that this is a pretty generalized idea of this online community with a shared goal. And why do we want to build the network state? I think,
+
+[03:47] as I said, everybody might have his own ideas here as well. So we are in ZOSALO again, and Vitalik had his ideas on why he wanted to start ZOSALO. Balaji has his own ideas on why to build the network state. And, generally, the movement here is that the reasons might be completely personal, but the world is evolving into this vision of network states. And
+
+[04:14] this vision is getting shaped by a lot of people, a lot of individuals with bright ideas. But I think that's one of the most important questions here is how do we actually build the network state. And there isn't there's an incredible amount of technology in the web three world in the web two world that
+
+[04:39] allows people to enact some governance, to enact on decision making. And but the overall network state technology, it doesn't exist yet. And I think that to that for this technology to be shaped,
+
+[05:02] we need to have three simple concepts that work with this technology. So the first one, the the concept that I want to explain is the evolution. And what do I mean by the evolution concept in in the network states concepts context? I think that's the
+
+[05:25] Hello? Every community, every online community, it starts with just a single individual. And then it might be a single or maybe two individuals, a cofounders. But, basically, there are always founding members of a community. And those founding members, they enact their energy to attract people. So from one or two people, we have a
+
+[05:50] multiple members community. And then this multiple members community, it evolves to have some rules and to have some structure. They might have a leader. They might have a representative, or they might have people who are interested in a specific topic, and they want to join their forces together. So this is the first principle. It's called evolution. And this
+
+[06:14] this principle is a bit hard to enact on chain because those evolved stages of a single community, they might require different governance architecture. And this brings me to the second principle, which I call modularity. I think that online communities and online businesses,
+
+[06:38] they have to be modular. It's not it's not very convenient to have only a single structure with predefined governance rules without an option to add a model on top. For example, we might start with a single community of people who are interested in basketball and evolve
+
+[07:03] into a basketball leader. Basically, we want to have another another module to be able to be configured. And we want to to make a basically, we want to allow the technology for multilayered communities with the that are representative of real businesses as well. Because
+
+[07:27] when they when we when we talk about DAOs, DAOs representations of businesses, but on chain. But mostly, DAOs are representing just one one of the governance options. And the real businesses in the real world, base typically, the ones that operate in the not on chain, I would say, maybe on the ground.
+
+[07:52] They might be structured completely in different modular levels. So stage one is basically employees. Stage two is management. Stage three is leadership. It it might have different stages. And I think that it is important to to outline this option of modularity. And the third one, basically, the most important one, the one that we think
+
+[08:17] is vital is transparency. Transparency of decision making and transparency of voting. Basically, in our opinion, in my opinion, personally, every decision that is being made in a community or in a business, it should be enforced on the blockchain, and it should be transparent to people why this decision has been made and how it has been made, basically, who voted to.
+
+[08:45] But this question of who voted is incredibly important as well because there is this dilemma of blockchain voting. If it's public, then it might be too transparent. So I think that's the principle that should be perhaps outlined here on the slide as well is zero knowledge. I think that voting should always have an option to be anonymous with zero knowledge.
+
+[09:11] So these three simple principles of network state building that we see, we try to outline them in a system. We try to build a system that allows that adheres to these three principles, and we see that it is possible to make with current technologies, and we made it. And I wanna show how it works and how it looks.
+
+[09:36] Let me just share a different tab. Let me see if yes. It has been shared perfectly. So we wanted to make a platform that adheres to those three principles that allows any online community to basically create a so called network state. We think that for
+
+[10:04] a online community to qualify as a network state, you don't need any formal any formal process or any formal, basically, setting. I just think that a alliance community, they might share those principles that they that they show, evolution, modularity, and transparency of decision making.
+
+[10:28] And we think that to make everything on chain, it it basically allows people to already start creating network states. So what do we have, and what tools do we give for people to do this? Our system that I am describing,
+
+[10:51] it comprises of two main applications. The first one is called the state builder application, and this is the app that I will show you how to use and how to to explore that allows you to use a drag and drop interface to define different governance settings and governance architectures and models.
+
+[11:16] So as I said, I will give you some simple examples so that it's easier to grasp. So say you have a DAO with a committee. For example, you have a first layer DAO. You will have it right here. And, for example, you want to have a cryptography committee that will vote on cryptography related proposals. You will just use a drag and drop interface and configure,
+
+[11:43] basically, several simple steps, which I will show you when I open state build. The second one is the citizen app. It's the decentralized application that allows you to interact with the blockchain in which you deploy your network state. It is a simple interface that lets you do voting, lets you appoint people, lets you run decision making,
+
+[12:11] and different types of actions, which we'll also hopefully do by the end of the session. And as I said, it is vital that we have zero knowledge voting, and we have already implemented this. We did a lot of research and a lot of engineering work to make it seamless. So you have the option. Either you configure anonymous zero knowledge voting, or you configure
+
+[12:38] absolutely public depending on the on the different types of governance architecture that you can create. Yeah. Just three simple things, and I will show you right away. The first one, the state builder, it's probably the most important one because this is the tool that allows you to experiment.
+
+[13:04] It allows you to see how different governance rules might enforce different decisions or might lead to different decisions. I think that this is like it it has two purposes. The first one is to actually outline your governance and to enforce it on chain, you use it. The second one, it may be like a playground to see something new and to test it out as well.
+
+[13:34] So I will I will call our project Zukash workshop and explain how this tool works and how it allows you to to see which governance models might be interesting. For example, like, DAO with committees, which I I call DAO v two sometimes. So
+
+[14:00] in our system, we set everything to be based on one single smart contract. This smart contract is called generic body, but you can also call it a role. Basically, a role smart contract, which we call bodies. Those roles, they have several aspects,
+
+[14:23] which I will explain right now. But the main idea is that you just drag several roles. You configure how they relate to each other, and this is how your governance system is shaped. And what are those configurations? Let me show you. So the first configuration, the main important one, it's called joint conditions.
+
+[14:48] It is it is the definition of the rules of how you are able to acquire this role. So how you get this role? You set in joint conditions. Then you set what this role can do. Basically, what powers do you have? We have documents and functions. Powers. Documents lets you run proposals,
+
+[15:11] petitions, and other types of document based decision making, basically voting and governance. And functions, it allows you to do some specific actions. For example, dismiss people from roles or delete or vote for deletion of some proposals. And the most important one, enhanced, which I will get to later because I want to show you
+
+[15:37] basically voting with enhanced right here on hand. So say we have a role called ambassadors. To configure how you become an ambassadors, you need to choose the joint conditions. Again, as I said, joint conditions defines you several ways to get to this role. So it could be direct appointment
+
+[16:07] where you are appointed appointed to get this role by another role. It could be self selection, or it could be voting elections. And these elections, they can have several steps. You can start with nomination. You can add signature collection, and then you can add zero knowledge voting as well. And only if every
+
+[16:32] step here is successful, then the role will be applied to right on chain. And this will be enforced on chain, basically. So what I want to do in our workshop to explain our system a bit easier, I want to have the simplest structure ever. I think that we should
+
+[16:55] vote to create something new. We will have a DAO without any roles right away, and we will deploy it to our blockchain right now. And then we, the audience, we will vote to create, for example, those ambassadors roles right away. So what do we do if we want to update our settings? So
+
+[17:18] to update our settings and to evolve, as I said, the evolution principle is very important. We have this function called enhance, and you could also call it evolution or update. Maybe we can call it update so it's a bit easier. So this update function, it allows you to
+
+[17:41] reconfigure your governance structure right on chain. As you remember, you might start with something simple, and then you might want to create new smart contracts to update them differently. And everything here is able to be done on chain. And let us configure a zero knowledge voting to do this. Let's say that residents
+
+[18:05] residents is basically the key words that we call the highest level of our members of the community. So be it a route, be it a business, be it something else, the entry point members, they called residents. So our residents will vote anonymously.
+
+[18:30] Say, we only need a 30% turnout and a 30% threshold. So what is turnout threshold? This is akin to simple majority voting. We need 30% of people to come to the voting to to say that they participate. And out of those 30%, another 30% need to vote in favor.
+
+[18:53] And let us say that the voting is done for maybe six minutes. I hope that's enough time. So here, we just configured one simple function, and this function allows you to evolve. And we don't have any roles right now in our community, and I hope we can create create this role
+
+[19:17] with you guys. So after you configure your settings, you deploy it to the blockchain, and we have a special deployment process here. Let me switch my tab to show how it works. Give me just a second for my login. I will switch it. So
+
+[19:41] as I said, all of this, the the settings for your community, they are not just basically images. They are a real structure that can be deployed to a real blockchain, and we bundle all those settings into so called boxes. And this allows us to
+
+[20:05] to deploy it in chunks. Right here, I will start sign my transactions for deployment. And while it is deploying, I might explain something else or maybe answer a question because it will take some time because this is deploying to a real blockchain. What do we do with this dApp? So you might notice that I
+
+[20:32] just click proceed, and I signed my transaction with the wallet that is created in this dApp just for me. We use Google login right now. So you log in with Google, and from the Google signature, a local key is derived. It is stored in your local storage, basically,
+
+[20:55] and you sign with this key. But it's also possible to sign with any other blockchain wallet. We just made it because it's simpler for people to onboard. So when you are done deploying
+
+[21:18] all of those settings, they get deployed to a blockchain network. It can be any event compatible blockchain network, but, currently, I'm demonstrating on our demonstration in blockchain network, basically. So I would propose and
+
+[21:41] ask the audience members to scan this QR code, and then we can vote together to create a new structure. And I will show you how this create structure how how this structure creation is done. So that's potentially in the next workshop, you're able to see
+
+[22:06] how to add your new structure to the Zukash network state, for example. Because we already created the Zukash network state with Tarik, and there is a function to evolve. And you can evolve by creating something that you see that you if you use is fitting for it.
+
+[22:31] Let me just wait for a couple of minutes probably. There is a user feedback from my side. And when they scan the QR directly, they are going to log in screen after that I presume. This is why it's it took time a little bit. They will create their profile and they will come back. Give me two minutes
+
+[22:54] or give us technically. Yes. Yes. Okay. We should wait, of course. Or you can directly share the link with the our residency because not everyone is here too. Yeah. Let me just send it to the chat perhaps. Yeah. To the statecraft chat in Zugash residency.
+
+[23:21] And maybe right now we can start the experiments like that until next workshop. It will be, 16, I believe. Yeah. We we can we can propose and create the body templates with the votes as a residence inside of this Lukas workshop. Maybe. Yes. Yes. Joining the state.
+
+[23:45] That's that's an option. Hello, sir. Quick feedback. So I was try training trying to join the state Zucash workshop. I suppose that's the way to do it. It's hanging. Yeah. And there there was a temporal error. So it says CE constrained user constraint error. It probably means that you
+
+[24:07] have already joined it at and it just hasn't updated. And you're trying to join the second time. That's why it says constraint error problem. Could you roll the screen, please? And just confirm whether it's a right guess from a side. Same error?
+
+[24:33] Yeah. Probably it's creating a block and I don't know. Usually, when you when you receive constraints, Aaron. So let me just get a bit technical since we are all blockchain You are at the already. Maybe you can refresh And Yeah. You should probably refresh the page constraints is our system of enforcing some rules on blockchain, basically. And mister who? And
+
+[25:01] Yep. Is it okay now? Yeah. This guy is amazing security and audit and project manager and amazing OG, etcetera. And he say UX is not say, hey, you are already in as a feedback. Okay? Yeah. Yeah. We are very excited to hear feedback.
+
+[25:26] That's that's perfect. Thank you. Let's let's do that. Give your feedback directly. For blockchain app, I understand to use Google for people that don't have a wallet. But if you have a wallet, then I would like to use it because I don't use Google because of privacy concerns. So I can't even know.
+
+[25:50] Yeah. It's coming soon. We have this feedback already. It it will be there soon. Thank you so much. Thank you. And I believe for now we are seven people is enough to govern as a small DAO. And, sir, did you did you join? I want to introduce actually Liberland founder and present with us and, it's amazing opportunity.
+
+[26:13] He is here and they have already complex governance with meritocracy, some of the good parts of democracy and some of the good parts of other things. And, yes, maybe you can create the first proposal if you want. Wit, Do you want to create the first proposal? Yeah. Actually actually,
+
+[26:36] we will try to create our own state model. Yeah. And, we have just residents right now and zero rule. And we can propose our first rule, for example, who is the liable to be residents or yeah. Or we can go directly for the president and I have a one candidate in here. Yeah. Well, I really wanted to show how it's done because it might be a bit complicated.
+
+[27:01] Maybe I explain, and then we create this proposal after people understand how it's done. Sure? Perfect. Yeah. So, yeah, as I said, the concept of evolution, it allows you to create right on chain a new structure, to create new rules, to create new settings.
+
+[27:26] And we'll just call it demo proposal here and demo ads approach. But, usually, you can you can write actual proposal idea and document it. So what do we do? I really wanted to explain this myself because
+
+[27:52] it might cause some questions about the enhancement features. So enhancement or evolution, this update that we'll work on, when you create this proposal, it allows you, for example, to create a new DAO inside our Zucash DAO net state that we created with Derek. So what you do? You click a proposal,
+
+[28:15] and you will see the structure of the community that you're working inside. So right now, we have this community called Zukash workshop, and it's empty. It doesn't has any role. And we can create a role, and we can call it, for example, ambassador here. Ambassador. And you will see that
+
+[28:40] to create something, you need to click this create button, and it will show you your new structure that you propose. Now you propose that inside the Zukash workshop community, you have this ambassador role. And as I said, every role, everybody, it has basically two main things that you need to configure. The first one is how you can join it.
+
+[29:06] And for to keep it simple, we can do self selection. So anybody will be able to join if they want, just to keep it simple. This is the first setting. And the second setting is what this role can do. And let's say that our ambassadors, they can have power
+
+[29:30] to create, for example, degrees. Let's call it degrees. Why not? So our ambassador, they will just click one button to create this degree. But if we want, we might add voting for this so that ambassadors need to vote to create the the decree. It's up to you how you decide. So now we have configured those two main
+
+[29:55] main aspects of the role, and we can propose to apply it on chain. Basically, we will have this quick review that we create this ambassador role with the self selection joint condition and that they have they they can do decrease. We confirm this, and we publish our proposal.
+
+[30:21] And as soon as it's mined, this block is mined, we will be able to vote for or against this proposal. As I said, I configured this time to be 30% threshold and 30% turnout. So how do you get into the voting? You can get to the Zukarsh workshop community,
+
+[30:45] and you will see voting here. So it it should be right on the first page. You click this voting, and you finalize it. So why does it say finalize? Because you finalize the creation of the proposal. So now that the finalization of the creation has been proposed, we now have anonymous zero knowledge voting
+
+[31:10] for or against this proposal. So I'm not pushing people to to vote for or against. I will vote for just for the demo, but you can vote as you as you feel. If we have 30% I threshold start a discussion inside of the voting for town hall. Maybe we need to discuss anonymously. Yeah? It's working right now. Yeah?
+
+[31:35] Yeah. Yeah. It should be. Let me check when this block is mined. So here we do zero knowledge proof. And what do you prove? You prove that you are a member of the Zukash workshop net state.
+
+[32:00] This is a simple membership proof. Every role is actually a sparse Merkle three smart contract, and you proved that your address is there. Hello? Hello? Yeah. This is the chat that you can basically use to discuss this proposal. Thank you, Tariq, for clarifying.
+
+[32:26] So, yeah, as I said, since the the voting here is zero knowledge, you create a one time usage account. This is just created inside of the browser, and it's just used to send the vote. And, currently, this blockchain that we are using, it is gasless,
+
+[32:49] basically. So that's why it's sent right from your account for free. And we do have the results here. So we see that five people are four, one is against. So probably our proposal will be successful because we can figure 3030%. Yeah. And while we wait, we can see the chat. Why not?
+
+[33:17] We have four minutes. Maybe just a quick break. I mean, not a literal break, but if you have any questions or any additional feedback, we can we can chat. I have two additional question. It's linked together. One of them is with the discussion session, Can we make the discussions anonymous too for the privacy?
+
+[33:40] And the second part is normally if I I'm against already, but I can see now before the results, result is going to win for yes. Yeah. Can we this hidden or something like that? Because people don't want to see the results before when they're like, they was already voting, you know, it can their decisions
+
+[34:02] and, it can manipulate the results. Yeah. Those are amazing ideas. So currently in this version, it's, not, implemented, but it's possible to do. And, it will look like this. Inside of the state builder, you will have a different check mark for, for example, hidden or not hidden results.
+
+[34:27] And I think that this is an amazing idea. I put it in my list. Discussions, like, with ZK or other way? Like, anonymous discussions, is it? I think that's for anonymous discussions, that's a bit more tricky because to make it absolutely cryptography proof, it needs time and engineering.
+
+[34:52] But simple hidden discussions, it's easy to do, of course. So it's it's it's maybe coming, but maybe not soon. Actually, we can share, like, help shrink my station when we are discussing the Telegram group. For example, with Harry Potter and he's sharing his idea in discussion. And it's also it can also affect people decision. Maybe they don't wanna
+
+[35:18] share their against opinion. And both of this is important. For example, when I wanna vote for now, and I saw most of people say yes. And maybe I wanna be against it and I don't wanna vote against right now. Yeah. Maybe it can be choose when you are opening, like optional hidden and also discussion parties
+
+[35:44] sometimes I think should be anonymous. I agree. I agree. It's pretty easy to see that most people are in favor of something and to be in favor as well. But I think that's currently, this is since the voting is anonymous, this might be easier to go against
+
+[36:07] the the the public. You know? For example, here's eight people, four, and you'll be the first one that is against. But since you're anonymous, it's okay. But I do agree that you will have this mental idea that you should be four as well. So we have twenty five seconds left, and we will finalize.
+
+[36:30] Our new role will be created. And maybe while we will wait those. Okay. Fifteen seconds is okay. I just want to show you how to add the new structures to the Zuzawa cache network state as well just for the future. So once the voting is done, you just click finalize. We see that five people are for, two is against.
+
+[37:01] And here, while the new structure is deployed, the roles that are affected, they will be updated. And for this update time, they have basically time lock. It's time lock for applying new settings. After settings applied, then the time lock is open again.
+
+[37:30] So we click finalize, and it should be should be done. Perfect. So let us see the this will this will close. And we see that once we we open this Zocash workshop again, this community,
+
+[37:54] we see that the new structure has been created, the ambassador, and we are able to join it. And it is also maybe I should highlight here that to get to the structure, there is two possibilities. The first one is when you click here on the top. The second one, it's a button on the right top.
+
+[38:17] But for me, it's easier to get to click here on the name of the community, and you will see the structure. Then you for example, you want to join ambassador, you click on the name of the ambassador, and you click join. And, basically, this is how you evolve, how you create new DAOs, for example, inside the DAO network state or how you update your DAO, and this is
+
+[38:42] stuff to think about. So now when you want to create a proposal, you can see that there is this old function that I configured in the state builder, and there is this new function that we configured here voting with you. Yeah. And I hope that everyone has been invited to the Dow Union network state as well.
+
+[39:05] Let me see whether I have been. Yeah. I have been. So when you go to Dow Union, this is how we change states. You should probably have two states here. Basically, two communities. The first one is the workshop community that I created right now, and there is the DAO union community, which I want to ask you to explore as well. And you can create proposals there with this function.
+
+[39:31] You see you click create proposal, and you will have the create an update, but not as admin, but as residents, basically. So In discussion sorry. In discussion part, Michel has a question, which gives us blockchain is in use now. Did you see in discussion part? Let me check. Where should I look for this? In Zukash
+
+[39:57] discussion part. Zukash workshop in proper Yeah. Me check. Which just is blocked out. Yeah. We actually talked about the block with Michelle on Friday, and it is the one that I was talking about. Basically, it's like a test net blockchain that we run currently. But as soon as we have a good amount of users,
+
+[40:23] it becomes so called proof of democracy level one state cap blockchain, where we get validators that are elected in zero knowledge as well with this system. So yeah. I hope this answers the question. Right? Yeah. I think she she can ask again.
+
+[40:50] That's good. That's great. So this is the quick introduction to our state craft system, to the state builder, and to the citizen app. What I want everyone to do, everyone who is interested at least, I want you to think about how Dow governance
+
+[41:13] joint DAO governance might look like. So maybe you have some DAOs elect representatives, and those representatives do something together. Maybe you have DAOs with committees, for example, with cryptography committees. And for the people who are interested in this topic, I would ask you after our workshop to open State Builder.
+
+[41:36] I will just share the link as well. So it's the builder dot state of the tech. Let me send it to our chat. State builder. And to explore how those different governance models might look like. And to deploy something can we can see your presentation right now,
+
+[42:00] Konica. Yes. Yes. It's because I turned it off, and I just wanted you to see my face. Yeah. So this is my my workshop for for the most part. I'd love to hear any other feedback and questions if you have it, and we can chat. Maybe I can show you my state draft
+
+[42:25] logo here. Just a second. Here it is. So, yeah, do you have any questions? I believe someone has come as a proposal right now, but beside that, we'd have some questions.
+
+[42:57] Perfect. I'm just with with just question is really nice up, very, very nice design, and it seems that it really has a huge amount of functions. I'm just wondering, our blockchain has recently become EVM compatible. Is there any option for you to deploy this software on multiple chains or is are you guys strictly adhering to Ethereum? So if it is EVM compatible,
+
+[43:23] potentially, it's possible to deploy. But we don't have any deployment road map right now. Alright. I would like to, like, stay in touch with you directly and and consider if we could do this. Thank you. Everything is possible, of course. Thank you so much. I believe the questions is
+
+[43:48] yeah. Yeah. They're creating a proposal, believe. And yeah. Are you creating it in the Dow workshop or in the Dow union? Union. Oh, definitely. Our first proposal. Yeah. Oh, here it is, I think.
+
+[44:30] Amazing. Doesn't it? Yeah. The question is, does it have a smart contract as it execute something automatically or, like, is it just a we write something and then No. The these smart contracts, they don't execute automatically, but the system works like this. You have those constraints
+
+[44:54] that we mentioned today. Constraints mean that you either have the option to do something or you don't have this option. Basically, it's just the decision making enforcement rule. And if constraints allow it, then anybody can enact. For example, they can start proposal. They can they can end proposal if it adheres to the settings that you configured in the state builder.
+
+[45:19] And, basically, anybody can do this, but we don't have a bot that will do this automatically right now. Thank you so much. And maybe we can finalize and we can see each other again at the workshop day too. And we
+
+[45:42] can explain better and we can make more experience about the proposals, etcetera. Thank you a lot and thank you everyone for participation. At 2PM, we will continue with the Liberland president. He will present the Liberland. And thank you. Thank you so much. I was excited to to speak. Thank you. Bye bye. Bye bye, everyone. Bye.

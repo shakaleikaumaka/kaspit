@@ -1,5 +1,1425 @@
 [
  [
+  0,
+  0,
+  "Today, we are with, Vladislav and, we will talk about the Statecraft. And we will learn how we can make our DAO mapping and the Statecraft m"
+ ],
+ [
+  0,
+  9,
+  "odels with frameworks and the simple majority and the other options and features. And he will teach us first and we have already created DAO"
+ ],
+ [
+  0,
+  18,
+  " union. I I will we will add you there and maybe we can make some of the proposals for how how was the event so far like in five minute etce"
+ ],
+ [
+  0,
+  26,
+  "tera for just the experience and to show you how we can use that. And Vladislav, thank you."
+ ],
+ [
+  0,
+  32,
+  "Yeah. It's amazing. Thank you so much, Tariq. Excited to meet all of you virtually today, but hopefully sometime in the near future in perso"
+ ],
+ [
+  0,
+  44,
+  "n as well. Thank you for such a a great introduction. So I will structure my talk in two parts, basically. The first part, I will give you s"
+ ],
+ [
+  0,
+  56,
+  "ome ideas on network states."
+ ],
+ [
+  0,
+  58,
+  "The ideas that our team shares, the ideas that we find valuable and the and interesting. I will tell you how we think network states might l"
+ ],
+ [
+  0,
+  70,
+  "ook like, how they might evolve, and how they might be structured. And then I will show you how to actually do this in the system that we cr"
+ ],
+ [
+  0,
+  82,
+  "eate."
+ ],
+ [
+  0,
+  82,
+  "So I will try to have half of the time dedicated to the lecturing and half of the time to the hands on workshop. I hope I will be successful"
+ ],
+ [
+  0,
+  94,
+  " in this. So let me open my slideshow, and please tell me. I hope it works perfectly. You should be able to see my slide. Right? Yes. It's i"
+ ],
+ [
+  0,
+  106,
+  "t's good."
+ ],
+ [
+  0,
+  107,
+  "Yeah. Thank you for the thumbs up. So, yeah, let me just open my notes really quickly, and I will start. So hello again, everybody in the au"
+ ],
+ [
+  0,
+  124,
+  "dience. I will start with just a bunch of simple questions."
+ ],
+ [
+  0,
+  131,
+  "So the first question is, what is the network state? And I think since we are in Zozalo Zozalo cache, everybody might have their own opinion"
+ ],
+ [
+  0,
+  145,
+  " on what is the network state. So we think that I think that people can see it as some form of doubt,"
+ ],
+ [
+  0,
+  155,
+  "or people might see it as an evolution of DAO. People might think it might might think of it as a hypothetical concept, or they might have s"
+ ],
+ [
+  0,
+  166,
+  "ome mental models already. I think this is very personal, this question. And I think that you might have a lot of engaging discussions on it"
+ ],
+ [
+  0,
+  178,
+  " as well in cash,"
+ ],
+ [
+  0,
+  179,
+  "probably in the dinner or maybe on the breakfast. But I think that the in my opinion and and generally, I would say, a network state is a an"
+ ],
+ [
+  0,
+  193,
+  "d I think that's not only I share this opinion, I hope, that it is a an online community that has"
+ ],
+ [
+  0,
+  202,
+  "some specific shared values and purposes, and they might want to act on these values. So I think that this is a pretty generalized idea of t"
+ ],
+ [
+  0,
+  217,
+  "his online community with a shared goal. And why do we want to build the network state? I think,"
+ ],
+ [
+  0,
+  227,
+  "as I said, everybody might have his own ideas here as well. So we are in ZOSALO again, and Vitalik had his ideas on why he wanted to start Z"
+ ],
+ [
+  0,
+  238,
+  "OSALO. Balaji has his own ideas on why to build the network state. And, generally, the movement here is that the reasons might be completely"
+ ],
+ [
+  0,
+  248,
+  " personal, but the world is evolving into this vision of network states. And"
+ ],
+ [
+  0,
+  254,
+  "this vision is getting shaped by a lot of people, a lot of individuals with bright ideas. But I think that's one of the most important quest"
+ ],
+ [
+  0,
+  266,
+  "ions here is how do we actually build the network state. And there isn't there's an incredible amount of technology in the web three world i"
+ ],
+ [
+  0,
+  277,
+  "n the web two world that"
+ ],
+ [
+  0,
+  279,
+  "allows people to enact some governance, to enact on decision making. And but the overall network state technology, it doesn't exist yet. And"
+ ],
+ [
+  0,
+  296,
+  " I think that to that for this technology to be shaped,"
+ ],
+ [
+  0,
+  302,
+  "we need to have three simple concepts that work with this technology. So the first one, the the concept that I want to explain is the evolut"
+ ],
+ [
+  0,
+  315,
+  "ion. And what do I mean by the evolution concept in in the network states concepts context? I think that's the"
+ ],
+ [
+  0,
+  325,
+  "Hello? Every community, every online community, it starts with just a single individual. And then it might be a single or maybe two individu"
+ ],
+ [
+  0,
+  336,
+  "als, a cofounders. But, basically, there are always founding members of a community. And those founding members, they enact their energy to "
+ ],
+ [
+  0,
+  346,
+  "attract people. So from one or two people, we have a"
+ ],
+ [
+  0,
+  350,
+  "multiple members community. And then this multiple members community, it evolves to have some rules and to have some structure. They might h"
+ ],
+ [
+  0,
+  359,
+  "ave a leader. They might have a representative, or they might have people who are interested in a specific topic, and they want to join thei"
+ ],
+ [
+  0,
+  369,
+  "r forces together. So this is the first principle. It's called evolution. And this"
+ ],
+ [
+  0,
+  374,
+  "this principle is a bit hard to enact on chain because those evolved stages of a single community, they might require different governance a"
+ ],
+ [
+  0,
+  386,
+  "rchitecture. And this brings me to the second principle, which I call modularity. I think that online communities and online businesses,"
+ ],
+ [
+  0,
+  398,
+  "they have to be modular. It's not it's not very convenient to have only a single structure with predefined governance rules without an optio"
+ ],
+ [
+  0,
+  411,
+  "n to add a model on top. For example, we might start with a single community of people who are interested in basketball and evolve"
+ ],
+ [
+  0,
+  423,
+  "into a basketball leader. Basically, we want to have another another module to be able to be configured. And we want to to make a basically,"
+ ],
+ [
+  0,
+  435,
+  " we want to allow the technology for multilayered communities with the that are representative of real businesses as well. Because"
+ ],
+ [
+  0,
+  447,
+  "when they when we when we talk about DAOs, DAOs representations of businesses, but on chain. But mostly, DAOs are representing just one one "
+ ],
+ [
+  0,
+  459,
+  "of the governance options. And the real businesses in the real world, base typically, the ones that operate in the not on chain, I would say"
+ ],
+ [
+  0,
+  470,
+  ", maybe on the ground."
+ ],
+ [
+  0,
+  472,
+  "They might be structured completely in different modular levels. So stage one is basically employees. Stage two is management. Stage three i"
+ ],
+ [
+  0,
+  482,
+  "s leadership. It it might have different stages. And I think that it is important to to outline this option of modularity. And the third one"
+ ],
+ [
+  0,
+  493,
+  ", basically, the most important one, the one that we think"
+ ],
+ [
+  0,
+  497,
+  "is vital is transparency. Transparency of decision making and transparency of voting. Basically, in our opinion, in my opinion, personally, "
+ ],
+ [
+  0,
+  508,
+  "every decision that is being made in a community or in a business, it should be enforced on the blockchain, and it should be transparent to "
+ ],
+ [
+  0,
+  518,
+  "people why this decision has been made and how it has been made, basically, who voted to."
+ ],
+ [
+  0,
+  525,
+  "But this question of who voted is incredibly important as well because there is this dilemma of blockchain voting. If it's public, then it m"
+ ],
+ [
+  0,
+  535,
+  "ight be too transparent. So I think that's the principle that should be perhaps outlined here on the slide as well is zero knowledge. I thin"
+ ],
+ [
+  0,
+  545,
+  "k that voting should always have an option to be anonymous with zero knowledge."
+ ],
+ [
+  0,
+  551,
+  "So these three simple principles of network state building that we see, we try to outline them in a system. We try to build a system that al"
+ ],
+ [
+  0,
+  562,
+  "lows that adheres to these three principles, and we see that it is possible to make with current technologies, and we made it. And I wanna s"
+ ],
+ [
+  0,
+  573,
+  "how how it works and how it looks."
+ ],
+ [
+  0,
+  576,
+  "Let me just share a different tab. Let me see if yes. It has been shared perfectly. So we wanted to make a platform that adheres to those th"
+ ],
+ [
+  0,
+  592,
+  "ree principles that allows any online community to basically create a so called network state. We think that for"
+ ],
+ [
+  0,
+  604,
+  "a online community to qualify as a network state, you don't need any formal any formal process or any formal, basically, setting. I just thi"
+ ],
+ [
+  0,
+  616,
+  "nk that a alliance community, they might share those principles that they that they show, evolution, modularity, and transparency of decisio"
+ ],
+ [
+  0,
+  627,
+  "n making."
+ ],
+ [
+  0,
+  628,
+  "And we think that to make everything on chain, it it basically allows people to already start creating network states. So what do we have, a"
+ ],
+ [
+  0,
+  643,
+  "nd what tools do we give for people to do this? Our system that I am describing,"
+ ],
+ [
+  0,
+  651,
+  "it comprises of two main applications. The first one is called the state builder application, and this is the app that I will show you how t"
+ ],
+ [
+  0,
+  663,
+  "o use and how to to explore that allows you to use a drag and drop interface to define different governance settings and governance architec"
+ ],
+ [
+  0,
+  675,
+  "tures and models."
+ ],
+ [
+  0,
+  676,
+  "So as I said, I will give you some simple examples so that it's easier to grasp. So say you have a DAO with a committee. For example, you ha"
+ ],
+ [
+  0,
+  687,
+  "ve a first layer DAO. You will have it right here. And, for example, you want to have a cryptography committee that will vote on cryptograph"
+ ],
+ [
+  0,
+  697,
+  "y related proposals. You will just use a drag and drop interface and configure,"
+ ],
+ [
+  0,
+  703,
+  "basically, several simple steps, which I will show you when I open state build. The second one is the citizen app. It's the decentralized ap"
+ ],
+ [
+  0,
+  714,
+  "plication that allows you to interact with the blockchain in which you deploy your network state. It is a simple interface that lets you do "
+ ],
+ [
+  0,
+  726,
+  "voting, lets you appoint people, lets you run decision making,"
+ ],
+ [
+  0,
+  731,
+  "and different types of actions, which we'll also hopefully do by the end of the session. And as I said, it is vital that we have zero knowle"
+ ],
+ [
+  0,
+  742,
+  "dge voting, and we have already implemented this. We did a lot of research and a lot of engineering work to make it seamless. So you have th"
+ ],
+ [
+  0,
+  752,
+  "e option. Either you configure anonymous zero knowledge voting, or you configure"
+ ],
+ [
+  0,
+  758,
+  "absolutely public depending on the on the different types of governance architecture that you can create. Yeah. Just three simple things, an"
+ ],
+ [
+  0,
+  770,
+  "d I will show you right away. The first one, the state builder, it's probably the most important one because this is the tool that allows yo"
+ ],
+ [
+  0,
+  783,
+  "u to experiment."
+ ],
+ [
+  0,
+  784,
+  "It allows you to see how different governance rules might enforce different decisions or might lead to different decisions. I think that thi"
+ ],
+ [
+  0,
+  796,
+  "s is like it it has two purposes. The first one is to actually outline your governance and to enforce it on chain, you use it. The second on"
+ ],
+ [
+  0,
+  807,
+  "e, it may be like a playground to see something new and to test it out as well."
+ ],
+ [
+  0,
+  814,
+  "So I will I will call our project Zukash workshop and explain how this tool works and how it allows you to to see which governance models mi"
+ ],
+ [
+  0,
+  829,
+  "ght be interesting. For example, like, DAO with committees, which I I call DAO v two sometimes. So"
+ ],
+ [
+  0,
+  840,
+  "in our system, we set everything to be based on one single smart contract. This smart contract is called generic body, but you can also call"
+ ],
+ [
+  0,
+  853,
+  " it a role. Basically, a role smart contract, which we call bodies. Those roles, they have several aspects,"
+ ],
+ [
+  0,
+  863,
+  "which I will explain right now. But the main idea is that you just drag several roles. You configure how they relate to each other, and this"
+ ],
+ [
+  0,
+  874,
+  " is how your governance system is shaped. And what are those configurations? Let me show you. So the first configuration, the main important"
+ ],
+ [
+  0,
+  885,
+  " one, it's called joint conditions."
+ ],
+ [
+  0,
+  888,
+  "It is it is the definition of the rules of how you are able to acquire this role. So how you get this role? You set in joint conditions. The"
+ ],
+ [
+  0,
+  899,
+  "n you set what this role can do. Basically, what powers do you have? We have documents and functions. Powers. Documents lets you run proposa"
+ ],
+ [
+  0,
+  911,
+  "ls,"
+ ],
+ [
+  0,
+  911,
+  "petitions, and other types of document based decision making, basically voting and governance. And functions, it allows you to do some speci"
+ ],
+ [
+  0,
+  922,
+  "fic actions. For example, dismiss people from roles or delete or vote for deletion of some proposals. And the most important one, enhanced, "
+ ],
+ [
+  0,
+  933,
+  "which I will get to later because I want to show you"
+ ],
+ [
+  0,
+  937,
+  "basically voting with enhanced right here on hand. So say we have a role called ambassadors. To configure how you become an ambassadors, you"
+ ],
+ [
+  0,
+  951,
+  " need to choose the joint conditions. Again, as I said, joint conditions defines you several ways to get to this role. So it could be direct"
+ ],
+ [
+  0,
+  966,
+  " appointment"
+ ],
+ [
+  0,
+  967,
+  "where you are appointed appointed to get this role by another role. It could be self selection, or it could be voting elections. And these e"
+ ],
+ [
+  0,
+  978,
+  "lections, they can have several steps. You can start with nomination. You can add signature collection, and then you can add zero knowledge "
+ ],
+ [
+  0,
+  989,
+  "voting as well. And only if every"
+ ],
+ [
+  0,
+  992,
+  "step here is successful, then the role will be applied to right on chain. And this will be enforced on chain, basically. So what I want to d"
+ ],
+ [
+  0,
+  1004,
+  "o in our workshop to explain our system a bit easier, I want to have the simplest structure ever. I think that we should"
+ ],
+ [
+  0,
+  1015,
+  "vote to create something new. We will have a DAO without any roles right away, and we will deploy it to our blockchain right now. And then w"
+ ],
+ [
+  0,
+  1026,
+  "e, the audience, we will vote to create, for example, those ambassadors roles right away. So what do we do if we want to update our settings"
+ ],
+ [
+  0,
+  1038,
+  "? So"
+ ],
+ [
+  0,
+  1038,
+  "to update our settings and to evolve, as I said, the evolution principle is very important. We have this function called enhance, and you co"
+ ],
+ [
+  0,
+  1050,
+  "uld also call it evolution or update. Maybe we can call it update so it's a bit easier. So this update function, it allows you to"
+ ],
+ [
+  0,
+  1061,
+  "reconfigure your governance structure right on chain. As you remember, you might start with something simple, and then you might want to cre"
+ ],
+ [
+  0,
+  1071,
+  "ate new smart contracts to update them differently. And everything here is able to be done on chain. And let us configure a zero knowledge v"
+ ],
+ [
+  0,
+  1082,
+  "oting to do this. Let's say that residents"
+ ],
+ [
+  0,
+  1085,
+  "residents is basically the key words that we call the highest level of our members of the community. So be it a route, be it a business, be "
+ ],
+ [
+  0,
+  1099,
+  "it something else, the entry point members, they called residents. So our residents will vote anonymously."
+ ],
+ [
+  0,
+  1110,
+  "Say, we only need a 30% turnout and a 30% threshold. So what is turnout threshold? This is akin to simple majority voting. We need 30% of pe"
+ ],
+ [
+  0,
+  1123,
+  "ople to come to the voting to to say that they participate. And out of those 30%, another 30% need to vote in favor."
+ ],
+ [
+  0,
+  1133,
+  "And let us say that the voting is done for maybe six minutes. I hope that's enough time. So here, we just configured one simple function, an"
+ ],
+ [
+  0,
+  1145,
+  "d this function allows you to evolve. And we don't have any roles right now in our community, and I hope we can create create this role"
+ ],
+ [
+  0,
+  1157,
+  "with you guys. So after you configure your settings, you deploy it to the blockchain, and we have a special deployment process here. Let me "
+ ],
+ [
+  0,
+  1171,
+  "switch my tab to show how it works. Give me just a second for my login. I will switch it. So"
+ ],
+ [
+  0,
+  1181,
+  "as I said, all of this, the the settings for your community, they are not just basically images. They are a real structure that can be deplo"
+ ],
+ [
+  0,
+  1195,
+  "yed to a real blockchain, and we bundle all those settings into so called boxes. And this allows us to"
+ ],
+ [
+  0,
+  1205,
+  "to deploy it in chunks. Right here, I will start sign my transactions for deployment. And while it is deploying, I might explain something e"
+ ],
+ [
+  0,
+  1217,
+  "lse or maybe answer a question because it will take some time because this is deploying to a real blockchain. What do we do with this dApp? "
+ ],
+ [
+  0,
+  1230,
+  "So you might notice that I"
+ ],
+ [
+  0,
+  1232,
+  "just click proceed, and I signed my transaction with the wallet that is created in this dApp just for me. We use Google login right now. So "
+ ],
+ [
+  0,
+  1244,
+  "you log in with Google, and from the Google signature, a local key is derived. It is stored in your local storage, basically,"
+ ],
+ [
+  0,
+  1255,
+  "and you sign with this key. But it's also possible to sign with any other blockchain wallet. We just made it because it's simpler for people"
+ ],
+ [
+  0,
+  1273,
+  " to onboard. So when you are done deploying"
+ ],
+ [
+  0,
+  1278,
+  "all of those settings, they get deployed to a blockchain network. It can be any event compatible blockchain network, but, currently, I'm dem"
+ ],
+ [
+  0,
+  1292,
+  "onstrating on our demonstration in blockchain network, basically. So I would propose and"
+ ],
+ [
+  0,
+  1301,
+  "ask the audience members to scan this QR code, and then we can vote together to create a new structure. And I will show you how this create "
+ ],
+ [
+  0,
+  1315,
+  "structure how how this structure creation is done. So that's potentially in the next workshop, you're able to see"
+ ],
+ [
+  0,
+  1326,
+  "how to add your new structure to the Zukash network state, for example. Because we already created the Zukash network state with Tarik, and "
+ ],
+ [
+  0,
+  1339,
+  "there is a function to evolve. And you can evolve by creating something that you see that you if you use is fitting for it."
+ ],
+ [
+  0,
+  1351,
+  "Let me just wait for a couple of minutes probably. There is a user feedback from my side. And when they scan the QR directly, they are going"
+ ],
+ [
+  0,
+  1362,
+  " to log in screen after that I presume. This is why it's it took time a little bit. They will create their profile and they will come back. "
+ ],
+ [
+  0,
+  1373,
+  "Give me two minutes"
+ ],
+ [
+  0,
+  1374,
+  "or give us technically. Yes. Yes. Okay. We should wait, of course. Or you can directly share the link with the our residency because not eve"
+ ],
+ [
+  0,
+  1389,
+  "ryone is here too. Yeah. Let me just send it to the chat perhaps. Yeah. To the statecraft chat in Zugash residency."
+ ],
+ [
+  0,
+  1401,
+  "And maybe right now we can start the experiments like that until next workshop. It will be, 16, I believe. Yeah. We we can we can propose an"
+ ],
+ [
+  0,
+  1414,
+  "d create the body templates with the votes as a residence inside of this Lukas workshop. Maybe. Yes. Yes. Joining the state."
+ ],
+ [
+  0,
+  1425,
+  "That's that's an option. Hello, sir. Quick feedback. So I was try training trying to join the state Zucash workshop. I suppose that's the wa"
+ ],
+ [
+  0,
+  1436,
+  "y to do it. It's hanging. Yeah. And there there was a temporal error. So it says CE constrained user constraint error. It probably means tha"
+ ],
+ [
+  0,
+  1447,
+  "t you"
+ ],
+ [
+  0,
+  1447,
+  "have already joined it at and it just hasn't updated. And you're trying to join the second time. That's why it says constraint error problem"
+ ],
+ [
+  0,
+  1462,
+  ". Could you roll the screen, please? And just confirm whether it's a right guess from a side. Same error?"
+ ],
+ [
+  0,
+  1473,
+  "Yeah. Probably it's creating a block and I don't know. Usually, when you when you receive constraints, Aaron. So let me just get a bit techn"
+ ],
+ [
+  0,
+  1484,
+  "ical since we are all blockchain You are at the already. Maybe you can refresh And Yeah. You should probably refresh the page constraints is"
+ ],
+ [
+  0,
+  1495,
+  " our system of enforcing some rules on blockchain, basically. And mister who? And"
+ ],
+ [
+  0,
+  1501,
+  "Yep. Is it okay now? Yeah. This guy is amazing security and audit and project manager and amazing OG, etcetera. And he say UX is not say, he"
+ ],
+ [
+  0,
+  1516,
+  "y, you are already in as a feedback. Okay? Yeah. Yeah. We are very excited to hear feedback."
+ ],
+ [
+  0,
+  1526,
+  "That's that's perfect. Thank you. Let's let's do that. Give your feedback directly. For blockchain app, I understand to use Google for peopl"
+ ],
+ [
+  0,
+  1537,
+  "e that don't have a wallet. But if you have a wallet, then I would like to use it because I don't use Google because of privacy concerns. So"
+ ],
+ [
+  0,
+  1548,
+  " I can't even know."
+ ],
+ [
+  0,
+  1550,
+  "Yeah. It's coming soon. We have this feedback already. It it will be there soon. Thank you so much. Thank you. And I believe for now we are "
+ ],
+ [
+  0,
+  1560,
+  "seven people is enough to govern as a small DAO. And, sir, did you did you join? I want to introduce actually Liberland founder and present "
+ ],
+ [
+  0,
+  1570,
+  "with us and, it's amazing opportunity."
+ ],
+ [
+  0,
+  1573,
+  "He is here and they have already complex governance with meritocracy, some of the good parts of democracy and some of the good parts of othe"
+ ],
+ [
+  0,
+  1584,
+  "r things. And, yes, maybe you can create the first proposal if you want. Wit, Do you want to create the first proposal? Yeah. Actually actua"
+ ],
+ [
+  0,
+  1596,
+  "lly,"
+ ],
+ [
+  0,
+  1596,
+  "we will try to create our own state model. Yeah. And, we have just residents right now and zero rule. And we can propose our first rule, for"
+ ],
+ [
+  0,
+  1606,
+  " example, who is the liable to be residents or yeah. Or we can go directly for the president and I have a one candidate in here. Yeah. Well,"
+ ],
+ [
+  0,
+  1616,
+  " I really wanted to show how it's done because it might be a bit complicated."
+ ],
+ [
+  0,
+  1621,
+  "Maybe I explain, and then we create this proposal after people understand how it's done. Sure? Perfect. Yeah. So, yeah, as I said, the conce"
+ ],
+ [
+  0,
+  1635,
+  "pt of evolution, it allows you to create right on chain a new structure, to create new rules, to create new settings."
+ ],
+ [
+  0,
+  1646,
+  "And we'll just call it demo proposal here and demo ads approach. But, usually, you can you can write actual proposal idea and document it. S"
+ ],
+ [
+  0,
+  1664,
+  "o what do we do? I really wanted to explain this myself because"
+ ],
+ [
+  0,
+  1672,
+  "it might cause some questions about the enhancement features. So enhancement or evolution, this update that we'll work on, when you create t"
+ ],
+ [
+  0,
+  1683,
+  "his proposal, it allows you, for example, to create a new DAO inside our Zucash DAO net state that we created with Derek. So what you do? Yo"
+ ],
+ [
+  0,
+  1694,
+  "u click a proposal,"
+ ],
+ [
+  0,
+  1695,
+  "and you will see the structure of the community that you're working inside. So right now, we have this community called Zukash workshop, and"
+ ],
+ [
+  0,
+  1707,
+  " it's empty. It doesn't has any role. And we can create a role, and we can call it, for example, ambassador here. Ambassador. And you will s"
+ ],
+ [
+  0,
+  1719,
+  "ee that"
+ ],
+ [
+  0,
+  1720,
+  "to create something, you need to click this create button, and it will show you your new structure that you propose. Now you propose that in"
+ ],
+ [
+  0,
+  1731,
+  "side the Zukash workshop community, you have this ambassador role. And as I said, every role, everybody, it has basically two main things th"
+ ],
+ [
+  0,
+  1741,
+  "at you need to configure. The first one is how you can join it."
+ ],
+ [
+  0,
+  1746,
+  "And for to keep it simple, we can do self selection. So anybody will be able to join if they want, just to keep it simple. This is the first"
+ ],
+ [
+  0,
+  1759,
+  " setting. And the second setting is what this role can do. And let's say that our ambassadors, they can have power"
+ ],
+ [
+  0,
+  1770,
+  "to create, for example, degrees. Let's call it degrees. Why not? So our ambassador, they will just click one button to create this degree. B"
+ ],
+ [
+  0,
+  1781,
+  "ut if we want, we might add voting for this so that ambassadors need to vote to create the the decree. It's up to you how you decide. So now"
+ ],
+ [
+  0,
+  1792,
+  " we have configured those two main"
+ ],
+ [
+  0,
+  1795,
+  "main aspects of the role, and we can propose to apply it on chain. Basically, we will have this quick review that we create this ambassador "
+ ],
+ [
+  0,
+  1808,
+  "role with the self selection joint condition and that they have they they can do decrease. We confirm this, and we publish our proposal."
+ ],
+ [
+  0,
+  1821,
+  "And as soon as it's mined, this block is mined, we will be able to vote for or against this proposal. As I said, I configured this time to b"
+ ],
+ [
+  0,
+  1834,
+  "e 30% threshold and 30% turnout. So how do you get into the voting? You can get to the Zukarsh workshop community,"
+ ],
+ [
+  0,
+  1845,
+  "and you will see voting here. So it it should be right on the first page. You click this voting, and you finalize it. So why does it say fin"
+ ],
+ [
+  0,
+  1856,
+  "alize? Because you finalize the creation of the proposal. So now that the finalization of the creation has been proposed, we now have anonym"
+ ],
+ [
+  0,
+  1868,
+  "ous zero knowledge voting"
+ ],
+ [
+  0,
+  1870,
+  "for or against this proposal. So I'm not pushing people to to vote for or against. I will vote for just for the demo, but you can vote as yo"
+ ],
+ [
+  0,
+  1881,
+  "u as you feel. If we have 30% I threshold start a discussion inside of the voting for town hall. Maybe we need to discuss anonymously. Yeah?"
+ ],
+ [
+  0,
+  1893,
+  " It's working right now. Yeah?"
+ ],
+ [
+  0,
+  1895,
+  "Yeah. Yeah. It should be. Let me check when this block is mined. So here we do zero knowledge proof. And what do you prove? You prove that y"
+ ],
+ [
+  0,
+  1914,
+  "ou are a member of the Zukash workshop net state."
+ ],
+ [
+  0,
+  1920,
+  "This is a simple membership proof. Every role is actually a sparse Merkle three smart contract, and you proved that your address is there. H"
+ ],
+ [
+  0,
+  1934,
+  "ello? Hello? Yeah. This is the chat that you can basically use to discuss this proposal. Thank you, Tariq, for clarifying."
+ ],
+ [
+  0,
+  1946,
+  "So, yeah, as I said, since the the voting here is zero knowledge, you create a one time usage account. This is just created inside of the br"
+ ],
+ [
+  0,
+  1959,
+  "owser, and it's just used to send the vote. And, currently, this blockchain that we are using, it is gasless,"
+ ],
+ [
+  0,
+  1969,
+  "basically. So that's why it's sent right from your account for free. And we do have the results here. So we see that five people are four, o"
+ ],
+ [
+  0,
+  1983,
+  "ne is against. So probably our proposal will be successful because we can figure 3030%. Yeah. And while we wait, we can see the chat. Why no"
+ ],
+ [
+  0,
+  1997,
+  "t?"
+ ],
+ [
+  0,
+  1997,
+  "We have four minutes. Maybe just a quick break. I mean, not a literal break, but if you have any questions or any additional feedback, we ca"
+ ],
+ [
+  0,
+  2007,
+  "n we can chat. I have two additional question. It's linked together. One of them is with the discussion session, Can we make the discussions"
+ ],
+ [
+  0,
+  2018,
+  " anonymous too for the privacy?"
+ ],
+ [
+  0,
+  2020,
+  "And the second part is normally if I I'm against already, but I can see now before the results, result is going to win for yes. Yeah. Can we"
+ ],
+ [
+  0,
+  2030,
+  " this hidden or something like that? Because people don't want to see the results before when they're like, they was already voting, you kno"
+ ],
+ [
+  0,
+  2040,
+  "w, it can their decisions"
+ ],
+ [
+  0,
+  2042,
+  "and, it can manipulate the results. Yeah. Those are amazing ideas. So currently in this version, it's, not, implemented, but it's possible t"
+ ],
+ [
+  0,
+  2054,
+  "o do. And, it will look like this. Inside of the state builder, you will have a different check mark for, for example, hidden or not hidden "
+ ],
+ [
+  0,
+  2066,
+  "results."
+ ],
+ [
+  0,
+  2067,
+  "And I think that this is an amazing idea. I put it in my list. Discussions, like, with ZK or other way? Like, anonymous discussions, is it? "
+ ],
+ [
+  0,
+  2079,
+  "I think that's for anonymous discussions, that's a bit more tricky because to make it absolutely cryptography proof, it needs time and engin"
+ ],
+ [
+  0,
+  2091,
+  "eering."
+ ],
+ [
+  0,
+  2092,
+  "But simple hidden discussions, it's easy to do, of course. So it's it's it's maybe coming, but maybe not soon. Actually, we can share, like,"
+ ],
+ [
+  0,
+  2102,
+  " help shrink my station when we are discussing the Telegram group. For example, with Harry Potter and he's sharing his idea in discussion. A"
+ ],
+ [
+  0,
+  2113,
+  "nd it's also it can also affect people decision. Maybe they don't wanna"
+ ],
+ [
+  0,
+  2118,
+  "share their against opinion. And both of this is important. For example, when I wanna vote for now, and I saw most of people say yes. And ma"
+ ],
+ [
+  0,
+  2130,
+  "ybe I wanna be against it and I don't wanna vote against right now. Yeah. Maybe it can be choose when you are opening, like optional hidden "
+ ],
+ [
+  0,
+  2142,
+  "and also discussion parties"
+ ],
+ [
+  0,
+  2144,
+  "sometimes I think should be anonymous. I agree. I agree. It's pretty easy to see that most people are in favor of something and to be in fav"
+ ],
+ [
+  0,
+  2157,
+  "or as well. But I think that's currently, this is since the voting is anonymous, this might be easier to go against"
+ ],
+ [
+  0,
+  2167,
+  "the the the public. You know? For example, here's eight people, four, and you'll be the first one that is against. But since you're anonymou"
+ ],
+ [
+  0,
+  2178,
+  "s, it's okay. But I do agree that you will have this mental idea that you should be four as well. So we have twenty five seconds left, and w"
+ ],
+ [
+  0,
+  2189,
+  "e will finalize."
+ ],
+ [
+  0,
+  2190,
+  "Our new role will be created. And maybe while we will wait those. Okay. Fifteen seconds is okay. I just want to show you how to add the new "
+ ],
+ [
+  0,
+  2204,
+  "structures to the Zuzawa cache network state as well just for the future. So once the voting is done, you just click finalize. We see that f"
+ ],
+ [
+  0,
+  2218,
+  "ive people are for, two is against."
+ ],
+ [
+  0,
+  2221,
+  "And here, while the new structure is deployed, the roles that are affected, they will be updated. And for this update time, they have basica"
+ ],
+ [
+  0,
+  2237,
+  "lly time lock. It's time lock for applying new settings. After settings applied, then the time lock is open again."
+ ],
+ [
+  0,
+  2250,
+  "So we click finalize, and it should be should be done. Perfect. So let us see the this will this will close. And we see that once we we open"
+ ],
+ [
+  0,
+  2268,
+  " this Zocash workshop again, this community,"
+ ],
+ [
+  0,
+  2274,
+  "we see that the new structure has been created, the ambassador, and we are able to join it. And it is also maybe I should highlight here tha"
+ ],
+ [
+  0,
+  2285,
+  "t to get to the structure, there is two possibilities. The first one is when you click here on the top. The second one, it's a button on the"
+ ],
+ [
+  0,
+  2296,
+  " right top."
+ ],
+ [
+  0,
+  2297,
+  "But for me, it's easier to get to click here on the name of the community, and you will see the structure. Then you for example, you want to"
+ ],
+ [
+  0,
+  2307,
+  " join ambassador, you click on the name of the ambassador, and you click join. And, basically, this is how you evolve, how you create new DA"
+ ],
+ [
+  0,
+  2316,
+  "Os, for example, inside the DAO network state or how you update your DAO, and this is"
+ ],
+ [
+  0,
+  2322,
+  "stuff to think about. So now when you want to create a proposal, you can see that there is this old function that I configured in the state "
+ ],
+ [
+  0,
+  2332,
+  "builder, and there is this new function that we configured here voting with you. Yeah. And I hope that everyone has been invited to the Dow "
+ ],
+ [
+  0,
+  2343,
+  "Union network state as well."
+ ],
+ [
+  0,
+  2345,
+  "Let me see whether I have been. Yeah. I have been. So when you go to Dow Union, this is how we change states. You should probably have two s"
+ ],
+ [
+  0,
+  2355,
+  "tates here. Basically, two communities. The first one is the workshop community that I created right now, and there is the DAO union communi"
+ ],
+ [
+  0,
+  2364,
+  "ty, which I want to ask you to explore as well. And you can create proposals there with this function."
+ ],
+ [
+  0,
+  2371,
+  "You see you click create proposal, and you will have the create an update, but not as admin, but as residents, basically. So In discussion s"
+ ],
+ [
+  0,
+  2383,
+  "orry. In discussion part, Michel has a question, which gives us blockchain is in use now. Did you see in discussion part? Let me check. Wher"
+ ],
+ [
+  0,
+  2394,
+  "e should I look for this? In Zukash"
+ ],
+ [
+  0,
+  2397,
+  "discussion part. Zukash workshop in proper Yeah. Me check. Which just is blocked out. Yeah. We actually talked about the block with Michelle"
+ ],
+ [
+  0,
+  2409,
+  " on Friday, and it is the one that I was talking about. Basically, it's like a test net blockchain that we run currently. But as soon as we "
+ ],
+ [
+  0,
+  2421,
+  "have a good amount of users,"
+ ],
+ [
+  0,
+  2423,
+  "it becomes so called proof of democracy level one state cap blockchain, where we get validators that are elected in zero knowledge as well w"
+ ],
+ [
+  0,
+  2439,
+  "ith this system. So yeah. I hope this answers the question. Right? Yeah. I think she she can ask again."
+ ],
+ [
+  0,
+  2450,
+  "That's good. That's great. So this is the quick introduction to our state craft system, to the state builder, and to the citizen app. What I"
+ ],
+ [
+  0,
+  2463,
+  " want everyone to do, everyone who is interested at least, I want you to think about how Dow governance"
+ ],
+ [
+  0,
+  2473,
+  "joint DAO governance might look like. So maybe you have some DAOs elect representatives, and those representatives do something together. Ma"
+ ],
+ [
+  0,
+  2483,
+  "ybe you have DAOs with committees, for example, with cryptography committees. And for the people who are interested in this topic, I would a"
+ ],
+ [
+  0,
+  2493,
+  "sk you after our workshop to open State Builder."
+ ],
+ [
+  0,
+  2496,
+  "I will just share the link as well. So it's the builder dot state of the tech. Let me send it to our chat. State builder. And to explore how"
+ ],
+ [
+  0,
+  2509,
+  " those different governance models might look like. And to deploy something can we can see your presentation right now,"
+ ],
+ [
+  0,
+  2520,
+  "Konica. Yes. Yes. It's because I turned it off, and I just wanted you to see my face. Yeah. So this is my my workshop for for the most part."
+ ],
+ [
+  0,
+  2534,
+  " I'd love to hear any other feedback and questions if you have it, and we can chat. Maybe I can show you my state draft"
+ ],
+ [
+  0,
+  2545,
+  "logo here. Just a second. Here it is. So, yeah, do you have any questions? I believe someone has come as a proposal right now, but beside th"
+ ],
+ [
+  0,
+  2572,
+  "at, we'd have some questions."
+ ],
+ [
+  0,
+  2577,
+  "Perfect. I'm just with with just question is really nice up, very, very nice design, and it seems that it really has a huge amount of functi"
+ ],
+ [
+  0,
+  2587,
+  "ons. I'm just wondering, our blockchain has recently become EVM compatible. Is there any option for you to deploy this software on multiple "
+ ],
+ [
+  0,
+  2597,
+  "chains or is are you guys strictly adhering to Ethereum? So if it is EVM compatible,"
+ ],
+ [
+  0,
+  2603,
+  "potentially, it's possible to deploy. But we don't have any deployment road map right now. Alright. I would like to, like, stay in touch wit"
+ ],
+ [
+  0,
+  2615,
+  "h you directly and and consider if we could do this. Thank you. Everything is possible, of course. Thank you so much. I believe the question"
+ ],
+ [
+  0,
+  2628,
+  "s is"
+ ],
+ [
+  0,
+  2628,
+  "yeah. Yeah. They're creating a proposal, believe. And yeah. Are you creating it in the Dow workshop or in the Dow union? Union. Oh, definite"
+ ],
+ [
+  0,
+  2658,
+  "ly. Our first proposal. Yeah. Oh, here it is, I think."
+ ],
+ [
+  0,
+  2670,
+  "Amazing. Doesn't it? Yeah. The question is, does it have a smart contract as it execute something automatically or, like, is it just a we wr"
+ ],
+ [
+  0,
+  2682,
+  "ite something and then No. The these smart contracts, they don't execute automatically, but the system works like this. You have those const"
+ ],
+ [
+  0,
+  2693,
+  "raints"
+ ],
+ [
+  0,
+  2694,
+  "that we mentioned today. Constraints mean that you either have the option to do something or you don't have this option. Basically, it's jus"
+ ],
+ [
+  0,
+  2703,
+  "t the decision making enforcement rule. And if constraints allow it, then anybody can enact. For example, they can start proposal. They can "
+ ],
+ [
+  0,
+  2713,
+  "they can end proposal if it adheres to the settings that you configured in the state builder."
+ ],
+ [
+  0,
+  2719,
+  "And, basically, anybody can do this, but we don't have a bot that will do this automatically right now. Thank you so much. And maybe we can "
+ ],
+ [
+  0,
+  2734,
+  "finalize and we can see each other again at the workshop day too. And we"
+ ],
+ [
+  0,
+  2742,
+  "can explain better and we can make more experience about the proposals, etcetera. Thank you a lot and thank you everyone for participation. "
+ ],
+ [
+  0,
+  2755,
+  "At 2PM, we will continue with the Liberland president. He will present the Liberland. And thank you. Thank you so much. I was excited to to "
+ ],
+ [
+  0,
+  2767,
+  "speak. Thank you. Bye bye. Bye bye, everyone. Bye."
+ ],
+ [
   4,
   0,
   "Hello, everyone. We are continuing with the sessions afternoon sessions with Liberland's president and founder. Hello for the off-site peopl"
