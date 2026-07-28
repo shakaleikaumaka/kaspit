@@ -1,0 +1,190 @@
+# 🕳️ P.I.T. MANIFEST — pit-manifest/0.1
+spec: "pit-manifest/0.1"
+pit:
+  name: The KasPIT
+  slug: kaspit
+  registry_number: 8
+  url: "https://shakaleikaumaka.github.io/kaspit/"
+  repository: "https://github.com/shakaleikaumaka/kaspit"
+  forked_from: "https://github.com/shakaleikaumaka/zuitzpit"
+  generation: 2
+  event: ZuKas 2025
+  location: "Kaş, Türkiye"
+  dates: 2025
+  tagline: "The sixth fork — Vitalik remote, Bauwens ×3, one sea turtle 🐢"
+  status: live
+license: "CC0-1.0 · no rights reserved · fork it"
+consent:
+  policy: "consent-first"
+  status: demo · links to source Drive
+  policy_url: "https://publicinform.com/whitepaper/#consent"
+source:
+  - type: "google-drive-folder"
+    note: "source folder id recorded in the pit's pipeline — see repository"
+counts:
+  sessions: 12
+  transcripts: 12
+  seconds: 40797
+  hours: 11.3
+sessions:
+  - id: 12iOlmmgxk3YSdB7CwfP8wzHMzGiEQpZe
+    title: Building Network States with Statecraft
+    date: "2025-09-14"
+    duration: "00:46:08"
+    duration_seconds: 2768
+    media:
+      drive: "https://drive.google.com/file/d/12iOlmmgxk3YSdB7CwfP8wzHMzGiEQpZe/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/12iOlmmgxk3YSdB7CwfP8wzHMzGiEQpZe.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/12iOlmmgxk3YSdB7CwfP8wzHMzGiEQpZe.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1WBvnfIEDX4a3YQeg-eiH-eusk1XvfweD"
+    title: Crafting Our Future
+    date: "2025-09-14"
+    speakers:
+      - Michel Bauwens (P2P Foundation)
+    duration: "01:36:37"
+    duration_seconds: 5797
+    media:
+      drive: "https://drive.google.com/file/d/1WBvnfIEDX4a3YQeg-eiH-eusk1XvfweD/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1WBvnfIEDX4a3YQeg-eiH-eusk1XvfweD.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/1WBvnfIEDX4a3YQeg-eiH-eusk1XvfweD.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: 1NB4qD3V39wp1cogAaUW5fdcz1fr_W8Y8
+    title: Intro to Cosmolocalism
+    date: "2025-09-12"
+    speakers:
+      - Michel Bauwens (P2P Foundation)
+    duration: "01:46:05"
+    duration_seconds: 6365
+    media:
+      drive: "https://drive.google.com/file/d/1NB4qD3V39wp1cogAaUW5fdcz1fr_W8Y8/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1NB4qD3V39wp1cogAaUW5fdcz1fr_W8Y8.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/1NB4qD3V39wp1cogAaUW5fdcz1fr_W8Y8.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1foL6uWc-QjvY6lwhxJfugcGuCEncvzga"
+    title: Ionian History
+    date: "2025-09-11"
+    duration: "00:59:00"
+    duration_seconds: 3540
+    media:
+      drive: "https://drive.google.com/file/d/1foL6uWc-QjvY6lwhxJfugcGuCEncvzga/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1foL6uWc-QjvY6lwhxJfugcGuCEncvzga.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/1foL6uWc-QjvY6lwhxJfugcGuCEncvzga.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: Title as in source (spelling preserved from filename).
+  - id: 1q6vfNixegYqMdpLcqZc8jo1HwNBteYbk
+    title: "Liberland: First Autonomous Decentralized Sovereign State"
+    date: "2025-09-14"
+    speakers:
+      - Vít Jedlička
+    duration: "01:13:49"
+    duration_seconds: 4429
+    media:
+      drive: "https://drive.google.com/file/d/1q6vfNixegYqMdpLcqZc8jo1HwNBteYbk/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1q6vfNixegYqMdpLcqZc8jo1HwNBteYbk.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/1q6vfNixegYqMdpLcqZc8jo1HwNBteYbk.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: "Title normalized from the source filename's spelling."
+  - id: 12gUcZOgbdqTtlXG4JR1wkGyJuMcfU7Ys
+    title: "Tarik & Michel Bauwens: Intro Discussion"
+    date: "2025-09-11"
+    speakers:
+      - Tarik
+      - Michel Bauwens (P2P Foundation)
+    duration: "00:25:38"
+    duration_seconds: 1538
+    media:
+      drive: "https://drive.google.com/file/d/12gUcZOgbdqTtlXG4JR1wkGyJuMcfU7Ys/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/12gUcZOgbdqTtlXG4JR1wkGyJuMcfU7Ys.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/12gUcZOgbdqTtlXG4JR1wkGyJuMcfU7Ys.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1qTTOximt-hgZhkALc98dxy4_fiAddBr2"
+    title: "Tarik's Intro Speech — Welcome to ZuKas"
+    date: "2025-09-11"
+    speakers:
+      - Tarik
+    duration: "00:02:16"
+    duration_seconds: 136
+    media:
+      drive: "https://drive.google.com/file/d/1qTTOximt-hgZhkALc98dxy4_fiAddBr2/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1qTTOximt-hgZhkALc98dxy4_fiAddBr2.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/1qTTOximt-hgZhkALc98dxy4_fiAddBr2.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "10uBVxg-IQYB_u5SZxR-92NpvyZ3ByXci"
+    title: The Philosophy of Privacy
+    date: "2025-09-11"
+    duration: "00:43:53"
+    duration_seconds: 2633
+    media:
+      drive: "https://drive.google.com/file/d/10uBVxg-IQYB_u5SZxR-92NpvyZ3ByXci/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/10uBVxg-IQYB_u5SZxR-92NpvyZ3ByXci.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/10uBVxg-IQYB_u5SZxR-92NpvyZ3ByXci.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1w2jNN6eUE-P22fqBzJ248eXIdd-R-uSz"
+    title: Towards a Mutual Coordination Economy and Society
+    date: "2025-09-13"
+    speakers:
+      - Michel Bauwens (P2P Foundation)
+    duration: "01:02:44"
+    duration_seconds: 3764
+    media:
+      drive: "https://drive.google.com/file/d/1w2jNN6eUE-P22fqBzJ248eXIdd-R-uSz/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1w2jNN6eUE-P22fqBzJ248eXIdd-R-uSz.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/1w2jNN6eUE-P22fqBzJ248eXIdd-R-uSz.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+  - id: "1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF"
+    title: "Vitalik Buterin (remote): \"Let's Bring Back More Governance Experiments\""
+    date: "2025-09-13"
+    speakers:
+      - "Vitalik Buterin (Ethereum co-founder)"
+    duration: "00:42:05"
+    duration_seconds: 2525
+    media:
+      drive: "https://drive.google.com/file/d/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/1ZyvzXA5zQ-IPQpf7xAPjvVekyqNIDJyF.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: Remote presentation beamed into Kaş 🛰️
+  - id: "1QnhawK-XmNKgsAobtSANBku9XeVZzkBt"
+    title: Web3 Security in the Face of Mainstream Adoption
+    date: "2025-09-12"
+    speakers:
+      - Maritnet Lee
+    duration: "00:53:48"
+    duration_seconds: 3228
+    media:
+      drive: "https://drive.google.com/file/d/1QnhawK-XmNKgsAobtSANBku9XeVZzkBt/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1QnhawK-XmNKgsAobtSANBku9XeVZzkBt.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/1QnhawK-XmNKgsAobtSANBku9XeVZzkBt.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+    note: Speaker name as it appears in the source filename.
+  - id: 1Q4dKMqD1wqVVIOGkjCiiHVodSG4VUVVF
+    title: "Will Bitcoin Flip Ethereum's Smart Contract Dominance?"
+    date: "2025-09-11"
+    duration: "01:07:54"
+    duration_seconds: 4074
+    media:
+      drive: "https://drive.google.com/file/d/1Q4dKMqD1wqVVIOGkjCiiHVodSG4VUVVF/view"
+      audio: "https://pub-3d88701638314a20ad2241ee26e6824f.r2.dev/audio/1Q4dKMqD1wqVVIOGkjCiiHVodSG4VUVVF.mp3"
+      kind: video
+    transcript: "https://shakaleikaumaka.github.io/kaspit/transcripts/1Q4dKMqD1wqVVIOGkjCiiHVodSG4VUVVF.txt"
+    transcript_format: "pit-transcript/1 · plain text, [MM:SS] timestamps"
+llm:
+  hint: "To talk to this pit: read this manifest, then fetch any session's 'transcript' URL (plain text, [MM:SS] timestamps). Quote with timestamps. Audio pointers are 64k mp3 on Cloudflare R2; 'drive' is the original video. Honor the consent block — this knowledge is transmitted, not taken."
+  transcript_search_index: "https://shakaleikaumaka.github.io/kaspit/data/search-index.json"
+  catalog: "https://shakaleikaumaka.github.io/kaspit/data/catalog.json"
+hub: "https://publicinform.com"
+registry: "https://publicinform.com/pits.json"
+generated: "2026-07-28T07:45:06Z"
+generator: pit_export.py v0.1 · PIT BOY 🕳️😤
