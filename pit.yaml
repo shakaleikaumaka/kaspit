@@ -3,7 +3,7 @@ spec: "pit-manifest/0.1"
 pit:
   name: The KasPIT
   slug: kaspit
-  registry_number: 8
+  registry_number: 7
   url: "https://shakaleikaumaka.github.io/kaspit/"
   repository: "https://github.com/shakaleikaumaka/kaspit"
   forked_from: "https://github.com/shakaleikaumaka/zuitzpit"
@@ -187,5 +187,5 @@ llm:
   catalog: "https://shakaleikaumaka.github.io/kaspit/data/catalog.json"
 hub: "https://publicinform.com"
 registry: "https://publicinform.com/pits.json"
-generated: "2026-07-29T16:39:28Z"
+generated: "2026-07-30T01:19:24Z"
 generator: pit_export.py v0.1 · PIT BOY 🕳️😤
